@@ -1,0 +1,1251 @@
+order_id,order_date,customer_id,customer_name,product_name,category,region,quantity,unit_price,discount,revenue,cost,profit,payment_method
+ORD-2024001,2024-04-24,CUST-0007,Lucas Johnson,Premium Gel Pen 12-Pack,Office Supplies,South,1,24.0,0.0,24.0,9.0,15.0,Corporate Net 30
+ORD-2024002,2024-03-30,CUST-0109,Liam Johnson,MacBook Pro 16-Inch,Technology,North,1,2499.0,0.05,2374.05,1800.0,574.05,Credit Card
+ORD-2024003,2024-07-22,CUST-0140,Ethan Martin,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,2,189.0,0.1,340.2,240.0,100.2,Credit Card
+ORD-2024004,2024-06-12,CUST-0109,Liam Johnson,Neodymium Magnetic Whiteboard,Office Supplies,South,1,160.0,0.1,144.0,85.0,59.0,Credit Card
+ORD-2024005,2024-04-04,CUST-0098,Olivia Lopez,Sony WH-1000XM5 Headphones,Technology,East,2,399.0,0.1,718.2,480.0,238.2,UPI
+ORD-2024006,2024-05-07,CUST-0097,Lucas Miller,CalDigit TS4 Thunderbolt Dock,Technology,East,3,399.0,0.05,1137.15,780.0,357.15,Wire Transfer
+ORD-2024007,2024-07-15,CUST-0018,Harper Thompson,iPad Pro 12.9,Technology,East,8,1099.0,0.15,7473.2,6000.0,1473.2,Credit Card
+ORD-2024008,2025-01-24,CUST-0072,Harper Jones,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.0,149.0,92.0,57.0,Wire Transfer
+ORD-2024009,2024-03-14,CUST-0044,Sophia Thomas,Jarvis Bamboo Standing Desk,Furniture,West,1,780.0,0.25,585.0,490.0,95.0,Corporate Net 30
+ORD-2024010,2024-08-12,CUST-0084,Isabella Martinez,iPad Pro 12.9,Technology,North,3,1099.0,0.0,3297.0,2250.0,1047.0,Credit Card
+ORD-2024011,2024-08-04,CUST-0146,Grace Thomas,Premium Gel Pen 12-Pack,Office Supplies,West,1,24.0,0.15,20.4,9.0,11.4,UPI
+ORD-2024012,2024-05-26,CUST-0068,Arjun Moore,Autonomous SmartDesk Pro,Furniture,Central,2,650.0,0.1,1170.0,820.0,350.0,UPI
+ORD-2024013,2025-02-12,CUST-0093,Noah Martin,Jarvis Bamboo Standing Desk,Furniture,Central,2,780.0,0.1,1404.0,980.0,424.0,Credit Card
+ORD-2024014,2024-06-05,CUST-0041,Ava Martin,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.05,141.55,88.0,53.55,UPI
+ORD-2024015,2025-06-25,CUST-0065,Charlotte Williams,Dell XPS 15,Technology,Central,3,1899.0,0.1,5127.3,4050.0,1077.3,Wire Transfer
+ORD-2024016,2024-04-24,CUST-0076,Nora Mehta,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,1,189.0,0.1,170.1,120.0,50.1,Wire Transfer
+ORD-2024017,2025-05-27,CUST-0046,Nora Martin,Samsung Galaxy S24 Ultra,Technology,Central,2,1299.0,0.0,2598.0,1780.0,818.0,PayPal
+ORD-2024018,2025-06-27,CUST-0001,Emma Martinez,Heavy Duty Paper Shredder,Office Supplies,North,1,220.0,0.0,220.0,130.0,90.0,Wire Transfer
+ORD-2024019,2024-09-02,CUST-0015,Amelia Martinez,Steelcase Gesture Chair,Furniture,North,3,1250.0,0.1,3375.0,2460.0,915.0,Corporate Net 30
+ORD-2024020,2024-05-08,CUST-0033,Nora Iyer,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,1,149.0,0.15,126.65,88.0,38.65,UPI
+ORD-2024021,2024-08-04,CUST-0139,Isabella Iyer,Ergonomic Monitor Arm Dual,Furniture,West,10,149.0,0.05,1415.5,850.0,565.5,UPI
+ORD-2024022,2025-06-13,CUST-0116,Aditya Martin,iPad Pro 12.9,Technology,South,1,1099.0,0.0,1099.0,750.0,349.0,Corporate Net 30
+ORD-2024023,2024-08-23,CUST-0057,Evelyn Martinez,Dell XPS 15,Technology,North,1,1899.0,0.15,1614.15,1350.0,264.15,Wire Transfer
+ORD-2024024,2024-03-13,CUST-0132,Priya Jackson,Ergonomic Monitor Arm Dual,Furniture,West,1,149.0,0.0,149.0,85.0,64.0,Corporate Net 30
+ORD-2024025,2025-04-29,CUST-0063,Daniel Smith,Blue Yeti USB Microphone,Electronics Accessories,South,1,129.0,0.05,122.55,75.0,47.55,Wire Transfer
+ORD-2024026,2025-03-09,CUST-0106,Amelia Lee,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.25,223.5,184.0,39.5,Credit Card
+ORD-2024027,2024-03-03,CUST-0104,Grace White,Cable Management Rack Tray,Office Supplies,North,1,35.0,0.0,35.0,14.0,21.0,UPI
+ORD-2024028,2024-05-23,CUST-0109,Liam Johnson,Ergonomic Monitor Arm Dual,Furniture,West,1,149.0,0.15,126.65,85.0,41.65,UPI
+ORD-2024029,2024-04-10,CUST-0013,Grace Thompson,Dell XPS 15,Technology,South,1,1899.0,0.0,1899.0,1350.0,549.0,PayPal
+ORD-2024030,2025-02-14,CUST-0016,Olivia Verma,Under-Desk Filing Cabinet,Furniture,North,8,210.0,0.0,1680.0,1040.0,640.0,UPI
+ORD-2024031,2024-10-19,CUST-0109,Liam Johnson,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,1,189.0,0.2,151.2,120.0,31.2,Corporate Net 30
+ORD-2024032,2024-03-03,CUST-0081,Harper Anderson,MacBook Pro 16-Inch,Technology,Central,2,2499.0,0.15,4248.3,3600.0,648.3,Corporate Net 30
+ORD-2024033,2024-06-10,CUST-0015,Amelia Martinez,ThinkPad X1 Carbon,Technology,North,2,1650.0,0.05,3135.0,2300.0,835.0,PayPal
+ORD-2024034,2025-02-17,CUST-0031,Zoe Brown,Herman Miller Aeron Chair,Furniture,Central,1,1395.0,0.05,1325.25,920.0,405.25,Corporate Net 30
+ORD-2024035,2025-06-19,CUST-0081,Harper Anderson,Premium Gel Pen 12-Pack,Office Supplies,East,1,24.0,0.0,24.0,9.0,15.0,Wire Transfer
+ORD-2024036,2025-04-13,CUST-0081,Harper Anderson,MacBook Pro 16-Inch,Technology,West,2,2499.0,0.05,4748.1,3600.0,1148.1,Credit Card
+ORD-2024037,2024-03-16,CUST-0138,Grace Patel,Ergonomic Monitor Arm Dual,Furniture,South,5,149.0,0.15,633.25,425.0,208.25,PayPal
+ORD-2024038,2025-01-13,CUST-0073,Vikram Sharma,Acoustic Privacy Panel,Furniture,Central,3,180.0,0.05,513.0,285.0,228.0,Corporate Net 30
+ORD-2024039,2024-01-09,CUST-0142,Isabella Jackson,Ergonomic Footrest Cushion,Office Supplies,North,5,49.0,0.0,245.0,110.0,135.0,Credit Card
+ORD-2024040,2024-04-19,CUST-0142,Isabella Jackson,Ergonomic Monitor Arm Dual,Furniture,East,2,149.0,0.1,268.2,170.0,98.2,PayPal
+ORD-2024041,2024-09-27,CUST-0130,Benjamin Wilson,Logitech Brio 4K Webcam,Electronics Accessories,North,1,199.0,0.0,199.0,115.0,84.0,Wire Transfer
+ORD-2024042,2024-02-15,CUST-0001,Emma Martinez,Cable Management Rack Tray,Office Supplies,South,2,35.0,0.0,70.0,28.0,42.0,UPI
+ORD-2024043,2025-03-13,CUST-0144,Sophia Lopez,Dell XPS 15,Technology,North,5,1899.0,0.05,9020.25,6750.0,2270.25,PayPal
+ORD-2024044,2024-02-06,CUST-0095,Liam Gonzalez,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.0,210.0,130.0,80.0,Credit Card
+ORD-2024045,2025-01-01,CUST-0054,Mia Mehta,Steelcase Gesture Chair,Furniture,East,3,1250.0,0.15,3187.5,2460.0,727.5,UPI
+ORD-2024046,2024-06-07,CUST-0061,Alexander Anderson,Jarvis Bamboo Standing Desk,Furniture,West,1,780.0,0.1,702.0,490.0,212.0,Wire Transfer
+ORD-2024047,2025-02-25,CUST-0064,Emma White,Premium Gel Pen 12-Pack,Office Supplies,North,1,24.0,0.0,24.0,9.0,15.0,UPI
+ORD-2024048,2024-08-15,CUST-0052,Vikram Sharma,Logitech Brio 4K Webcam,Electronics Accessories,East,3,199.0,0.15,507.45,345.0,162.45,PayPal
+ORD-2024049,2024-01-25,CUST-0050,Amelia Thompson,Logitech Brio 4K Webcam,Electronics Accessories,East,4,199.0,0.2,636.8,460.0,176.8,Wire Transfer
+ORD-2024050,2024-12-25,CUST-0131,Rohan Lopez,Elgato Stream Deck MK.2,Electronics Accessories,Central,1,149.0,0.0,149.0,92.0,57.0,Wire Transfer
+ORD-2024051,2024-07-01,CUST-0149,Harper Iyer,Moleskine Smart Notebook Set,Office Supplies,North,2,45.0,0.0,90.0,44.0,46.0,Wire Transfer
+ORD-2024052,2025-03-22,CUST-0131,Rohan Lopez,Logitech MX Master 3S,Technology,Central,1,99.0,0.0,99.0,55.0,44.0,UPI
+ORD-2024053,2024-01-02,CUST-0134,Mia Jones,LED Desk Task Light,Furniture,West,1,79.0,0.05,75.05,38.0,37.05,Wire Transfer
+ORD-2024054,2024-11-17,CUST-0032,Rohan White,Thermal Label Printer,Office Supplies,East,2,175.0,0.0,350.0,196.0,154.0,Wire Transfer
+ORD-2024055,2024-05-10,CUST-0050,Amelia Thompson,Elgato Stream Deck MK.2,Electronics Accessories,West,2,149.0,0.15,253.3,184.0,69.3,Corporate Net 30
+ORD-2024056,2024-11-04,CUST-0104,Grace White,Samsung Galaxy S24 Ultra,Technology,East,1,1299.0,0.1,1169.1,890.0,279.1,Corporate Net 30
+ORD-2024057,2024-11-25,CUST-0120,Evelyn Davis,Blue Yeti USB Microphone,Electronics Accessories,South,2,129.0,0.1,232.2,150.0,82.2,PayPal
+ORD-2024058,2024-03-27,CUST-0073,Vikram Sharma,Moleskine Smart Notebook Set,Office Supplies,South,2,45.0,0.0,90.0,44.0,46.0,PayPal
+ORD-2024059,2024-05-30,CUST-0007,Lucas Johnson,iPad Pro 12.9,Technology,West,2,1099.0,0.1,1978.2,1500.0,478.2,UPI
+ORD-2024060,2025-02-28,CUST-0148,Benjamin Wilson,Under-Desk Filing Cabinet,Furniture,West,1,210.0,0.0,210.0,130.0,80.0,Credit Card
+ORD-2024061,2024-04-19,CUST-0109,Liam Johnson,Jarvis Bamboo Standing Desk,Furniture,Central,2,780.0,0.05,1482.0,980.0,502.0,Credit Card
+ORD-2024062,2025-04-12,CUST-0035,Aarav Patel,Elgato Stream Deck MK.2,Electronics Accessories,Central,8,149.0,0.05,1132.4,736.0,396.4,UPI
+ORD-2024063,2025-05-31,CUST-0110,Olivia Jackson,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,2,189.0,0.1,340.2,240.0,100.2,Wire Transfer
+ORD-2024064,2025-06-17,CUST-0125,Ethan Rodriguez,Ergonomic Monitor Arm Dual,Furniture,West,1,149.0,0.0,149.0,85.0,64.0,Wire Transfer
+ORD-2024065,2024-12-09,CUST-0082,Priya Moore,ThinkPad X1 Carbon,Technology,South,1,1650.0,0.05,1567.5,1150.0,417.5,PayPal
+ORD-2024066,2024-03-06,CUST-0107,Noah Wilson,Logitech Brio 4K Webcam,Electronics Accessories,Central,2,199.0,0.0,398.0,230.0,168.0,UPI
+ORD-2024067,2025-02-02,CUST-0150,Olivia Mehta,Keychron Q1 Pro Keyboard,Technology,West,2,199.0,0.2,318.4,240.0,78.4,Wire Transfer
+ORD-2024068,2025-02-03,CUST-0108,Noah Martin,Acoustic Privacy Panel,Furniture,South,1,180.0,0.0,180.0,95.0,85.0,UPI
+ORD-2024069,2024-12-10,CUST-0104,Grace White,Acoustic Privacy Panel,Furniture,South,8,180.0,0.05,1368.0,760.0,608.0,UPI
+ORD-2024070,2024-01-28,CUST-0022,Benjamin Moore,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,1,189.0,0.0,189.0,120.0,69.0,Wire Transfer
+ORD-2024071,2024-08-04,CUST-0117,Ava Jackson,Neodymium Magnetic Whiteboard,Office Supplies,West,1,160.0,0.2,128.0,85.0,43.0,UPI
+ORD-2024072,2024-09-15,CUST-0021,Daniel Johnson,Anker 100W GaN Fast Charger,Electronics Accessories,Central,1,65.0,0.2,52.0,32.0,20.0,PayPal
+ORD-2024073,2024-03-11,CUST-0011,Rohan Moore,iPad Pro 12.9,Technology,South,3,1099.0,0.05,3132.15,2250.0,882.15,PayPal
+ORD-2024074,2024-05-09,CUST-0122,Daniel Thomas,Keychron Q1 Pro Keyboard,Technology,South,2,199.0,0.0,398.0,240.0,158.0,Wire Transfer
+ORD-2024075,2024-06-20,CUST-0030,Benjamin Davis,Ergonomic Monitor Arm Dual,Furniture,North,2,149.0,0.15,253.3,170.0,83.3,Corporate Net 30
+ORD-2024076,2025-01-19,CUST-0102,Emma White,Steelcase Gesture Chair,Furniture,Central,2,1250.0,0.05,2375.0,1640.0,735.0,Credit Card
+ORD-2024077,2024-11-04,CUST-0031,Zoe Brown,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.0,399.0,240.0,159.0,Corporate Net 30
+ORD-2024078,2024-12-15,CUST-0004,Arjun Thompson,Blue Yeti USB Microphone,Electronics Accessories,North,1,129.0,0.0,129.0,75.0,54.0,UPI
+ORD-2024079,2024-06-05,CUST-0112,Mia Verma,Ergonomic Monitor Arm Dual,Furniture,Central,3,149.0,0.05,424.65,255.0,169.65,UPI
+ORD-2024080,2025-04-21,CUST-0112,Mia Verma,Neodymium Magnetic Whiteboard,Office Supplies,South,3,160.0,0.0,480.0,255.0,225.0,UPI
+ORD-2024081,2024-09-06,CUST-0119,Amelia Davis,Logitech Brio 4K Webcam,Electronics Accessories,North,2,199.0,0.0,398.0,230.0,168.0,UPI
+ORD-2024082,2024-08-05,CUST-0091,Chloe Verma,Neodymium Magnetic Whiteboard,Office Supplies,East,4,160.0,0.1,576.0,340.0,236.0,Wire Transfer
+ORD-2024083,2024-01-11,CUST-0133,Charlotte Verma,Steelcase Gesture Chair,Furniture,South,3,1250.0,0.0,3750.0,2460.0,1290.0,PayPal
+ORD-2024084,2025-05-02,CUST-0126,Emma Rodriguez,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.0,65.0,32.0,33.0,PayPal
+ORD-2024085,2024-11-09,CUST-0149,Harper Iyer,Heavy Duty Paper Shredder,Office Supplies,Central,2,220.0,0.0,440.0,260.0,180.0,Corporate Net 30
+ORD-2024086,2024-12-04,CUST-0091,Chloe Verma,Logitech Brio 4K Webcam,Electronics Accessories,East,1,199.0,0.0,199.0,115.0,84.0,PayPal
+ORD-2024087,2024-11-19,CUST-0031,Zoe Brown,Autonomous SmartDesk Pro,Furniture,South,3,650.0,0.0,1950.0,1230.0,720.0,Corporate Net 30
+ORD-2024088,2025-06-21,CUST-0073,Vikram Sharma,iPad Pro 12.9,Technology,East,1,1099.0,0.0,1099.0,750.0,349.0,Credit Card
+ORD-2024089,2025-06-30,CUST-0033,Nora Iyer,Moleskine Smart Notebook Set,Office Supplies,North,2,45.0,0.05,85.5,44.0,41.5,PayPal
+ORD-2024090,2025-05-17,CUST-0027,Mia Iyer,Keychron Q1 Pro Keyboard,Technology,East,2,199.0,0.0,398.0,240.0,158.0,PayPal
+ORD-2024091,2024-02-22,CUST-0065,Charlotte Williams,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.0,65.0,32.0,33.0,Credit Card
+ORD-2024092,2024-06-04,CUST-0039,Kavita Hernandez,Moleskine Smart Notebook Set,Office Supplies,South,1,45.0,0.1,40.5,22.0,18.5,Corporate Net 30
+ORD-2024093,2024-08-19,CUST-0134,Mia Jones,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.05,122.55,75.0,47.55,UPI
+ORD-2024094,2024-11-08,CUST-0146,Grace Thomas,Keychron Q1 Pro Keyboard,Technology,North,5,199.0,0.0,995.0,600.0,395.0,PayPal
+ORD-2024095,2024-09-27,CUST-0021,Daniel Johnson,Autonomous SmartDesk Pro,Furniture,South,2,650.0,0.0,1300.0,820.0,480.0,UPI
+ORD-2024096,2025-04-06,CUST-0121,Siddharth Hernandez,Moleskine Smart Notebook Set,Office Supplies,South,1,45.0,0.0,45.0,22.0,23.0,UPI
+ORD-2024097,2024-03-13,CUST-0060,Benjamin Williams,Cable Management Rack Tray,Office Supplies,Central,2,35.0,0.2,56.0,28.0,28.0,UPI
+ORD-2024098,2024-04-27,CUST-0140,Ethan Martin,Jarvis Bamboo Standing Desk,Furniture,East,3,780.0,0.0,2340.0,1470.0,870.0,PayPal
+ORD-2024099,2024-11-10,CUST-0146,Grace Thomas,Heavy Duty Paper Shredder,Office Supplies,North,2,220.0,0.0,440.0,260.0,180.0,UPI
+ORD-2024100,2024-10-05,CUST-0129,Kavita Jones,Blue Yeti USB Microphone,Electronics Accessories,North,2,129.0,0.15,219.3,150.0,69.3,Wire Transfer
+ORD-2024101,2024-09-13,CUST-0007,Lucas Johnson,iPad Pro 12.9,Technology,Central,2,1099.0,0.0,2198.0,1500.0,698.0,Wire Transfer
+ORD-2024102,2024-02-11,CUST-0045,Charlotte Gonzalez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,4,149.0,0.0,596.0,352.0,244.0,Corporate Net 30
+ORD-2024103,2025-03-22,CUST-0126,Emma Rodriguez,Dell 4K UltraSharp 27-Inch,Technology,East,1,620.0,0.0,620.0,410.0,210.0,Credit Card
+ORD-2024104,2024-06-13,CUST-0085,Harper Moore,Elgato Stream Deck MK.2,Electronics Accessories,West,1,149.0,0.2,119.2,92.0,27.2,Corporate Net 30
+ORD-2024105,2024-02-07,CUST-0117,Ava Jackson,Sony WH-1000XM5 Headphones,Technology,East,1,399.0,0.2,319.2,240.0,79.2,UPI
+ORD-2024106,2025-06-10,CUST-0001,Emma Martinez,Blue Yeti USB Microphone,Electronics Accessories,North,1,129.0,0.0,129.0,75.0,54.0,UPI
+ORD-2024107,2025-03-28,CUST-0014,Amelia Mehta,Ergonomic Monitor Arm Dual,Furniture,Central,1,149.0,0.0,149.0,85.0,64.0,UPI
+ORD-2024108,2024-05-04,CUST-0008,Mia Wilson,Jarvis Bamboo Standing Desk,Furniture,East,2,780.0,0.05,1482.0,980.0,502.0,Credit Card
+ORD-2024109,2024-08-18,CUST-0030,Benjamin Davis,Anker 100W GaN Fast Charger,Electronics Accessories,South,2,65.0,0.1,117.0,64.0,53.0,Corporate Net 30
+ORD-2024110,2024-10-06,CUST-0107,Noah Wilson,Blue Yeti USB Microphone,Electronics Accessories,South,2,129.0,0.0,258.0,150.0,108.0,PayPal
+ORD-2024111,2025-06-04,CUST-0035,Aarav Patel,Samsung Galaxy S24 Ultra,Technology,West,1,1299.0,0.1,1169.1,890.0,279.1,Wire Transfer
+ORD-2024112,2024-01-03,CUST-0073,Vikram Sharma,Cable Management Rack Tray,Office Supplies,Central,2,35.0,0.05,66.5,28.0,38.5,PayPal
+ORD-2024113,2025-04-02,CUST-0138,Grace Patel,Logitech Brio 4K Webcam,Electronics Accessories,East,2,199.0,0.05,378.1,230.0,148.1,UPI
+ORD-2024114,2024-11-25,CUST-0049,Daniel Hernandez,Under-Desk Filing Cabinet,Furniture,South,4,210.0,0.0,840.0,520.0,320.0,Wire Transfer
+ORD-2024115,2025-04-29,CUST-0098,Olivia Lopez,Elgato Stream Deck MK.2,Electronics Accessories,South,2,149.0,0.0,298.0,184.0,114.0,Corporate Net 30
+ORD-2024116,2024-12-05,CUST-0026,Mia Patel,Anker 100W GaN Fast Charger,Electronics Accessories,Central,4,65.0,0.0,260.0,128.0,132.0,PayPal
+ORD-2024117,2025-02-23,CUST-0040,Rohan Mehta,Dell 4K UltraSharp 27-Inch,Technology,East,1,620.0,0.05,589.0,410.0,179.0,Credit Card
+ORD-2024118,2024-12-02,CUST-0137,Evelyn White,Logitech Brio 4K Webcam,Electronics Accessories,West,4,199.0,0.0,796.0,460.0,336.0,Credit Card
+ORD-2024119,2024-08-28,CUST-0074,Isabella Thompson,Steelcase Gesture Chair,Furniture,West,8,1250.0,0.1,9000.0,6560.0,2440.0,Credit Card
+ORD-2024120,2025-03-30,CUST-0043,Aditya Martinez,Moleskine Smart Notebook Set,Office Supplies,North,1,45.0,0.0,45.0,22.0,23.0,Wire Transfer
+ORD-2024121,2025-01-18,CUST-0111,Harper Martin,Autonomous SmartDesk Pro,Furniture,Central,1,650.0,0.05,617.5,410.0,207.5,PayPal
+ORD-2024122,2024-06-23,CUST-0045,Charlotte Gonzalez,Keychron Q1 Pro Keyboard,Technology,West,2,199.0,0.0,398.0,240.0,158.0,Corporate Net 30
+ORD-2024123,2024-05-26,CUST-0060,Benjamin Williams,Elgato Stream Deck MK.2,Electronics Accessories,East,2,149.0,0.05,283.1,184.0,99.1,UPI
+ORD-2024124,2024-10-21,CUST-0140,Ethan Martin,Steelcase Gesture Chair,Furniture,West,5,1250.0,0.25,4687.5,4100.0,587.5,Wire Transfer
+ORD-2024125,2025-03-10,CUST-0065,Charlotte Williams,Logitech Brio 4K Webcam,Electronics Accessories,South,10,199.0,0.15,1691.5,1150.0,541.5,Credit Card
+ORD-2024126,2024-08-30,CUST-0098,Olivia Lopez,Thermal Label Printer,Office Supplies,East,10,175.0,0.0,1750.0,980.0,770.0,UPI
+ORD-2024127,2024-10-08,CUST-0003,Mia Miller,Keychron Q1 Pro Keyboard,Technology,West,3,199.0,0.15,507.45,360.0,147.45,PayPal
+ORD-2024128,2024-12-26,CUST-0057,Evelyn Martinez,Ergonomic Monitor Arm Dual,Furniture,South,2,149.0,0.15,253.3,170.0,83.3,Credit Card
+ORD-2024129,2024-11-12,CUST-0113,Sophia Sharma,Keychron Q1 Pro Keyboard,Technology,East,3,199.0,0.0,597.0,360.0,237.0,Wire Transfer
+ORD-2024130,2024-11-30,CUST-0107,Noah Wilson,Autonomous SmartDesk Pro,Furniture,South,3,650.0,0.15,1657.5,1230.0,427.5,Wire Transfer
+ORD-2024131,2025-06-27,CUST-0129,Kavita Jones,Cable Management Rack Tray,Office Supplies,South,1,35.0,0.1,31.5,14.0,17.5,UPI
+ORD-2024132,2024-10-29,CUST-0087,Priya Hernandez,Dell 4K UltraSharp 27-Inch,Technology,North,1,620.0,0.2,496.0,410.0,86.0,UPI
+ORD-2024133,2025-01-09,CUST-0024,Rohan Rodriguez,Anker 100W GaN Fast Charger,Electronics Accessories,East,2,65.0,0.0,130.0,64.0,66.0,Wire Transfer
+ORD-2024134,2025-01-25,CUST-0096,Alexander Gonzalez,iPad Pro 12.9,Technology,West,1,1099.0,0.15,934.15,750.0,184.15,Corporate Net 30
+ORD-2024135,2024-12-01,CUST-0057,Evelyn Martinez,Dell 4K UltraSharp 27-Inch,Technology,East,2,620.0,0.0,1240.0,820.0,420.0,Credit Card
+ORD-2024136,2024-02-08,CUST-0078,Grace Johnson,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.05,61.75,32.0,29.75,UPI
+ORD-2024137,2025-04-09,CUST-0095,Liam Gonzalez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,4,149.0,0.05,566.2,352.0,214.2,UPI
+ORD-2024138,2025-02-21,CUST-0072,Harper Jones,Sony WH-1000XM5 Headphones,Technology,South,1,399.0,0.2,319.2,240.0,79.2,Wire Transfer
+ORD-2024139,2024-04-11,CUST-0095,Liam Gonzalez,Moleskine Smart Notebook Set,Office Supplies,West,1,45.0,0.2,36.0,22.0,14.0,UPI
+ORD-2024140,2024-04-03,CUST-0055,Daniel Verma,MacBook Pro 16-Inch,Technology,East,1,2499.0,0.0,2499.0,1800.0,699.0,Corporate Net 30
+ORD-2024141,2024-07-29,CUST-0018,Harper Thompson,Autonomous SmartDesk Pro,Furniture,South,1,650.0,0.0,650.0,410.0,240.0,Corporate Net 30
+ORD-2024142,2024-01-03,CUST-0071,Noah Jones,Jarvis Bamboo Standing Desk,Furniture,Central,1,780.0,0.0,780.0,490.0,290.0,Credit Card
+ORD-2024143,2024-05-14,CUST-0004,Arjun Thompson,Cable Management Rack Tray,Office Supplies,South,2,35.0,0.0,70.0,28.0,42.0,Wire Transfer
+ORD-2024144,2024-02-23,CUST-0033,Nora Iyer,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,3,149.0,0.0,447.0,264.0,183.0,Wire Transfer
+ORD-2024145,2025-06-09,CUST-0028,Arjun Jackson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,5,149.0,0.0,745.0,440.0,305.0,Corporate Net 30
+ORD-2024146,2024-11-04,CUST-0118,Chloe Davis,MacBook Pro 16-Inch,Technology,West,3,2499.0,0.0,7497.0,5400.0,2097.0,Credit Card
+ORD-2024147,2025-05-17,CUST-0114,Aarav Brown,Dell XPS 15,Technology,East,2,1899.0,0.0,3798.0,2700.0,1098.0,Wire Transfer
+ORD-2024148,2024-11-28,CUST-0098,Olivia Lopez,Heavy Duty Paper Shredder,Office Supplies,Central,2,220.0,0.0,440.0,260.0,180.0,Credit Card
+ORD-2024149,2024-08-08,CUST-0111,Harper Martin,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,1,189.0,0.0,189.0,120.0,69.0,UPI
+ORD-2024150,2024-04-07,CUST-0081,Harper Anderson,Logitech Brio 4K Webcam,Electronics Accessories,East,1,199.0,0.0,199.0,115.0,84.0,UPI
+ORD-2024151,2024-03-09,CUST-0024,Rohan Rodriguez,Dell XPS 15,Technology,West,1,1899.0,0.1,1709.1,1350.0,359.1,PayPal
+ORD-2024152,2024-03-02,CUST-0144,Sophia Lopez,Ergonomic Footrest Cushion,Office Supplies,North,1,49.0,0.15,41.65,22.0,19.65,UPI
+ORD-2024153,2024-02-22,CUST-0074,Isabella Thompson,Neodymium Magnetic Whiteboard,Office Supplies,North,2,160.0,0.0,320.0,170.0,150.0,UPI
+ORD-2024154,2024-08-17,CUST-0028,Arjun Jackson,Cable Management Rack Tray,Office Supplies,Central,1,35.0,0.1,31.5,14.0,17.5,Corporate Net 30
+ORD-2024155,2024-08-19,CUST-0110,Olivia Jackson,Keychron Q1 Pro Keyboard,Technology,East,1,199.0,0.0,199.0,120.0,79.0,Wire Transfer
+ORD-2024156,2024-12-13,CUST-0090,Grace Martin,ThinkPad X1 Carbon,Technology,South,2,1650.0,0.0,3300.0,2300.0,1000.0,PayPal
+ORD-2024157,2024-02-01,CUST-0024,Rohan Rodriguez,Under-Desk Filing Cabinet,Furniture,West,2,210.0,0.0,420.0,260.0,160.0,Wire Transfer
+ORD-2024158,2024-11-28,CUST-0146,Grace Thomas,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.05,2374.05,1800.0,574.05,Credit Card
+ORD-2024159,2024-10-05,CUST-0114,Aarav Brown,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.0,129.0,75.0,54.0,Corporate Net 30
+ORD-2024160,2024-04-26,CUST-0089,Liam Moore,Anker 100W GaN Fast Charger,Electronics Accessories,East,2,65.0,0.05,123.5,64.0,59.5,Corporate Net 30
+ORD-2024161,2024-11-11,CUST-0012,Rohan Davis,Under-Desk Filing Cabinet,Furniture,Central,1,210.0,0.0,210.0,130.0,80.0,PayPal
+ORD-2024162,2024-05-20,CUST-0066,Ava Lopez,Neodymium Magnetic Whiteboard,Office Supplies,North,1,160.0,0.1,144.0,85.0,59.0,PayPal
+ORD-2024163,2024-05-12,CUST-0098,Olivia Lopez,LED Desk Task Light,Furniture,North,1,79.0,0.1,71.1,38.0,33.1,UPI
+ORD-2024164,2024-01-20,CUST-0118,Chloe Davis,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.0,399.0,240.0,159.0,UPI
+ORD-2024165,2024-10-23,CUST-0030,Benjamin Davis,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.2,52.0,32.0,20.0,UPI
+ORD-2024166,2025-01-05,CUST-0023,Benjamin Martin,Anker 100W GaN Fast Charger,Electronics Accessories,South,1,65.0,0.0,65.0,32.0,33.0,Credit Card
+ORD-2024167,2025-02-09,CUST-0080,Sophia Smith,Premium Gel Pen 12-Pack,Office Supplies,East,3,24.0,0.0,72.0,27.0,45.0,Credit Card
+ORD-2024168,2025-06-27,CUST-0131,Rohan Lopez,LED Desk Task Light,Furniture,East,3,79.0,0.1,213.3,114.0,99.3,PayPal
+ORD-2024169,2024-08-29,CUST-0027,Mia Iyer,Ergonomic Monitor Arm Dual,Furniture,South,1,149.0,0.0,149.0,85.0,64.0,Credit Card
+ORD-2024170,2024-06-30,CUST-0127,Evelyn Lee,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,Central,1,149.0,0.15,126.65,88.0,38.65,Corporate Net 30
+ORD-2024171,2024-11-26,CUST-0081,Harper Anderson,Acoustic Privacy Panel,Furniture,North,2,180.0,0.05,342.0,190.0,152.0,Wire Transfer
+ORD-2024172,2024-02-27,CUST-0091,Chloe Verma,Samsung Galaxy S24 Ultra,Technology,West,2,1299.0,0.0,2598.0,1780.0,818.0,Wire Transfer
+ORD-2024173,2024-03-19,CUST-0024,Rohan Rodriguez,Blue Yeti USB Microphone,Electronics Accessories,Central,2,129.0,0.1,232.2,150.0,82.2,Credit Card
+ORD-2024174,2025-04-05,CUST-0147,Rohan Verma,LED Desk Task Light,Furniture,Central,2,79.0,0.0,158.0,76.0,82.0,Credit Card
+ORD-2024175,2025-04-06,CUST-0027,Mia Iyer,Ergonomic Footrest Cushion,Office Supplies,North,2,49.0,0.0,98.0,44.0,54.0,PayPal
+ORD-2024176,2025-03-24,CUST-0113,Sophia Sharma,LED Desk Task Light,Furniture,East,4,79.0,0.0,316.0,152.0,164.0,Wire Transfer
+ORD-2024177,2024-02-23,CUST-0086,Sophia Williams,Sony WH-1000XM5 Headphones,Technology,North,2,399.0,0.0,798.0,480.0,318.0,Wire Transfer
+ORD-2024178,2024-06-02,CUST-0086,Sophia Williams,Keychron Q1 Pro Keyboard,Technology,South,4,199.0,0.0,796.0,480.0,316.0,UPI
+ORD-2024179,2024-05-12,CUST-0022,Benjamin Moore,Thermal Label Printer,Office Supplies,West,2,175.0,0.0,350.0,196.0,154.0,PayPal
+ORD-2024180,2025-06-23,CUST-0024,Rohan Rodriguez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,1,149.0,0.0,149.0,88.0,61.0,PayPal
+ORD-2024181,2024-12-15,CUST-0125,Ethan Rodriguez,Autonomous SmartDesk Pro,Furniture,South,1,650.0,0.0,650.0,410.0,240.0,Credit Card
+ORD-2024182,2025-06-03,CUST-0139,Isabella Iyer,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.0,399.0,240.0,159.0,PayPal
+ORD-2024183,2024-07-04,CUST-0043,Aditya Martinez,Anker 100W GaN Fast Charger,Electronics Accessories,West,1,65.0,0.1,58.5,32.0,26.5,UPI
+ORD-2024184,2024-10-18,CUST-0115,Aditya Williams,Autonomous SmartDesk Pro,Furniture,East,5,650.0,0.1,2925.0,2050.0,875.0,PayPal
+ORD-2024185,2025-01-11,CUST-0147,Rohan Verma,Blue Yeti USB Microphone,Electronics Accessories,East,3,129.0,0.05,367.65,225.0,142.65,UPI
+ORD-2024186,2024-06-14,CUST-0052,Vikram Sharma,Ergonomic Monitor Arm Dual,Furniture,North,2,149.0,0.15,253.3,170.0,83.3,Corporate Net 30
+ORD-2024187,2024-04-15,CUST-0133,Charlotte Verma,Samsung Galaxy S24 Ultra,Technology,North,3,1299.0,0.0,3897.0,2670.0,1227.0,Corporate Net 30
+ORD-2024188,2024-05-30,CUST-0112,Mia Verma,iPad Pro 12.9,Technology,West,4,1099.0,0.2,3516.8,3000.0,516.8,UPI
+ORD-2024189,2024-02-24,CUST-0102,Emma White,Premium Gel Pen 12-Pack,Office Supplies,West,10,24.0,0.0,240.0,90.0,150.0,Credit Card
+ORD-2024190,2024-11-22,CUST-0026,Mia Patel,Cable Management Rack Tray,Office Supplies,South,1,35.0,0.0,35.0,14.0,21.0,UPI
+ORD-2024191,2024-05-22,CUST-0121,Siddharth Hernandez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,4,149.0,0.0,596.0,352.0,244.0,PayPal
+ORD-2024192,2024-06-02,CUST-0141,Ava Thompson,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.0,65.0,32.0,33.0,PayPal
+ORD-2024193,2025-03-05,CUST-0118,Chloe Davis,Dell XPS 15,Technology,West,2,1899.0,0.0,3798.0,2700.0,1098.0,Corporate Net 30
+ORD-2024194,2024-09-04,CUST-0037,Ava Moore,Heavy Duty Paper Shredder,Office Supplies,North,2,220.0,0.0,440.0,260.0,180.0,UPI
+ORD-2024195,2024-07-10,CUST-0022,Benjamin Moore,Moleskine Smart Notebook Set,Office Supplies,Central,2,45.0,0.1,81.0,44.0,37.0,Corporate Net 30
+ORD-2024196,2024-01-21,CUST-0100,Aarav Johnson,Anker 100W GaN Fast Charger,Electronics Accessories,West,8,65.0,0.0,520.0,256.0,264.0,Credit Card
+ORD-2024197,2024-12-31,CUST-0018,Harper Thompson,Premium Gel Pen 12-Pack,Office Supplies,North,3,24.0,0.1,64.8,27.0,37.8,Wire Transfer
+ORD-2024198,2024-05-16,CUST-0012,Rohan Davis,Thermal Label Printer,Office Supplies,East,3,175.0,0.0,525.0,294.0,231.0,UPI
+ORD-2024199,2025-05-05,CUST-0047,Emma Moore,Steelcase Gesture Chair,Furniture,West,1,1250.0,0.0,1250.0,820.0,430.0,PayPal
+ORD-2024200,2024-02-12,CUST-0081,Harper Anderson,Thermal Label Printer,Office Supplies,West,8,175.0,0.05,1330.0,784.0,546.0,Wire Transfer
+ORD-2024201,2024-02-07,CUST-0049,Daniel Hernandez,Neodymium Magnetic Whiteboard,Office Supplies,North,4,160.0,0.0,640.0,340.0,300.0,Credit Card
+ORD-2024202,2025-01-11,CUST-0112,Mia Verma,Elgato Stream Deck MK.2,Electronics Accessories,West,4,149.0,0.0,596.0,368.0,228.0,PayPal
+ORD-2024203,2025-05-23,CUST-0128,Priya Garcia,Cable Management Rack Tray,Office Supplies,Central,1,35.0,0.0,35.0,14.0,21.0,UPI
+ORD-2024204,2024-03-21,CUST-0111,Harper Martin,Ergonomic Monitor Arm Dual,Furniture,East,1,149.0,0.0,149.0,85.0,64.0,Wire Transfer
+ORD-2024205,2024-11-09,CUST-0115,Aditya Williams,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,1,189.0,0.0,189.0,120.0,69.0,Wire Transfer
+ORD-2024206,2025-03-21,CUST-0071,Noah Jones,Dell XPS 15,Technology,West,1,1899.0,0.1,1709.1,1350.0,359.1,PayPal
+ORD-2024207,2024-02-01,CUST-0037,Ava Moore,Anker 100W GaN Fast Charger,Electronics Accessories,South,1,65.0,0.1,58.5,32.0,26.5,Wire Transfer
+ORD-2024208,2025-01-05,CUST-0099,Priya Brown,Keychron Q1 Pro Keyboard,Technology,South,2,199.0,0.2,318.4,240.0,78.4,Wire Transfer
+ORD-2024209,2025-03-30,CUST-0020,Aarav Jackson,LED Desk Task Light,Furniture,West,1,79.0,0.0,79.0,38.0,41.0,Credit Card
+ORD-2024210,2024-01-27,CUST-0048,Benjamin Iyer,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,4,149.0,0.0,596.0,352.0,244.0,Wire Transfer
+ORD-2024211,2025-04-01,CUST-0055,Daniel Verma,Ergonomic Footrest Cushion,Office Supplies,West,1,49.0,0.0,49.0,22.0,27.0,Credit Card
+ORD-2024212,2025-04-07,CUST-0045,Charlotte Gonzalez,Anker 100W GaN Fast Charger,Electronics Accessories,East,2,65.0,0.1,117.0,64.0,53.0,Corporate Net 30
+ORD-2024213,2024-10-24,CUST-0077,Lucas Gonzalez,Jarvis Bamboo Standing Desk,Furniture,East,2,780.0,0.0,1560.0,980.0,580.0,PayPal
+ORD-2024214,2024-05-22,CUST-0061,Alexander Anderson,Anker 100W GaN Fast Charger,Electronics Accessories,East,2,65.0,0.0,130.0,64.0,66.0,Corporate Net 30
+ORD-2024215,2024-05-12,CUST-0023,Benjamin Martin,Samsung Galaxy S24 Ultra,Technology,West,10,1299.0,0.1,11691.0,8900.0,2791.0,Corporate Net 30
+ORD-2024216,2025-02-24,CUST-0105,Kavita Brown,ThinkPad X1 Carbon,Technology,East,2,1650.0,0.0,3300.0,2300.0,1000.0,Corporate Net 30
+ORD-2024217,2024-12-18,CUST-0033,Nora Iyer,Jarvis Bamboo Standing Desk,Furniture,West,2,780.0,0.15,1326.0,980.0,346.0,Credit Card
+ORD-2024218,2025-06-14,CUST-0040,Rohan Mehta,Premium Gel Pen 12-Pack,Office Supplies,South,1,24.0,0.1,21.6,9.0,12.6,Wire Transfer
+ORD-2024219,2025-06-15,CUST-0073,Vikram Sharma,Samsung Galaxy S24 Ultra,Technology,South,2,1299.0,0.05,2468.1,1780.0,688.1,PayPal
+ORD-2024220,2024-11-06,CUST-0137,Evelyn White,CalDigit TS4 Thunderbolt Dock,Technology,South,2,399.0,0.05,758.1,520.0,238.1,PayPal
+ORD-2024221,2024-12-11,CUST-0145,Ava Sharma,MacBook Pro 16-Inch,Technology,North,1,2499.0,0.05,2374.05,1800.0,574.05,Corporate Net 30
+ORD-2024222,2024-09-28,CUST-0054,Mia Mehta,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,2,149.0,0.05,283.1,176.0,107.1,Wire Transfer
+ORD-2024223,2024-11-05,CUST-0124,Liam Verma,Under-Desk Filing Cabinet,Furniture,East,2,210.0,0.05,399.0,260.0,139.0,PayPal
+ORD-2024224,2025-03-26,CUST-0107,Noah Wilson,Blue Yeti USB Microphone,Electronics Accessories,South,1,129.0,0.0,129.0,75.0,54.0,Wire Transfer
+ORD-2024225,2024-12-19,CUST-0103,Ava Williams,LED Desk Task Light,Furniture,Central,2,79.0,0.0,158.0,76.0,82.0,UPI
+ORD-2024226,2024-05-05,CUST-0069,Lucas Gonzalez,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,1,189.0,0.0,189.0,120.0,69.0,UPI
+ORD-2024227,2025-03-04,CUST-0064,Emma White,LED Desk Task Light,Furniture,Central,3,79.0,0.0,237.0,114.0,123.0,PayPal
+ORD-2024228,2025-05-25,CUST-0132,Priya Jackson,Blue Yeti USB Microphone,Electronics Accessories,East,2,129.0,0.0,258.0,150.0,108.0,UPI
+ORD-2024229,2025-06-01,CUST-0118,Chloe Davis,Autonomous SmartDesk Pro,Furniture,Central,1,650.0,0.0,650.0,410.0,240.0,UPI
+ORD-2024230,2025-04-26,CUST-0074,Isabella Thompson,Dell XPS 15,Technology,West,1,1899.0,0.0,1899.0,1350.0,549.0,Wire Transfer
+ORD-2024231,2025-02-16,CUST-0094,Harper Sharma,Logitech MX Master 3S,Technology,North,2,99.0,0.0,198.0,110.0,88.0,Corporate Net 30
+ORD-2024232,2024-10-22,CUST-0019,Ethan Mehta,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,3,149.0,0.0,447.0,264.0,183.0,Corporate Net 30
+ORD-2024233,2024-05-01,CUST-0033,Nora Iyer,Logitech MX Master 3S,Technology,East,3,99.0,0.0,297.0,165.0,132.0,Wire Transfer
+ORD-2024234,2024-05-27,CUST-0051,Daniel Thomas,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.0,149.0,88.0,61.0,Wire Transfer
+ORD-2024235,2025-04-30,CUST-0133,Charlotte Verma,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,4,189.0,0.0,756.0,480.0,276.0,Corporate Net 30
+ORD-2024236,2024-11-22,CUST-0042,Charlotte Wilson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,2,149.0,0.05,283.1,176.0,107.1,Corporate Net 30
+ORD-2024237,2025-06-29,CUST-0126,Emma Rodriguez,Heavy Duty Paper Shredder,Office Supplies,North,1,220.0,0.05,209.0,130.0,79.0,UPI
+ORD-2024238,2024-11-11,CUST-0007,Lucas Johnson,Logitech Brio 4K Webcam,Electronics Accessories,Central,2,199.0,0.1,358.2,230.0,128.2,Corporate Net 30
+ORD-2024239,2025-05-06,CUST-0044,Sophia Thomas,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,1,189.0,0.2,151.2,120.0,31.2,Credit Card
+ORD-2024240,2024-07-14,CUST-0005,Isabella Moore,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.05,189.05,115.0,74.05,UPI
+ORD-2024241,2025-05-28,CUST-0121,Siddharth Hernandez,ThinkPad X1 Carbon,Technology,Central,1,1650.0,0.0,1650.0,1150.0,500.0,UPI
+ORD-2024242,2025-06-22,CUST-0097,Lucas Miller,Premium Gel Pen 12-Pack,Office Supplies,West,4,24.0,0.0,96.0,36.0,60.0,Wire Transfer
+ORD-2024243,2024-09-27,CUST-0124,Liam Verma,Autonomous SmartDesk Pro,Furniture,East,2,650.0,0.0,1300.0,820.0,480.0,Wire Transfer
+ORD-2024244,2024-10-22,CUST-0054,Mia Mehta,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.2,159.2,115.0,44.2,Wire Transfer
+ORD-2024245,2024-10-21,CUST-0032,Rohan White,Blue Yeti USB Microphone,Electronics Accessories,East,5,129.0,0.1,580.5,375.0,205.5,Wire Transfer
+ORD-2024246,2024-02-13,CUST-0074,Isabella Thompson,Sony WH-1000XM5 Headphones,Technology,West,2,399.0,0.1,718.2,480.0,238.2,PayPal
+ORD-2024247,2024-07-25,CUST-0138,Grace Patel,Thermal Label Printer,Office Supplies,East,1,175.0,0.05,166.25,98.0,68.25,Corporate Net 30
+ORD-2024248,2024-09-02,CUST-0063,Daniel Smith,CalDigit TS4 Thunderbolt Dock,Technology,South,2,399.0,0.0,798.0,520.0,278.0,UPI
+ORD-2024249,2024-12-04,CUST-0121,Siddharth Hernandez,ThinkPad X1 Carbon,Technology,North,5,1650.0,0.2,6600.0,5750.0,850.0,PayPal
+ORD-2024250,2025-02-20,CUST-0122,Daniel Thomas,Elgato Stream Deck MK.2,Electronics Accessories,South,3,149.0,0.0,447.0,276.0,171.0,Wire Transfer
+ORD-2024251,2024-03-01,CUST-0023,Benjamin Martin,Herman Miller Aeron Chair,Furniture,South,1,1395.0,0.1,1255.5,920.0,335.5,Credit Card
+ORD-2024252,2025-02-10,CUST-0127,Evelyn Lee,Ergonomic Monitor Arm Dual,Furniture,North,1,149.0,0.05,141.55,85.0,56.55,Credit Card
+ORD-2024253,2024-12-09,CUST-0073,Vikram Sharma,Elgato Stream Deck MK.2,Electronics Accessories,Central,2,149.0,0.15,253.3,184.0,69.3,PayPal
+ORD-2024254,2025-05-31,CUST-0120,Evelyn Davis,Premium Gel Pen 12-Pack,Office Supplies,North,1,24.0,0.1,21.6,9.0,12.6,Wire Transfer
+ORD-2024255,2024-07-09,CUST-0004,Arjun Thompson,Cable Management Rack Tray,Office Supplies,East,2,35.0,0.1,63.0,28.0,35.0,PayPal
+ORD-2024256,2025-02-19,CUST-0110,Olivia Jackson,Moleskine Smart Notebook Set,Office Supplies,West,2,45.0,0.0,90.0,44.0,46.0,PayPal
+ORD-2024257,2025-05-03,CUST-0083,Charlotte Rodriguez,Herman Miller Aeron Chair,Furniture,East,1,1395.0,0.0,1395.0,920.0,475.0,Wire Transfer
+ORD-2024258,2024-12-03,CUST-0078,Grace Johnson,Samsung Galaxy S24 Ultra,Technology,East,2,1299.0,0.0,2598.0,1780.0,818.0,Credit Card
+ORD-2024259,2025-04-21,CUST-0079,Olivia Perez,Under-Desk Filing Cabinet,Furniture,Central,4,210.0,0.15,714.0,520.0,194.0,Wire Transfer
+ORD-2024260,2024-04-30,CUST-0076,Nora Mehta,Thermal Label Printer,Office Supplies,South,1,175.0,0.0,175.0,98.0,77.0,PayPal
+ORD-2024261,2025-04-10,CUST-0096,Alexander Gonzalez,Elgato Stream Deck MK.2,Electronics Accessories,Central,4,149.0,0.1,536.4,368.0,168.4,PayPal
+ORD-2024262,2024-09-10,CUST-0021,Daniel Johnson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,1,149.0,0.05,141.55,88.0,53.55,Credit Card
+ORD-2024263,2025-06-01,CUST-0052,Vikram Sharma,Jarvis Bamboo Standing Desk,Furniture,East,4,780.0,0.0,3120.0,1960.0,1160.0,PayPal
+ORD-2024264,2025-05-15,CUST-0024,Rohan Rodriguez,Anker 100W GaN Fast Charger,Electronics Accessories,West,1,65.0,0.0,65.0,32.0,33.0,Corporate Net 30
+ORD-2024265,2024-02-29,CUST-0144,Sophia Lopez,Elgato Stream Deck MK.2,Electronics Accessories,East,3,149.0,0.0,447.0,276.0,171.0,Credit Card
+ORD-2024266,2024-08-11,CUST-0149,Harper Iyer,MacBook Pro 16-Inch,Technology,West,1,2499.0,0.0,2499.0,1800.0,699.0,Credit Card
+ORD-2024267,2024-03-11,CUST-0121,Siddharth Hernandez,Samsung Galaxy S24 Ultra,Technology,West,1,1299.0,0.0,1299.0,890.0,409.0,UPI
+ORD-2024268,2025-01-18,CUST-0098,Olivia Lopez,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.2,103.2,75.0,28.2,Corporate Net 30
+ORD-2024269,2024-05-16,CUST-0090,Grace Martin,ThinkPad X1 Carbon,Technology,Central,1,1650.0,0.0,1650.0,1150.0,500.0,PayPal
+ORD-2024270,2024-01-04,CUST-0006,Arjun Wilson,Heavy Duty Paper Shredder,Office Supplies,Central,1,220.0,0.0,220.0,130.0,90.0,PayPal
+ORD-2024271,2024-09-10,CUST-0118,Chloe Davis,Premium Gel Pen 12-Pack,Office Supplies,East,1,24.0,0.15,20.4,9.0,11.4,Credit Card
+ORD-2024272,2024-02-02,CUST-0108,Noah Martin,iPad Pro 12.9,Technology,South,1,1099.0,0.05,1044.05,750.0,294.05,UPI
+ORD-2024273,2024-02-19,CUST-0063,Daniel Smith,Logitech MX Master 3S,Technology,West,1,99.0,0.0,99.0,55.0,44.0,Credit Card
+ORD-2024274,2024-05-23,CUST-0129,Kavita Jones,Premium Gel Pen 12-Pack,Office Supplies,Central,1,24.0,0.05,22.8,9.0,13.8,Wire Transfer
+ORD-2024275,2024-08-30,CUST-0078,Grace Johnson,Autonomous SmartDesk Pro,Furniture,West,1,650.0,0.0,650.0,410.0,240.0,Corporate Net 30
+ORD-2024276,2024-06-28,CUST-0110,Olivia Jackson,Anker 100W GaN Fast Charger,Electronics Accessories,East,5,65.0,0.05,308.75,160.0,148.75,Corporate Net 30
+ORD-2024277,2024-11-22,CUST-0107,Noah Wilson,Samsung T7 Shield 2TB SSD,Electronics Accessories,East,1,189.0,0.1,170.1,120.0,50.1,UPI
+ORD-2024278,2024-09-03,CUST-0058,Priya Iyer,Cable Management Rack Tray,Office Supplies,South,3,35.0,0.15,89.25,42.0,47.25,Corporate Net 30
+ORD-2024279,2025-02-26,CUST-0107,Noah Wilson,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.0,210.0,130.0,80.0,Credit Card
+ORD-2024280,2025-04-05,CUST-0095,Liam Gonzalez,CalDigit TS4 Thunderbolt Dock,Technology,South,1,399.0,0.0,399.0,260.0,139.0,Corporate Net 30
+ORD-2024281,2024-02-10,CUST-0019,Ethan Mehta,Autonomous SmartDesk Pro,Furniture,West,1,650.0,0.15,552.5,410.0,142.5,Wire Transfer
+ORD-2024282,2024-01-16,CUST-0055,Daniel Verma,Steelcase Gesture Chair,Furniture,West,4,1250.0,0.05,4750.0,3280.0,1470.0,PayPal
+ORD-2024283,2025-02-10,CUST-0062,Aditya Taylor,Cable Management Rack Tray,Office Supplies,East,1,35.0,0.05,33.25,14.0,19.25,Wire Transfer
+ORD-2024284,2024-11-11,CUST-0067,Siddharth Taylor,Thermal Label Printer,Office Supplies,West,2,175.0,0.1,315.0,196.0,119.0,UPI
+ORD-2024285,2024-11-23,CUST-0053,Lucas Martinez,Neodymium Magnetic Whiteboard,Office Supplies,West,1,160.0,0.15,136.0,85.0,51.0,PayPal
+ORD-2024286,2024-01-17,CUST-0067,Siddharth Taylor,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.0,199.0,115.0,84.0,Corporate Net 30
+ORD-2024287,2024-09-08,CUST-0128,Priya Garcia,Neodymium Magnetic Whiteboard,Office Supplies,West,5,160.0,0.05,760.0,425.0,335.0,UPI
+ORD-2024288,2025-04-16,CUST-0044,Sophia Thomas,Premium Gel Pen 12-Pack,Office Supplies,South,3,24.0,0.0,72.0,27.0,45.0,Corporate Net 30
+ORD-2024289,2024-03-01,CUST-0135,Chloe Rodriguez,Dell XPS 15,Technology,North,3,1899.0,0.0,5697.0,4050.0,1647.0,PayPal
+ORD-2024290,2024-03-10,CUST-0039,Kavita Hernandez,iPad Pro 12.9,Technology,Central,2,1099.0,0.0,2198.0,1500.0,698.0,Corporate Net 30
+ORD-2024291,2025-05-09,CUST-0125,Ethan Rodriguez,MacBook Pro 16-Inch,Technology,Central,2,2499.0,0.0,4998.0,3600.0,1398.0,Corporate Net 30
+ORD-2024292,2024-10-08,CUST-0138,Grace Patel,Moleskine Smart Notebook Set,Office Supplies,Central,3,45.0,0.05,128.25,66.0,62.25,PayPal
+ORD-2024293,2024-04-19,CUST-0025,Nora Smith,Autonomous SmartDesk Pro,Furniture,South,2,650.0,0.0,1300.0,820.0,480.0,Wire Transfer
+ORD-2024294,2024-09-30,CUST-0102,Emma White,Sony WH-1000XM5 Headphones,Technology,West,2,399.0,0.0,798.0,480.0,318.0,PayPal
+ORD-2024295,2024-11-03,CUST-0021,Daniel Johnson,Dell XPS 15,Technology,West,1,1899.0,0.05,1804.05,1350.0,454.05,Credit Card
+ORD-2024296,2024-01-10,CUST-0044,Sophia Thomas,Dell 4K UltraSharp 27-Inch,Technology,West,2,620.0,0.0,1240.0,820.0,420.0,Credit Card
+ORD-2024297,2025-06-24,CUST-0011,Rohan Moore,Autonomous SmartDesk Pro,Furniture,Central,2,650.0,0.0,1300.0,820.0,480.0,Credit Card
+ORD-2024298,2024-10-14,CUST-0140,Ethan Martin,ThinkPad X1 Carbon,Technology,East,1,1650.0,0.0,1650.0,1150.0,500.0,PayPal
+ORD-2024299,2025-02-11,CUST-0020,Aarav Jackson,Premium Gel Pen 12-Pack,Office Supplies,Central,1,24.0,0.1,21.6,9.0,12.6,UPI
+ORD-2024300,2024-12-05,CUST-0099,Priya Brown,Steelcase Gesture Chair,Furniture,Central,3,1250.0,0.0,3750.0,2460.0,1290.0,Credit Card
+ORD-2024301,2025-03-23,CUST-0060,Benjamin Williams,Sony WH-1000XM5 Headphones,Technology,Central,3,399.0,0.2,957.6,720.0,237.6,UPI
+ORD-2024302,2024-11-30,CUST-0008,Mia Wilson,Cable Management Rack Tray,Office Supplies,West,2,35.0,0.0,70.0,28.0,42.0,UPI
+ORD-2024303,2025-03-18,CUST-0048,Benjamin Iyer,Anker 100W GaN Fast Charger,Electronics Accessories,Central,1,65.0,0.0,65.0,32.0,33.0,Credit Card
+ORD-2024304,2024-03-25,CUST-0069,Lucas Gonzalez,Under-Desk Filing Cabinet,Furniture,South,3,210.0,0.0,630.0,390.0,240.0,Credit Card
+ORD-2024305,2024-04-03,CUST-0002,Siddharth Martinez,Heavy Duty Paper Shredder,Office Supplies,East,3,220.0,0.0,660.0,390.0,270.0,Credit Card
+ORD-2024306,2024-07-10,CUST-0111,Harper Martin,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,Central,2,149.0,0.0,298.0,176.0,122.0,Credit Card
+ORD-2024307,2024-12-28,CUST-0142,Isabella Jackson,Keychron Q1 Pro Keyboard,Technology,Central,3,199.0,0.15,507.45,360.0,147.45,Credit Card
+ORD-2024308,2024-10-25,CUST-0106,Amelia Lee,Anker 100W GaN Fast Charger,Electronics Accessories,Central,4,65.0,0.2,208.0,128.0,80.0,Corporate Net 30
+ORD-2024309,2025-06-17,CUST-0044,Sophia Thomas,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,1,189.0,0.0,189.0,120.0,69.0,PayPal
+ORD-2024310,2024-03-05,CUST-0043,Aditya Martinez,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.1,179.1,115.0,64.1,Wire Transfer
+ORD-2024311,2024-09-14,CUST-0064,Emma White,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,Central,1,149.0,0.0,149.0,88.0,61.0,Wire Transfer
+ORD-2024312,2024-01-07,CUST-0102,Emma White,Cable Management Rack Tray,Office Supplies,Central,1,35.0,0.15,29.75,14.0,15.75,UPI
+ORD-2024313,2024-12-08,CUST-0111,Harper Martin,Ergonomic Monitor Arm Dual,Furniture,East,2,149.0,0.05,283.1,170.0,113.1,UPI
+ORD-2024314,2024-11-17,CUST-0046,Nora Martin,Logitech Brio 4K Webcam,Electronics Accessories,East,3,199.0,0.05,567.15,345.0,222.15,Corporate Net 30
+ORD-2024315,2024-09-05,CUST-0084,Isabella Martinez,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.2,159.2,115.0,44.2,PayPal
+ORD-2024316,2024-07-03,CUST-0141,Ava Thompson,Dell 4K UltraSharp 27-Inch,Technology,South,1,620.0,0.0,620.0,410.0,210.0,Credit Card
+ORD-2024317,2025-02-22,CUST-0128,Priya Garcia,Ergonomic Monitor Arm Dual,Furniture,South,1,149.0,0.0,149.0,85.0,64.0,UPI
+ORD-2024318,2025-01-21,CUST-0019,Ethan Mehta,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,2,149.0,0.05,283.1,176.0,107.1,UPI
+ORD-2024319,2024-02-07,CUST-0093,Noah Martin,Dell XPS 15,Technology,South,2,1899.0,0.0,3798.0,2700.0,1098.0,Corporate Net 30
+ORD-2024320,2024-02-15,CUST-0145,Ava Sharma,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.0,199.0,115.0,84.0,PayPal
+ORD-2024321,2025-06-06,CUST-0133,Charlotte Verma,Acoustic Privacy Panel,Furniture,East,1,180.0,0.1,162.0,95.0,67.0,Corporate Net 30
+ORD-2024322,2025-05-27,CUST-0039,Kavita Hernandez,Moleskine Smart Notebook Set,Office Supplies,West,1,45.0,0.0,45.0,22.0,23.0,Credit Card
+ORD-2024323,2024-04-28,CUST-0037,Ava Moore,Neodymium Magnetic Whiteboard,Office Supplies,East,2,160.0,0.0,320.0,170.0,150.0,UPI
+ORD-2024324,2024-12-22,CUST-0122,Daniel Thomas,Dell 4K UltraSharp 27-Inch,Technology,West,1,620.0,0.0,620.0,410.0,210.0,Credit Card
+ORD-2024325,2024-01-24,CUST-0088,Amelia Thompson,ThinkPad X1 Carbon,Technology,South,2,1650.0,0.05,3135.0,2300.0,835.0,Wire Transfer
+ORD-2024326,2025-03-12,CUST-0119,Amelia Davis,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.05,199.5,130.0,69.5,UPI
+ORD-2024327,2024-01-30,CUST-0051,Daniel Thomas,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,1,149.0,0.1,134.1,88.0,46.1,PayPal
+ORD-2024328,2024-10-12,CUST-0017,Isabella Wilson,CalDigit TS4 Thunderbolt Dock,Technology,South,1,399.0,0.0,399.0,260.0,139.0,Credit Card
+ORD-2024329,2024-09-25,CUST-0126,Emma Rodriguez,Thermal Label Printer,Office Supplies,West,2,175.0,0.05,332.5,196.0,136.5,Wire Transfer
+ORD-2024330,2024-12-26,CUST-0118,Chloe Davis,Ergonomic Monitor Arm Dual,Furniture,Central,2,149.0,0.05,283.1,170.0,113.1,Wire Transfer
+ORD-2024331,2024-04-30,CUST-0062,Aditya Taylor,Moleskine Smart Notebook Set,Office Supplies,South,1,45.0,0.0,45.0,22.0,23.0,UPI
+ORD-2024332,2025-03-04,CUST-0036,Liam Gonzalez,Blue Yeti USB Microphone,Electronics Accessories,South,2,129.0,0.05,245.1,150.0,95.1,PayPal
+ORD-2024333,2024-06-19,CUST-0126,Emma Rodriguez,Premium Gel Pen 12-Pack,Office Supplies,South,1,24.0,0.0,24.0,9.0,15.0,Credit Card
+ORD-2024334,2025-01-02,CUST-0003,Mia Miller,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,3,189.0,0.2,453.6,360.0,93.6,Corporate Net 30
+ORD-2024335,2025-05-21,CUST-0105,Kavita Brown,Blue Yeti USB Microphone,Electronics Accessories,West,2,129.0,0.0,258.0,150.0,108.0,Credit Card
+ORD-2024336,2024-08-13,CUST-0075,Charlotte Mehta,Samsung Galaxy S24 Ultra,Technology,South,2,1299.0,0.0,2598.0,1780.0,818.0,UPI
+ORD-2024337,2025-05-22,CUST-0141,Ava Thompson,Keychron Q1 Pro Keyboard,Technology,North,1,199.0,0.05,189.05,120.0,69.05,Wire Transfer
+ORD-2024338,2024-02-12,CUST-0113,Sophia Sharma,Under-Desk Filing Cabinet,Furniture,North,3,210.0,0.05,598.5,390.0,208.5,PayPal
+ORD-2024339,2024-10-31,CUST-0009,Ethan Sharma,Logitech Brio 4K Webcam,Electronics Accessories,East,4,199.0,0.0,796.0,460.0,336.0,Credit Card
+ORD-2024340,2024-08-30,CUST-0054,Mia Mehta,Cable Management Rack Tray,Office Supplies,Central,2,35.0,0.0,70.0,28.0,42.0,PayPal
+ORD-2024341,2024-07-30,CUST-0053,Lucas Martinez,Keychron Q1 Pro Keyboard,Technology,East,2,199.0,0.05,378.1,240.0,138.1,PayPal
+ORD-2024342,2024-11-27,CUST-0075,Charlotte Mehta,Thermal Label Printer,Office Supplies,East,5,175.0,0.05,831.25,490.0,341.25,Credit Card
+ORD-2024343,2024-05-18,CUST-0106,Amelia Lee,Samsung Galaxy S24 Ultra,Technology,South,3,1299.0,0.0,3897.0,2670.0,1227.0,PayPal
+ORD-2024344,2024-11-25,CUST-0064,Emma White,Blue Yeti USB Microphone,Electronics Accessories,South,2,129.0,0.0,258.0,150.0,108.0,UPI
+ORD-2024345,2025-01-19,CUST-0116,Aditya Martin,Dell XPS 15,Technology,West,2,1899.0,0.0,3798.0,2700.0,1098.0,Wire Transfer
+ORD-2024346,2025-04-10,CUST-0125,Ethan Rodriguez,Thermal Label Printer,Office Supplies,North,4,175.0,0.1,630.0,392.0,238.0,Credit Card
+ORD-2024347,2025-04-14,CUST-0092,Grace Wilson,CalDigit TS4 Thunderbolt Dock,Technology,West,1,399.0,0.0,399.0,260.0,139.0,PayPal
+ORD-2024348,2025-05-21,CUST-0069,Lucas Gonzalez,Cable Management Rack Tray,Office Supplies,East,1,35.0,0.05,33.25,14.0,19.25,Corporate Net 30
+ORD-2024349,2025-05-11,CUST-0088,Amelia Thompson,MacBook Pro 16-Inch,Technology,North,2,2499.0,0.1,4498.2,3600.0,898.2,Credit Card
+ORD-2024350,2024-05-07,CUST-0041,Ava Martin,Blue Yeti USB Microphone,Electronics Accessories,North,10,129.0,0.0,1290.0,750.0,540.0,PayPal
+ORD-2024351,2024-11-05,CUST-0041,Ava Martin,Moleskine Smart Notebook Set,Office Supplies,East,1,45.0,0.0,45.0,22.0,23.0,PayPal
+ORD-2024352,2024-02-23,CUST-0102,Emma White,Ergonomic Footrest Cushion,Office Supplies,South,1,49.0,0.0,49.0,22.0,27.0,Credit Card
+ORD-2024353,2024-01-02,CUST-0055,Daniel Verma,Anker 100W GaN Fast Charger,Electronics Accessories,South,2,65.0,0.05,123.5,64.0,59.5,UPI
+ORD-2024354,2024-01-10,CUST-0003,Mia Miller,Cable Management Rack Tray,Office Supplies,North,8,35.0,0.0,280.0,112.0,168.0,PayPal
+ORD-2024355,2025-05-04,CUST-0019,Ethan Mehta,Under-Desk Filing Cabinet,Furniture,North,3,210.0,0.0,630.0,390.0,240.0,Wire Transfer
+ORD-2024356,2025-01-11,CUST-0077,Lucas Gonzalez,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.05,399.0,260.0,139.0,Credit Card
+ORD-2024357,2025-06-27,CUST-0145,Ava Sharma,Keychron Q1 Pro Keyboard,Technology,South,1,199.0,0.1,179.1,120.0,59.1,PayPal
+ORD-2024358,2025-02-25,CUST-0114,Aarav Brown,Steelcase Gesture Chair,Furniture,North,1,1250.0,0.0,1250.0,820.0,430.0,UPI
+ORD-2024359,2024-12-25,CUST-0110,Olivia Jackson,Cable Management Rack Tray,Office Supplies,South,1,35.0,0.05,33.25,14.0,19.25,PayPal
+ORD-2024360,2024-10-18,CUST-0007,Lucas Johnson,Premium Gel Pen 12-Pack,Office Supplies,Central,2,24.0,0.0,48.0,18.0,30.0,UPI
+ORD-2024361,2024-10-29,CUST-0014,Amelia Mehta,Acoustic Privacy Panel,Furniture,West,1,180.0,0.0,180.0,95.0,85.0,Corporate Net 30
+ORD-2024362,2024-03-13,CUST-0136,Isabella Miller,Sony WH-1000XM5 Headphones,Technology,East,1,399.0,0.15,339.15,240.0,99.15,Corporate Net 30
+ORD-2024363,2025-03-06,CUST-0094,Harper Sharma,Acoustic Privacy Panel,Furniture,North,1,180.0,0.0,180.0,95.0,85.0,Wire Transfer
+ORD-2024364,2024-08-08,CUST-0011,Rohan Moore,Logitech MX Master 3S,Technology,Central,1,99.0,0.1,89.1,55.0,34.1,UPI
+ORD-2024365,2025-03-09,CUST-0103,Ava Williams,CalDigit TS4 Thunderbolt Dock,Technology,Central,2,399.0,0.0,798.0,520.0,278.0,Wire Transfer
+ORD-2024366,2024-03-21,CUST-0131,Rohan Lopez,Jarvis Bamboo Standing Desk,Furniture,Central,1,780.0,0.05,741.0,490.0,251.0,Credit Card
+ORD-2024367,2024-11-13,CUST-0112,Mia Verma,Herman Miller Aeron Chair,Furniture,South,1,1395.0,0.0,1395.0,920.0,475.0,UPI
+ORD-2024368,2024-02-26,CUST-0080,Sophia Smith,Steelcase Gesture Chair,Furniture,North,3,1250.0,0.1,3375.0,2460.0,915.0,PayPal
+ORD-2024369,2025-05-23,CUST-0089,Liam Moore,Premium Gel Pen 12-Pack,Office Supplies,East,1,24.0,0.1,21.6,9.0,12.6,Wire Transfer
+ORD-2024370,2024-04-30,CUST-0008,Mia Wilson,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.0,35.0,14.0,21.0,Corporate Net 30
+ORD-2024371,2024-03-19,CUST-0128,Priya Garcia,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,1,149.0,0.15,126.65,88.0,38.65,PayPal
+ORD-2024372,2025-01-11,CUST-0041,Ava Martin,Cable Management Rack Tray,Office Supplies,North,4,35.0,0.05,133.0,56.0,77.0,Credit Card
+ORD-2024373,2024-08-21,CUST-0131,Rohan Lopez,MacBook Pro 16-Inch,Technology,North,1,2499.0,0.0,2499.0,1800.0,699.0,UPI
+ORD-2024374,2024-06-02,CUST-0046,Nora Martin,CalDigit TS4 Thunderbolt Dock,Technology,West,1,399.0,0.0,399.0,260.0,139.0,Wire Transfer
+ORD-2024375,2024-10-04,CUST-0020,Aarav Jackson,Moleskine Smart Notebook Set,Office Supplies,Central,2,45.0,0.0,90.0,44.0,46.0,PayPal
+ORD-2024376,2025-06-12,CUST-0012,Rohan Davis,Anker 100W GaN Fast Charger,Electronics Accessories,West,4,65.0,0.1,234.0,128.0,106.0,Wire Transfer
+ORD-2024377,2024-12-01,CUST-0023,Benjamin Martin,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.05,61.75,32.0,29.75,Wire Transfer
+ORD-2024378,2024-09-05,CUST-0119,Amelia Davis,Thermal Label Printer,Office Supplies,West,10,175.0,0.1,1575.0,980.0,595.0,Corporate Net 30
+ORD-2024379,2024-09-08,CUST-0039,Kavita Hernandez,Logitech MX Master 3S,Technology,North,1,99.0,0.0,99.0,55.0,44.0,Credit Card
+ORD-2024380,2024-12-09,CUST-0001,Emma Martinez,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.05,141.55,92.0,49.55,PayPal
+ORD-2024381,2025-03-05,CUST-0126,Emma Rodriguez,ThinkPad X1 Carbon,Technology,East,1,1650.0,0.15,1402.5,1150.0,252.5,Corporate Net 30
+ORD-2024382,2025-02-26,CUST-0096,Alexander Gonzalez,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.05,283.1,184.0,99.1,UPI
+ORD-2024383,2024-03-17,CUST-0146,Grace Thomas,Logitech MX Master 3S,Technology,South,1,99.0,0.0,99.0,55.0,44.0,Wire Transfer
+ORD-2024384,2025-02-06,CUST-0084,Isabella Martinez,Heavy Duty Paper Shredder,Office Supplies,East,1,220.0,0.2,176.0,130.0,46.0,PayPal
+ORD-2024385,2024-04-21,CUST-0040,Rohan Mehta,ThinkPad X1 Carbon,Technology,West,2,1650.0,0.0,3300.0,2300.0,1000.0,Corporate Net 30
+ORD-2024386,2025-01-01,CUST-0054,Mia Mehta,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.0,199.0,115.0,84.0,PayPal
+ORD-2024387,2024-11-07,CUST-0011,Rohan Moore,LED Desk Task Light,Furniture,South,1,79.0,0.0,79.0,38.0,41.0,Wire Transfer
+ORD-2024388,2025-02-09,CUST-0132,Priya Jackson,Samsung Galaxy S24 Ultra,Technology,East,3,1299.0,0.0,3897.0,2670.0,1227.0,UPI
+ORD-2024389,2025-04-08,CUST-0143,Noah Davis,Steelcase Gesture Chair,Furniture,West,1,1250.0,0.1,1125.0,820.0,305.0,Credit Card
+ORD-2024390,2024-01-13,CUST-0016,Olivia Verma,Jarvis Bamboo Standing Desk,Furniture,South,3,780.0,0.0,2340.0,1470.0,870.0,Credit Card
+ORD-2024391,2024-09-22,CUST-0020,Aarav Jackson,Dell XPS 15,Technology,South,4,1899.0,0.0,7596.0,5400.0,2196.0,PayPal
+ORD-2024392,2024-04-04,CUST-0085,Harper Moore,MacBook Pro 16-Inch,Technology,West,1,2499.0,0.15,2124.15,1800.0,324.15,UPI
+ORD-2024393,2025-02-08,CUST-0128,Priya Garcia,Logitech MX Master 3S,Technology,West,1,99.0,0.0,99.0,55.0,44.0,PayPal
+ORD-2024394,2024-10-08,CUST-0072,Harper Jones,Samsung T7 Shield 2TB SSD,Electronics Accessories,North,2,189.0,0.05,359.1,240.0,119.1,Wire Transfer
+ORD-2024395,2025-05-25,CUST-0106,Amelia Lee,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.0,65.0,32.0,33.0,PayPal
+ORD-2024396,2025-06-22,CUST-0064,Emma White,Logitech MX Master 3S,Technology,East,2,99.0,0.1,178.2,110.0,68.2,Wire Transfer
+ORD-2024397,2025-05-29,CUST-0083,Charlotte Rodriguez,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.05,189.05,115.0,74.05,Credit Card
+ORD-2024398,2024-10-14,CUST-0015,Amelia Martinez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,3,149.0,0.25,335.25,264.0,71.25,PayPal
+ORD-2024399,2024-04-12,CUST-0064,Emma White,Ergonomic Monitor Arm Dual,Furniture,Central,3,149.0,0.15,379.95,255.0,124.95,Credit Card
+ORD-2024400,2024-08-12,CUST-0148,Benjamin Wilson,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.05,189.05,115.0,74.05,Wire Transfer
+ORD-2024401,2024-01-29,CUST-0091,Chloe Verma,Autonomous SmartDesk Pro,Furniture,West,2,650.0,0.0,1300.0,820.0,480.0,Credit Card
+ORD-2024402,2024-04-02,CUST-0015,Amelia Martinez,Autonomous SmartDesk Pro,Furniture,North,2,650.0,0.0,1300.0,820.0,480.0,Corporate Net 30
+ORD-2024403,2024-07-25,CUST-0034,Harper Anderson,Ergonomic Footrest Cushion,Office Supplies,South,4,49.0,0.1,176.4,88.0,88.4,Wire Transfer
+ORD-2024404,2024-03-01,CUST-0006,Arjun Wilson,Jarvis Bamboo Standing Desk,Furniture,North,3,780.0,0.15,1989.0,1470.0,519.0,Credit Card
+ORD-2024405,2025-01-17,CUST-0102,Emma White,Sony WH-1000XM5 Headphones,Technology,East,1,399.0,0.2,319.2,240.0,79.2,UPI
+ORD-2024406,2025-05-13,CUST-0082,Priya Moore,LED Desk Task Light,Furniture,South,2,79.0,0.1,142.2,76.0,66.2,UPI
+ORD-2024407,2024-11-10,CUST-0076,Nora Mehta,Jarvis Bamboo Standing Desk,Furniture,North,5,780.0,0.2,3120.0,2450.0,670.0,UPI
+ORD-2024408,2024-02-03,CUST-0047,Emma Moore,Cable Management Rack Tray,Office Supplies,Central,1,35.0,0.05,33.25,14.0,19.25,UPI
+ORD-2024409,2024-05-24,CUST-0085,Harper Moore,iPad Pro 12.9,Technology,East,8,1099.0,0.0,8792.0,6000.0,2792.0,Credit Card
+ORD-2024410,2024-12-09,CUST-0115,Aditya Williams,Samsung Galaxy S24 Ultra,Technology,South,1,1299.0,0.0,1299.0,890.0,409.0,Wire Transfer
+ORD-2024411,2024-04-20,CUST-0001,Emma Martinez,Logitech MX Master 3S,Technology,West,3,99.0,0.2,237.6,165.0,72.6,UPI
+ORD-2024412,2025-05-19,CUST-0097,Lucas Miller,Thermal Label Printer,Office Supplies,West,1,175.0,0.0,175.0,98.0,77.0,Corporate Net 30
+ORD-2024413,2024-08-18,CUST-0042,Charlotte Wilson,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.0,65.0,32.0,33.0,Credit Card
+ORD-2024414,2024-03-16,CUST-0088,Amelia Thompson,Under-Desk Filing Cabinet,Furniture,South,3,210.0,0.05,598.5,390.0,208.5,Credit Card
+ORD-2024415,2024-12-12,CUST-0124,Liam Verma,Logitech MX Master 3S,Technology,South,2,99.0,0.0,198.0,110.0,88.0,Credit Card
+ORD-2024416,2024-04-13,CUST-0085,Harper Moore,Autonomous SmartDesk Pro,Furniture,West,2,650.0,0.1,1170.0,820.0,350.0,Corporate Net 30
+ORD-2024417,2024-09-28,CUST-0073,Vikram Sharma,Premium Gel Pen 12-Pack,Office Supplies,North,1,24.0,0.05,22.8,9.0,13.8,UPI
+ORD-2024418,2024-06-06,CUST-0014,Amelia Mehta,Moleskine Smart Notebook Set,Office Supplies,West,1,45.0,0.1,40.5,22.0,18.5,Corporate Net 30
+ORD-2024419,2025-05-06,CUST-0052,Vikram Sharma,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.0,2499.0,1800.0,699.0,Credit Card
+ORD-2024420,2025-04-29,CUST-0030,Benjamin Davis,Cable Management Rack Tray,Office Supplies,West,2,35.0,0.15,59.5,28.0,31.5,Wire Transfer
+ORD-2024421,2024-04-03,CUST-0140,Ethan Martin,Samsung T7 Shield 2TB SSD,Electronics Accessories,East,4,189.0,0.0,756.0,480.0,276.0,UPI
+ORD-2024422,2024-02-15,CUST-0068,Arjun Moore,Blue Yeti USB Microphone,Electronics Accessories,East,1,129.0,0.0,129.0,75.0,54.0,Credit Card
+ORD-2024423,2024-06-03,CUST-0025,Nora Smith,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.1,359.1,240.0,119.1,PayPal
+ORD-2024424,2024-03-03,CUST-0100,Aarav Johnson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,2,149.0,0.0,298.0,176.0,122.0,Wire Transfer
+ORD-2024425,2024-03-21,CUST-0102,Emma White,CalDigit TS4 Thunderbolt Dock,Technology,Central,4,399.0,0.1,1436.4,1040.0,396.4,Corporate Net 30
+ORD-2024426,2024-05-30,CUST-0031,Zoe Brown,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,8,189.0,0.1,1360.8,960.0,400.8,PayPal
+ORD-2024427,2024-02-13,CUST-0109,Liam Johnson,Logitech MX Master 3S,Technology,South,10,99.0,0.05,940.5,550.0,390.5,Corporate Net 30
+ORD-2024428,2024-09-21,CUST-0082,Priya Moore,Dell XPS 15,Technology,West,2,1899.0,0.05,3608.1,2700.0,908.1,Wire Transfer
+ORD-2024429,2025-06-16,CUST-0118,Chloe Davis,Keychron Q1 Pro Keyboard,Technology,Central,2,199.0,0.0,398.0,240.0,158.0,UPI
+ORD-2024430,2024-06-02,CUST-0038,Noah Martin,Dell XPS 15,Technology,Central,3,1899.0,0.1,5127.3,4050.0,1077.3,Corporate Net 30
+ORD-2024431,2024-12-18,CUST-0106,Amelia Lee,Heavy Duty Paper Shredder,Office Supplies,West,2,220.0,0.0,440.0,260.0,180.0,PayPal
+ORD-2024432,2024-10-09,CUST-0104,Grace White,Under-Desk Filing Cabinet,Furniture,North,1,210.0,0.15,178.5,130.0,48.5,PayPal
+ORD-2024433,2024-02-20,CUST-0122,Daniel Thomas,Neodymium Magnetic Whiteboard,Office Supplies,North,1,160.0,0.1,144.0,85.0,59.0,Wire Transfer
+ORD-2024434,2024-10-14,CUST-0126,Emma Rodriguez,iPad Pro 12.9,Technology,South,1,1099.0,0.1,989.1,750.0,239.1,Wire Transfer
+ORD-2024435,2024-10-02,CUST-0107,Noah Wilson,iPad Pro 12.9,Technology,West,1,1099.0,0.1,989.1,750.0,239.1,UPI
+ORD-2024436,2025-06-12,CUST-0096,Alexander Gonzalez,CalDigit TS4 Thunderbolt Dock,Technology,South,1,399.0,0.1,359.1,260.0,99.1,UPI
+ORD-2024437,2024-05-18,CUST-0135,Chloe Rodriguez,ThinkPad X1 Carbon,Technology,South,4,1650.0,0.0,6600.0,4600.0,2000.0,Credit Card
+ORD-2024438,2024-09-12,CUST-0009,Ethan Sharma,Anker 100W GaN Fast Charger,Electronics Accessories,East,3,65.0,0.0,195.0,96.0,99.0,UPI
+ORD-2024439,2025-06-01,CUST-0102,Emma White,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.05,2374.05,1800.0,574.05,PayPal
+ORD-2024440,2025-04-30,CUST-0142,Isabella Jackson,Neodymium Magnetic Whiteboard,Office Supplies,South,3,160.0,0.0,480.0,255.0,225.0,Credit Card
+ORD-2024441,2024-10-18,CUST-0008,Mia Wilson,Anker 100W GaN Fast Charger,Electronics Accessories,South,4,65.0,0.1,234.0,128.0,106.0,PayPal
+ORD-2024442,2024-08-14,CUST-0058,Priya Iyer,Ergonomic Monitor Arm Dual,Furniture,West,2,149.0,0.15,253.3,170.0,83.3,Credit Card
+ORD-2024443,2025-04-30,CUST-0034,Harper Anderson,Herman Miller Aeron Chair,Furniture,South,1,1395.0,0.1,1255.5,920.0,335.5,Wire Transfer
+ORD-2024444,2024-10-08,CUST-0109,Liam Johnson,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.0,199.0,115.0,84.0,Corporate Net 30
+ORD-2024445,2025-02-10,CUST-0150,Olivia Mehta,MacBook Pro 16-Inch,Technology,Central,10,2499.0,0.2,19992.0,18000.0,1992.0,Wire Transfer
+ORD-2024446,2024-10-16,CUST-0077,Lucas Gonzalez,Dell 4K UltraSharp 27-Inch,Technology,North,1,620.0,0.0,620.0,410.0,210.0,Wire Transfer
+ORD-2024447,2024-10-10,CUST-0067,Siddharth Taylor,Premium Gel Pen 12-Pack,Office Supplies,South,2,24.0,0.0,48.0,18.0,30.0,Credit Card
+ORD-2024448,2025-02-17,CUST-0082,Priya Moore,Herman Miller Aeron Chair,Furniture,West,10,1395.0,0.0,13950.0,9200.0,4750.0,UPI
+ORD-2024449,2025-02-18,CUST-0100,Aarav Johnson,Keychron Q1 Pro Keyboard,Technology,Central,3,199.0,0.0,597.0,360.0,237.0,PayPal
+ORD-2024450,2025-05-02,CUST-0092,Grace Wilson,Cable Management Rack Tray,Office Supplies,South,3,35.0,0.15,89.25,42.0,47.25,PayPal
+ORD-2024451,2024-10-27,CUST-0025,Nora Smith,Samsung T7 Shield 2TB SSD,Electronics Accessories,East,3,189.0,0.05,538.65,360.0,178.65,PayPal
+ORD-2024452,2024-12-09,CUST-0023,Benjamin Martin,LED Desk Task Light,Furniture,South,3,79.0,0.0,237.0,114.0,123.0,Wire Transfer
+ORD-2024453,2025-01-15,CUST-0067,Siddharth Taylor,Heavy Duty Paper Shredder,Office Supplies,North,2,220.0,0.15,374.0,260.0,114.0,Corporate Net 30
+ORD-2024454,2024-03-13,CUST-0121,Siddharth Hernandez,Steelcase Gesture Chair,Furniture,West,2,1250.0,0.0,2500.0,1640.0,860.0,PayPal
+ORD-2024455,2024-05-20,CUST-0052,Vikram Sharma,Heavy Duty Paper Shredder,Office Supplies,Central,4,220.0,0.25,660.0,520.0,140.0,PayPal
+ORD-2024456,2024-11-19,CUST-0047,Emma Moore,Dell 4K UltraSharp 27-Inch,Technology,East,2,620.0,0.0,1240.0,820.0,420.0,Credit Card
+ORD-2024457,2024-01-05,CUST-0116,Aditya Martin,Premium Gel Pen 12-Pack,Office Supplies,South,2,24.0,0.0,48.0,18.0,30.0,Credit Card
+ORD-2024458,2024-05-12,CUST-0112,Mia Verma,Blue Yeti USB Microphone,Electronics Accessories,West,5,129.0,0.0,645.0,375.0,270.0,Credit Card
+ORD-2024459,2025-06-30,CUST-0052,Vikram Sharma,Moleskine Smart Notebook Set,Office Supplies,East,3,45.0,0.05,128.25,66.0,62.25,Credit Card
+ORD-2024460,2024-01-05,CUST-0064,Emma White,LED Desk Task Light,Furniture,East,1,79.0,0.0,79.0,38.0,41.0,Corporate Net 30
+ORD-2024461,2024-11-09,CUST-0043,Aditya Martinez,MacBook Pro 16-Inch,Technology,East,5,2499.0,0.0,12495.0,9000.0,3495.0,Corporate Net 30
+ORD-2024462,2025-06-20,CUST-0087,Priya Hernandez,Elgato Stream Deck MK.2,Electronics Accessories,South,1,149.0,0.15,126.65,92.0,34.65,Wire Transfer
+ORD-2024463,2024-07-11,CUST-0043,Aditya Martinez,Anker 100W GaN Fast Charger,Electronics Accessories,South,1,65.0,0.25,48.75,32.0,16.75,PayPal
+ORD-2024464,2024-01-23,CUST-0130,Benjamin Wilson,Steelcase Gesture Chair,Furniture,East,3,1250.0,0.1,3375.0,2460.0,915.0,UPI
+ORD-2024465,2024-09-18,CUST-0137,Evelyn White,Keychron Q1 Pro Keyboard,Technology,North,2,199.0,0.05,378.1,240.0,138.1,Credit Card
+ORD-2024466,2024-02-19,CUST-0030,Benjamin Davis,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.0,129.0,75.0,54.0,PayPal
+ORD-2024467,2024-07-29,CUST-0003,Mia Miller,Heavy Duty Paper Shredder,Office Supplies,North,2,220.0,0.0,440.0,260.0,180.0,Corporate Net 30
+ORD-2024468,2024-05-20,CUST-0108,Noah Martin,CalDigit TS4 Thunderbolt Dock,Technology,Central,1,399.0,0.0,399.0,260.0,139.0,Credit Card
+ORD-2024469,2025-05-24,CUST-0051,Daniel Thomas,Ergonomic Monitor Arm Dual,Furniture,Central,8,149.0,0.0,1192.0,680.0,512.0,UPI
+ORD-2024470,2024-10-29,CUST-0042,Charlotte Wilson,CalDigit TS4 Thunderbolt Dock,Technology,West,4,399.0,0.05,1516.2,1040.0,476.2,UPI
+ORD-2024471,2024-12-04,CUST-0061,Alexander Anderson,MacBook Pro 16-Inch,Technology,North,4,2499.0,0.1,8996.4,7200.0,1796.4,UPI
+ORD-2024472,2024-06-01,CUST-0024,Rohan Rodriguez,Dell XPS 15,Technology,East,2,1899.0,0.0,3798.0,2700.0,1098.0,Wire Transfer
+ORD-2024473,2024-09-27,CUST-0119,Amelia Davis,Dell XPS 15,Technology,South,4,1899.0,0.15,6456.6,5400.0,1056.6,Wire Transfer
+ORD-2024474,2024-11-16,CUST-0110,Olivia Jackson,Dell XPS 15,Technology,North,1,1899.0,0.0,1899.0,1350.0,549.0,PayPal
+ORD-2024475,2024-12-02,CUST-0092,Grace Wilson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,4,149.0,0.0,596.0,352.0,244.0,Wire Transfer
+ORD-2024476,2024-07-06,CUST-0030,Benjamin Davis,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.0,129.0,75.0,54.0,UPI
+ORD-2024477,2025-03-07,CUST-0043,Aditya Martinez,ThinkPad X1 Carbon,Technology,North,8,1650.0,0.1,11880.0,9200.0,2680.0,Credit Card
+ORD-2024478,2025-03-02,CUST-0124,Liam Verma,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,1,189.0,0.0,189.0,120.0,69.0,Credit Card
+ORD-2024479,2024-05-13,CUST-0124,Liam Verma,Anker 100W GaN Fast Charger,Electronics Accessories,West,1,65.0,0.0,65.0,32.0,33.0,Wire Transfer
+ORD-2024480,2024-01-13,CUST-0135,Chloe Rodriguez,LED Desk Task Light,Furniture,Central,2,79.0,0.1,142.2,76.0,66.2,Credit Card
+ORD-2024481,2025-03-19,CUST-0064,Emma White,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.1,179.1,115.0,64.1,Corporate Net 30
+ORD-2024482,2024-02-25,CUST-0003,Mia Miller,Acoustic Privacy Panel,Furniture,West,4,180.0,0.0,720.0,380.0,340.0,UPI
+ORD-2024483,2024-11-24,CUST-0062,Aditya Taylor,Neodymium Magnetic Whiteboard,Office Supplies,North,2,160.0,0.05,304.0,170.0,134.0,UPI
+ORD-2024484,2025-02-16,CUST-0061,Alexander Anderson,Dell 4K UltraSharp 27-Inch,Technology,West,3,620.0,0.0,1860.0,1230.0,630.0,UPI
+ORD-2024485,2025-04-02,CUST-0081,Harper Anderson,Dell 4K UltraSharp 27-Inch,Technology,North,1,620.0,0.0,620.0,410.0,210.0,Corporate Net 30
+ORD-2024486,2024-01-01,CUST-0024,Rohan Rodriguez,Thermal Label Printer,Office Supplies,Central,1,175.0,0.05,166.25,98.0,68.25,Wire Transfer
+ORD-2024487,2025-01-07,CUST-0014,Amelia Mehta,Acoustic Privacy Panel,Furniture,East,2,180.0,0.05,342.0,190.0,152.0,UPI
+ORD-2024488,2025-01-07,CUST-0116,Aditya Martin,Dell XPS 15,Technology,South,1,1899.0,0.0,1899.0,1350.0,549.0,Wire Transfer
+ORD-2024489,2025-06-18,CUST-0096,Alexander Gonzalez,MacBook Pro 16-Inch,Technology,South,2,2499.0,0.1,4498.2,3600.0,898.2,UPI
+ORD-2024490,2024-04-19,CUST-0066,Ava Lopez,Autonomous SmartDesk Pro,Furniture,North,5,650.0,0.0,3250.0,2050.0,1200.0,UPI
+ORD-2024491,2024-07-14,CUST-0087,Priya Hernandez,Logitech MX Master 3S,Technology,North,4,99.0,0.1,356.4,220.0,136.4,Corporate Net 30
+ORD-2024492,2024-05-06,CUST-0116,Aditya Martin,Elgato Stream Deck MK.2,Electronics Accessories,Central,5,149.0,0.0,745.0,460.0,285.0,UPI
+ORD-2024493,2024-01-05,CUST-0136,Isabella Miller,CalDigit TS4 Thunderbolt Dock,Technology,West,3,399.0,0.0,1197.0,780.0,417.0,Corporate Net 30
+ORD-2024494,2024-06-30,CUST-0149,Harper Iyer,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.05,741.0,490.0,251.0,Wire Transfer
+ORD-2024495,2025-05-31,CUST-0099,Priya Brown,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,1,149.0,0.2,119.2,88.0,31.2,Wire Transfer
+ORD-2024496,2025-04-08,CUST-0035,Aarav Patel,Under-Desk Filing Cabinet,Furniture,Central,3,210.0,0.1,567.0,390.0,177.0,Wire Transfer
+ORD-2024497,2024-11-17,CUST-0142,Isabella Jackson,Autonomous SmartDesk Pro,Furniture,South,2,650.0,0.0,1300.0,820.0,480.0,Wire Transfer
+ORD-2024498,2024-05-15,CUST-0046,Nora Martin,Ergonomic Footrest Cushion,Office Supplies,North,3,49.0,0.05,139.65,66.0,73.65,Corporate Net 30
+ORD-2024499,2025-03-03,CUST-0137,Evelyn White,Cable Management Rack Tray,Office Supplies,West,3,35.0,0.05,99.75,42.0,57.75,Credit Card
+ORD-2024500,2025-01-25,CUST-0038,Noah Martin,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.1,2249.1,1800.0,449.1,Wire Transfer
+ORD-2024501,2024-09-13,CUST-0038,Noah Martin,Samsung Galaxy S24 Ultra,Technology,South,3,1299.0,0.0,3897.0,2670.0,1227.0,UPI
+ORD-2024502,2024-04-14,CUST-0144,Sophia Lopez,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.1,378.0,260.0,118.0,Wire Transfer
+ORD-2024503,2024-02-18,CUST-0098,Olivia Lopez,Blue Yeti USB Microphone,Electronics Accessories,East,5,129.0,0.0,645.0,375.0,270.0,Wire Transfer
+ORD-2024504,2024-07-26,CUST-0114,Aarav Brown,LED Desk Task Light,Furniture,Central,2,79.0,0.05,150.1,76.0,74.1,PayPal
+ORD-2024505,2024-10-28,CUST-0115,Aditya Williams,Steelcase Gesture Chair,Furniture,South,5,1250.0,0.1,5625.0,4100.0,1525.0,Credit Card
+ORD-2024506,2025-01-21,CUST-0011,Rohan Moore,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.0,199.0,115.0,84.0,Wire Transfer
+ORD-2024507,2024-01-06,CUST-0085,Harper Moore,Elgato Stream Deck MK.2,Electronics Accessories,South,1,149.0,0.15,126.65,92.0,34.65,Corporate Net 30
+ORD-2024508,2024-02-22,CUST-0078,Grace Johnson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,Central,1,149.0,0.1,134.1,88.0,46.1,Wire Transfer
+ORD-2024509,2025-06-22,CUST-0057,Evelyn Martinez,Steelcase Gesture Chair,Furniture,Central,1,1250.0,0.05,1187.5,820.0,367.5,UPI
+ORD-2024510,2024-04-04,CUST-0090,Grace Martin,Autonomous SmartDesk Pro,Furniture,East,1,650.0,0.0,650.0,410.0,240.0,Corporate Net 30
+ORD-2024511,2025-06-27,CUST-0122,Daniel Thomas,Dell XPS 15,Technology,East,1,1899.0,0.15,1614.15,1350.0,264.15,Corporate Net 30
+ORD-2024512,2024-09-06,CUST-0011,Rohan Moore,Heavy Duty Paper Shredder,Office Supplies,North,1,220.0,0.05,209.0,130.0,79.0,Wire Transfer
+ORD-2024513,2024-01-26,CUST-0133,Charlotte Verma,Thermal Label Printer,Office Supplies,Central,1,175.0,0.0,175.0,98.0,77.0,PayPal
+ORD-2024514,2024-11-24,CUST-0132,Priya Jackson,Dell XPS 15,Technology,South,8,1899.0,0.1,13672.8,10800.0,2872.8,Corporate Net 30
+ORD-2024515,2024-01-08,CUST-0017,Isabella Wilson,Autonomous SmartDesk Pro,Furniture,West,3,650.0,0.0,1950.0,1230.0,720.0,UPI
+ORD-2024516,2024-03-14,CUST-0040,Rohan Mehta,Dell 4K UltraSharp 27-Inch,Technology,East,1,620.0,0.0,620.0,410.0,210.0,PayPal
+ORD-2024517,2024-09-14,CUST-0143,Noah Davis,Keychron Q1 Pro Keyboard,Technology,South,4,199.0,0.0,796.0,480.0,316.0,UPI
+ORD-2024518,2025-02-18,CUST-0111,Harper Martin,Moleskine Smart Notebook Set,Office Supplies,West,2,45.0,0.05,85.5,44.0,41.5,Corporate Net 30
+ORD-2024519,2024-03-05,CUST-0150,Olivia Mehta,Dell XPS 15,Technology,East,4,1899.0,0.0,7596.0,5400.0,2196.0,Wire Transfer
+ORD-2024520,2024-03-29,CUST-0073,Vikram Sharma,Blue Yeti USB Microphone,Electronics Accessories,West,3,129.0,0.0,387.0,225.0,162.0,PayPal
+ORD-2024521,2025-06-30,CUST-0057,Evelyn Martinez,Under-Desk Filing Cabinet,Furniture,Central,1,210.0,0.05,199.5,130.0,69.5,Wire Transfer
+ORD-2024522,2025-01-17,CUST-0003,Mia Miller,Steelcase Gesture Chair,Furniture,North,1,1250.0,0.05,1187.5,820.0,367.5,Corporate Net 30
+ORD-2024523,2024-03-28,CUST-0079,Olivia Perez,LED Desk Task Light,Furniture,South,1,79.0,0.05,75.05,38.0,37.05,Corporate Net 30
+ORD-2024524,2024-05-25,CUST-0042,Charlotte Wilson,Autonomous SmartDesk Pro,Furniture,Central,3,650.0,0.0,1950.0,1230.0,720.0,PayPal
+ORD-2024525,2024-02-25,CUST-0141,Ava Thompson,Elgato Stream Deck MK.2,Electronics Accessories,Central,1,149.0,0.05,141.55,92.0,49.55,Wire Transfer
+ORD-2024526,2024-04-10,CUST-0051,Daniel Thomas,Logitech Brio 4K Webcam,Electronics Accessories,East,1,199.0,0.05,189.05,115.0,74.05,Credit Card
+ORD-2024527,2024-10-18,CUST-0018,Harper Thompson,LED Desk Task Light,Furniture,West,2,79.0,0.05,150.1,76.0,74.1,Wire Transfer
+ORD-2024528,2024-06-05,CUST-0145,Ava Sharma,Cable Management Rack Tray,Office Supplies,East,5,35.0,0.0,175.0,70.0,105.0,Wire Transfer
+ORD-2024529,2024-09-09,CUST-0057,Evelyn Martinez,Logitech Brio 4K Webcam,Electronics Accessories,East,1,199.0,0.1,179.1,115.0,64.1,UPI
+ORD-2024530,2025-04-18,CUST-0115,Aditya Williams,Cable Management Rack Tray,Office Supplies,East,2,35.0,0.0,70.0,28.0,42.0,Corporate Net 30
+ORD-2024531,2024-03-24,CUST-0072,Harper Jones,Autonomous SmartDesk Pro,Furniture,East,3,650.0,0.05,1852.5,1230.0,622.5,Credit Card
+ORD-2024532,2024-01-20,CUST-0130,Benjamin Wilson,Keychron Q1 Pro Keyboard,Technology,Central,1,199.0,0.05,189.05,120.0,69.05,Credit Card
+ORD-2024533,2024-09-23,CUST-0140,Ethan Martin,Elgato Stream Deck MK.2,Electronics Accessories,South,1,149.0,0.0,149.0,92.0,57.0,Corporate Net 30
+ORD-2024534,2024-10-24,CUST-0035,Aarav Patel,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,Central,1,149.0,0.0,149.0,88.0,61.0,Credit Card
+ORD-2024535,2024-09-01,CUST-0043,Aditya Martinez,Acoustic Privacy Panel,Furniture,South,1,180.0,0.2,144.0,95.0,49.0,PayPal
+ORD-2024536,2025-05-10,CUST-0092,Grace Wilson,iPad Pro 12.9,Technology,West,1,1099.0,0.0,1099.0,750.0,349.0,PayPal
+ORD-2024537,2024-02-13,CUST-0053,Lucas Martinez,Heavy Duty Paper Shredder,Office Supplies,West,4,220.0,0.15,748.0,520.0,228.0,Credit Card
+ORD-2024538,2024-11-27,CUST-0027,Mia Iyer,Cable Management Rack Tray,Office Supplies,East,2,35.0,0.05,66.5,28.0,38.5,UPI
+ORD-2024539,2025-01-22,CUST-0094,Harper Sharma,CalDigit TS4 Thunderbolt Dock,Technology,East,1,399.0,0.15,339.15,260.0,79.15,Corporate Net 30
+ORD-2024540,2025-02-19,CUST-0091,Chloe Verma,Heavy Duty Paper Shredder,Office Supplies,West,4,220.0,0.0,880.0,520.0,360.0,PayPal
+ORD-2024541,2025-03-26,CUST-0043,Aditya Martinez,Steelcase Gesture Chair,Furniture,Central,2,1250.0,0.0,2500.0,1640.0,860.0,PayPal
+ORD-2024542,2024-06-10,CUST-0093,Noah Martin,iPad Pro 12.9,Technology,West,3,1099.0,0.1,2967.3,2250.0,717.3,UPI
+ORD-2024543,2025-05-05,CUST-0123,Benjamin Patel,Jarvis Bamboo Standing Desk,Furniture,West,1,780.0,0.0,780.0,490.0,290.0,Corporate Net 30
+ORD-2024544,2024-06-13,CUST-0035,Aarav Patel,Keychron Q1 Pro Keyboard,Technology,South,1,199.0,0.0,199.0,120.0,79.0,PayPal
+ORD-2024545,2025-06-13,CUST-0104,Grace White,Samsung Galaxy S24 Ultra,Technology,North,1,1299.0,0.05,1234.05,890.0,344.05,UPI
+ORD-2024546,2025-05-08,CUST-0044,Sophia Thomas,Under-Desk Filing Cabinet,Furniture,Central,1,210.0,0.05,199.5,130.0,69.5,PayPal
+ORD-2024547,2025-06-07,CUST-0068,Arjun Moore,LED Desk Task Light,Furniture,West,2,79.0,0.0,158.0,76.0,82.0,UPI
+ORD-2024548,2025-01-29,CUST-0034,Harper Anderson,MacBook Pro 16-Inch,Technology,South,2,2499.0,0.15,4248.3,3600.0,648.3,UPI
+ORD-2024549,2024-06-02,CUST-0025,Nora Smith,Acoustic Privacy Panel,Furniture,Central,2,180.0,0.15,306.0,190.0,116.0,Corporate Net 30
+ORD-2024550,2025-05-30,CUST-0031,Zoe Brown,Dell 4K UltraSharp 27-Inch,Technology,South,4,620.0,0.05,2356.0,1640.0,716.0,Credit Card
+ORD-2024551,2025-03-17,CUST-0134,Mia Jones,Logitech Brio 4K Webcam,Electronics Accessories,North,2,199.0,0.0,398.0,230.0,168.0,UPI
+ORD-2024552,2025-01-25,CUST-0090,Grace Martin,Logitech MX Master 3S,Technology,South,1,99.0,0.1,89.1,55.0,34.1,Credit Card
+ORD-2024553,2024-10-17,CUST-0140,Ethan Martin,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.1,179.1,115.0,64.1,Credit Card
+ORD-2024554,2025-06-19,CUST-0031,Zoe Brown,Logitech MX Master 3S,Technology,South,2,99.0,0.0,198.0,110.0,88.0,Wire Transfer
+ORD-2024555,2024-04-19,CUST-0040,Rohan Mehta,Elgato Stream Deck MK.2,Electronics Accessories,Central,1,149.0,0.15,126.65,92.0,34.65,UPI
+ORD-2024556,2025-01-09,CUST-0071,Noah Jones,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,2,189.0,0.05,359.1,240.0,119.1,PayPal
+ORD-2024557,2025-01-14,CUST-0144,Sophia Lopez,Logitech Brio 4K Webcam,Electronics Accessories,East,2,199.0,0.1,358.2,230.0,128.2,UPI
+ORD-2024558,2024-05-21,CUST-0031,Zoe Brown,Acoustic Privacy Panel,Furniture,South,1,180.0,0.05,171.0,95.0,76.0,Wire Transfer
+ORD-2024559,2024-02-23,CUST-0042,Charlotte Wilson,Elgato Stream Deck MK.2,Electronics Accessories,North,3,149.0,0.1,402.3,276.0,126.3,UPI
+ORD-2024560,2025-03-21,CUST-0023,Benjamin Martin,Samsung Galaxy S24 Ultra,Technology,South,1,1299.0,0.05,1234.05,890.0,344.05,UPI
+ORD-2024561,2025-02-14,CUST-0134,Mia Jones,Ergonomic Footrest Cushion,Office Supplies,Central,1,49.0,0.1,44.1,22.0,22.1,PayPal
+ORD-2024562,2025-05-21,CUST-0113,Sophia Sharma,iPad Pro 12.9,Technology,Central,1,1099.0,0.0,1099.0,750.0,349.0,Corporate Net 30
+ORD-2024563,2025-06-06,CUST-0133,Charlotte Verma,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.05,741.0,490.0,251.0,PayPal
+ORD-2024564,2024-03-29,CUST-0071,Noah Jones,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.0,199.0,115.0,84.0,Credit Card
+ORD-2024565,2024-03-11,CUST-0024,Rohan Rodriguez,Ergonomic Footrest Cushion,Office Supplies,Central,4,49.0,0.0,196.0,88.0,108.0,Wire Transfer
+ORD-2024566,2024-08-19,CUST-0050,Amelia Thompson,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.0,129.0,75.0,54.0,Corporate Net 30
+ORD-2024567,2024-04-19,CUST-0144,Sophia Lopez,CalDigit TS4 Thunderbolt Dock,Technology,East,1,399.0,0.0,399.0,260.0,139.0,Corporate Net 30
+ORD-2024568,2024-09-20,CUST-0138,Grace Patel,Ergonomic Footrest Cushion,Office Supplies,West,5,49.0,0.05,232.75,110.0,122.75,PayPal
+ORD-2024569,2024-12-13,CUST-0118,Chloe Davis,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,2,149.0,0.0,298.0,176.0,122.0,UPI
+ORD-2024570,2024-08-13,CUST-0059,Sophia Anderson,Heavy Duty Paper Shredder,Office Supplies,East,2,220.0,0.0,440.0,260.0,180.0,Wire Transfer
+ORD-2024571,2024-09-11,CUST-0074,Isabella Thompson,Logitech MX Master 3S,Technology,East,1,99.0,0.2,79.2,55.0,24.2,UPI
+ORD-2024572,2024-11-17,CUST-0091,Chloe Verma,Ergonomic Monitor Arm Dual,Furniture,South,5,149.0,0.05,707.75,425.0,282.75,PayPal
+ORD-2024573,2025-05-25,CUST-0052,Vikram Sharma,Autonomous SmartDesk Pro,Furniture,East,1,650.0,0.0,650.0,410.0,240.0,PayPal
+ORD-2024574,2024-12-30,CUST-0040,Rohan Mehta,Dell XPS 15,Technology,North,2,1899.0,0.05,3608.1,2700.0,908.1,Corporate Net 30
+ORD-2024575,2024-01-07,CUST-0139,Isabella Iyer,Dell 4K UltraSharp 27-Inch,Technology,East,2,620.0,0.0,1240.0,820.0,420.0,Corporate Net 30
+ORD-2024576,2024-10-08,CUST-0126,Emma Rodriguez,Ergonomic Monitor Arm Dual,Furniture,West,1,149.0,0.05,141.55,85.0,56.55,Credit Card
+ORD-2024577,2025-06-22,CUST-0109,Liam Johnson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,2,149.0,0.0,298.0,176.0,122.0,PayPal
+ORD-2024578,2025-04-13,CUST-0031,Zoe Brown,Logitech Brio 4K Webcam,Electronics Accessories,North,1,199.0,0.0,199.0,115.0,84.0,Corporate Net 30
+ORD-2024579,2024-04-13,CUST-0084,Isabella Martinez,Thermal Label Printer,Office Supplies,East,1,175.0,0.0,175.0,98.0,77.0,Wire Transfer
+ORD-2024580,2025-04-27,CUST-0088,Amelia Thompson,Premium Gel Pen 12-Pack,Office Supplies,West,1,24.0,0.0,24.0,9.0,15.0,Wire Transfer
+ORD-2024581,2025-01-08,CUST-0103,Ava Williams,Heavy Duty Paper Shredder,Office Supplies,South,2,220.0,0.2,352.0,260.0,92.0,PayPal
+ORD-2024582,2024-04-12,CUST-0070,Rohan Garcia,Under-Desk Filing Cabinet,Furniture,West,1,210.0,0.1,189.0,130.0,59.0,PayPal
+ORD-2024583,2025-04-29,CUST-0003,Mia Miller,Under-Desk Filing Cabinet,Furniture,West,1,210.0,0.15,178.5,130.0,48.5,Corporate Net 30
+ORD-2024584,2025-06-30,CUST-0081,Harper Anderson,Logitech Brio 4K Webcam,Electronics Accessories,East,2,199.0,0.05,378.1,230.0,148.1,UPI
+ORD-2024585,2024-04-11,CUST-0042,Charlotte Wilson,iPad Pro 12.9,Technology,East,2,1099.0,0.05,2088.1,1500.0,588.1,UPI
+ORD-2024586,2024-12-08,CUST-0067,Siddharth Taylor,Neodymium Magnetic Whiteboard,Office Supplies,Central,2,160.0,0.1,288.0,170.0,118.0,Wire Transfer
+ORD-2024587,2024-01-21,CUST-0106,Amelia Lee,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.05,379.05,240.0,139.05,Corporate Net 30
+ORD-2024588,2024-06-27,CUST-0073,Vikram Sharma,Neodymium Magnetic Whiteboard,Office Supplies,Central,2,160.0,0.1,288.0,170.0,118.0,Credit Card
+ORD-2024589,2025-01-25,CUST-0074,Isabella Thompson,Elgato Stream Deck MK.2,Electronics Accessories,South,4,149.0,0.05,566.2,368.0,198.2,Wire Transfer
+ORD-2024590,2025-03-07,CUST-0147,Rohan Verma,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.0,65.0,32.0,33.0,Wire Transfer
+ORD-2024591,2024-10-25,CUST-0069,Lucas Gonzalez,Logitech Brio 4K Webcam,Electronics Accessories,West,3,199.0,0.2,477.6,345.0,132.6,Corporate Net 30
+ORD-2024592,2025-06-17,CUST-0116,Aditya Martin,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,4,189.0,0.0,756.0,480.0,276.0,PayPal
+ORD-2024593,2024-09-14,CUST-0021,Daniel Johnson,Jarvis Bamboo Standing Desk,Furniture,West,1,780.0,0.0,780.0,490.0,290.0,UPI
+ORD-2024594,2024-02-25,CUST-0007,Lucas Johnson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.05,141.55,88.0,53.55,Credit Card
+ORD-2024595,2025-02-03,CUST-0080,Sophia Smith,Autonomous SmartDesk Pro,Furniture,East,1,650.0,0.0,650.0,410.0,240.0,Corporate Net 30
+ORD-2024596,2024-06-23,CUST-0008,Mia Wilson,Sony WH-1000XM5 Headphones,Technology,East,4,399.0,0.0,1596.0,960.0,636.0,Corporate Net 30
+ORD-2024597,2024-10-05,CUST-0141,Ava Thompson,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,1,189.0,0.05,179.55,120.0,59.55,Corporate Net 30
+ORD-2024598,2025-03-21,CUST-0135,Chloe Rodriguez,Neodymium Magnetic Whiteboard,Office Supplies,West,2,160.0,0.1,288.0,170.0,118.0,UPI
+ORD-2024599,2024-11-11,CUST-0094,Harper Sharma,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.0,199.0,115.0,84.0,PayPal
+ORD-2024600,2024-12-18,CUST-0074,Isabella Thompson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,2,149.0,0.0,298.0,176.0,122.0,UPI
+ORD-2024601,2024-11-02,CUST-0003,Mia Miller,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.0,199.0,115.0,84.0,Wire Transfer
+ORD-2024602,2024-07-12,CUST-0106,Amelia Lee,Blue Yeti USB Microphone,Electronics Accessories,South,1,129.0,0.1,116.1,75.0,41.1,UPI
+ORD-2024603,2025-01-22,CUST-0057,Evelyn Martinez,Moleskine Smart Notebook Set,Office Supplies,West,2,45.0,0.05,85.5,44.0,41.5,Corporate Net 30
+ORD-2024604,2024-10-05,CUST-0073,Vikram Sharma,Heavy Duty Paper Shredder,Office Supplies,South,4,220.0,0.0,880.0,520.0,360.0,Wire Transfer
+ORD-2024605,2024-04-23,CUST-0117,Ava Jackson,Logitech Brio 4K Webcam,Electronics Accessories,Central,2,199.0,0.0,398.0,230.0,168.0,PayPal
+ORD-2024606,2024-02-20,CUST-0137,Evelyn White,ThinkPad X1 Carbon,Technology,North,1,1650.0,0.0,1650.0,1150.0,500.0,UPI
+ORD-2024607,2024-01-09,CUST-0060,Benjamin Williams,ThinkPad X1 Carbon,Technology,North,2,1650.0,0.0,3300.0,2300.0,1000.0,Wire Transfer
+ORD-2024608,2025-05-25,CUST-0096,Alexander Gonzalez,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.1,134.1,92.0,42.1,PayPal
+ORD-2024609,2024-02-27,CUST-0069,Lucas Gonzalez,Anker 100W GaN Fast Charger,Electronics Accessories,Central,2,65.0,0.0,130.0,64.0,66.0,Wire Transfer
+ORD-2024610,2025-01-25,CUST-0004,Arjun Thompson,iPad Pro 12.9,Technology,West,3,1099.0,0.0,3297.0,2250.0,1047.0,Credit Card
+ORD-2024611,2024-07-22,CUST-0118,Chloe Davis,CalDigit TS4 Thunderbolt Dock,Technology,South,2,399.0,0.05,758.1,520.0,238.1,Wire Transfer
+ORD-2024612,2024-11-26,CUST-0041,Ava Martin,CalDigit TS4 Thunderbolt Dock,Technology,Central,1,399.0,0.0,399.0,260.0,139.0,Wire Transfer
+ORD-2024613,2024-07-22,CUST-0093,Noah Martin,iPad Pro 12.9,Technology,North,1,1099.0,0.0,1099.0,750.0,349.0,Credit Card
+ORD-2024614,2024-06-20,CUST-0071,Noah Jones,Logitech MX Master 3S,Technology,South,1,99.0,0.0,99.0,55.0,44.0,UPI
+ORD-2024615,2024-06-07,CUST-0096,Alexander Gonzalez,iPad Pro 12.9,Technology,South,2,1099.0,0.05,2088.1,1500.0,588.1,Wire Transfer
+ORD-2024616,2024-03-02,CUST-0016,Olivia Verma,Ergonomic Footrest Cushion,Office Supplies,South,3,49.0,0.1,132.3,66.0,66.3,PayPal
+ORD-2024617,2025-05-14,CUST-0060,Benjamin Williams,Thermal Label Printer,Office Supplies,East,3,175.0,0.0,525.0,294.0,231.0,PayPal
+ORD-2024618,2024-01-22,CUST-0097,Lucas Miller,Ergonomic Footrest Cushion,Office Supplies,South,1,49.0,0.0,49.0,22.0,27.0,UPI
+ORD-2024619,2024-10-28,CUST-0139,Isabella Iyer,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,1,189.0,0.0,189.0,120.0,69.0,UPI
+ORD-2024620,2024-10-08,CUST-0142,Isabella Jackson,Steelcase Gesture Chair,Furniture,Central,1,1250.0,0.0,1250.0,820.0,430.0,Wire Transfer
+ORD-2024621,2025-01-10,CUST-0117,Ava Jackson,CalDigit TS4 Thunderbolt Dock,Technology,West,3,399.0,0.15,1017.45,780.0,237.45,Corporate Net 30
+ORD-2024622,2025-01-07,CUST-0062,Aditya Taylor,Ergonomic Footrest Cushion,Office Supplies,North,2,49.0,0.05,93.1,44.0,49.1,UPI
+ORD-2024623,2024-07-13,CUST-0135,Chloe Rodriguez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,2,149.0,0.0,298.0,176.0,122.0,Wire Transfer
+ORD-2024624,2024-04-23,CUST-0025,Nora Smith,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.0,2499.0,1800.0,699.0,Credit Card
+ORD-2024625,2025-05-12,CUST-0050,Amelia Thompson,MacBook Pro 16-Inch,Technology,Central,2,2499.0,0.0,4998.0,3600.0,1398.0,UPI
+ORD-2024626,2025-06-22,CUST-0066,Ava Lopez,Sony WH-1000XM5 Headphones,Technology,South,2,399.0,0.0,798.0,480.0,318.0,PayPal
+ORD-2024627,2025-05-18,CUST-0021,Daniel Johnson,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.1,134.1,92.0,42.1,UPI
+ORD-2024628,2025-01-12,CUST-0015,Amelia Martinez,Thermal Label Printer,Office Supplies,North,3,175.0,0.1,472.5,294.0,178.5,Credit Card
+ORD-2024629,2024-08-09,CUST-0133,Charlotte Verma,Dell XPS 15,Technology,South,2,1899.0,0.0,3798.0,2700.0,1098.0,Corporate Net 30
+ORD-2024630,2024-09-11,CUST-0146,Grace Thomas,Under-Desk Filing Cabinet,Furniture,North,3,210.0,0.05,598.5,390.0,208.5,UPI
+ORD-2024631,2025-03-13,CUST-0027,Mia Iyer,Jarvis Bamboo Standing Desk,Furniture,Central,1,780.0,0.0,780.0,490.0,290.0,PayPal
+ORD-2024632,2025-06-30,CUST-0114,Aarav Brown,Neodymium Magnetic Whiteboard,Office Supplies,Central,10,160.0,0.0,1600.0,850.0,750.0,Wire Transfer
+ORD-2024633,2025-02-26,CUST-0111,Harper Martin,Thermal Label Printer,Office Supplies,South,2,175.0,0.0,350.0,196.0,154.0,Corporate Net 30
+ORD-2024634,2024-09-17,CUST-0093,Noah Martin,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.0,129.0,75.0,54.0,Wire Transfer
+ORD-2024635,2024-01-17,CUST-0133,Charlotte Verma,Ergonomic Monitor Arm Dual,Furniture,North,1,149.0,0.0,149.0,85.0,64.0,Wire Transfer
+ORD-2024636,2024-01-23,CUST-0071,Noah Jones,Steelcase Gesture Chair,Furniture,North,2,1250.0,0.0,2500.0,1640.0,860.0,Wire Transfer
+ORD-2024637,2025-01-10,CUST-0150,Olivia Mehta,Autonomous SmartDesk Pro,Furniture,East,3,650.0,0.0,1950.0,1230.0,720.0,UPI
+ORD-2024638,2024-08-10,CUST-0020,Aarav Jackson,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.1,31.5,14.0,17.5,Corporate Net 30
+ORD-2024639,2024-04-07,CUST-0077,Lucas Gonzalez,Keychron Q1 Pro Keyboard,Technology,West,1,199.0,0.0,199.0,120.0,79.0,Wire Transfer
+ORD-2024640,2024-12-22,CUST-0112,Mia Verma,Anker 100W GaN Fast Charger,Electronics Accessories,South,3,65.0,0.1,175.5,96.0,79.5,Credit Card
+ORD-2024641,2025-01-26,CUST-0014,Amelia Mehta,Thermal Label Printer,Office Supplies,North,1,175.0,0.05,166.25,98.0,68.25,Wire Transfer
+ORD-2024642,2025-05-29,CUST-0057,Evelyn Martinez,Herman Miller Aeron Chair,Furniture,West,8,1395.0,0.1,10044.0,7360.0,2684.0,Corporate Net 30
+ORD-2024643,2025-05-31,CUST-0024,Rohan Rodriguez,Under-Desk Filing Cabinet,Furniture,East,3,210.0,0.0,630.0,390.0,240.0,Wire Transfer
+ORD-2024644,2024-03-25,CUST-0122,Daniel Thomas,CalDigit TS4 Thunderbolt Dock,Technology,West,1,399.0,0.0,399.0,260.0,139.0,UPI
+ORD-2024645,2024-05-13,CUST-0035,Aarav Patel,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,2,149.0,0.05,283.1,176.0,107.1,PayPal
+ORD-2024646,2025-06-20,CUST-0064,Emma White,Steelcase Gesture Chair,Furniture,East,3,1250.0,0.0,3750.0,2460.0,1290.0,Corporate Net 30
+ORD-2024647,2024-04-01,CUST-0029,Charlotte Perez,Blue Yeti USB Microphone,Electronics Accessories,East,1,129.0,0.0,129.0,75.0,54.0,Corporate Net 30
+ORD-2024648,2024-01-25,CUST-0079,Olivia Perez,LED Desk Task Light,Furniture,Central,3,79.0,0.1,213.3,114.0,99.3,Corporate Net 30
+ORD-2024649,2024-05-29,CUST-0113,Sophia Sharma,iPad Pro 12.9,Technology,South,2,1099.0,0.0,2198.0,1500.0,698.0,Credit Card
+ORD-2024650,2024-04-25,CUST-0014,Amelia Mehta,Jarvis Bamboo Standing Desk,Furniture,East,1,780.0,0.05,741.0,490.0,251.0,Credit Card
+ORD-2024651,2024-11-08,CUST-0116,Aditya Martin,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.05,61.75,32.0,29.75,PayPal
+ORD-2024652,2025-06-19,CUST-0067,Siddharth Taylor,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,2,149.0,0.05,283.1,176.0,107.1,UPI
+ORD-2024653,2025-06-23,CUST-0012,Rohan Davis,Premium Gel Pen 12-Pack,Office Supplies,North,1,24.0,0.1,21.6,9.0,12.6,Corporate Net 30
+ORD-2024654,2024-10-04,CUST-0014,Amelia Mehta,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.05,141.55,92.0,49.55,Wire Transfer
+ORD-2024655,2024-04-20,CUST-0005,Isabella Moore,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.0,35.0,14.0,21.0,Credit Card
+ORD-2024656,2024-11-19,CUST-0125,Ethan Rodriguez,ThinkPad X1 Carbon,Technology,South,2,1650.0,0.0,3300.0,2300.0,1000.0,Credit Card
+ORD-2024657,2024-02-10,CUST-0064,Emma White,Neodymium Magnetic Whiteboard,Office Supplies,West,1,160.0,0.0,160.0,85.0,75.0,Wire Transfer
+ORD-2024658,2024-12-26,CUST-0091,Chloe Verma,Premium Gel Pen 12-Pack,Office Supplies,Central,1,24.0,0.0,24.0,9.0,15.0,Wire Transfer
+ORD-2024659,2025-01-31,CUST-0008,Mia Wilson,Premium Gel Pen 12-Pack,Office Supplies,South,1,24.0,0.0,24.0,9.0,15.0,PayPal
+ORD-2024660,2024-03-30,CUST-0098,Olivia Lopez,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.0,420.0,260.0,160.0,Wire Transfer
+ORD-2024661,2024-12-03,CUST-0115,Aditya Williams,Autonomous SmartDesk Pro,Furniture,South,2,650.0,0.05,1235.0,820.0,415.0,PayPal
+ORD-2024662,2024-05-21,CUST-0080,Sophia Smith,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.05,399.0,260.0,139.0,PayPal
+ORD-2024663,2024-11-21,CUST-0018,Harper Thompson,ThinkPad X1 Carbon,Technology,East,3,1650.0,0.0,4950.0,3450.0,1500.0,Credit Card
+ORD-2024664,2024-11-22,CUST-0106,Amelia Lee,Logitech Brio 4K Webcam,Electronics Accessories,West,3,199.0,0.1,537.3,345.0,192.3,Wire Transfer
+ORD-2024665,2024-06-04,CUST-0049,Daniel Hernandez,ThinkPad X1 Carbon,Technology,South,1,1650.0,0.25,1237.5,1150.0,87.5,Corporate Net 30
+ORD-2024666,2024-09-30,CUST-0146,Grace Thomas,Autonomous SmartDesk Pro,Furniture,South,2,650.0,0.0,1300.0,820.0,480.0,UPI
+ORD-2024667,2024-05-17,CUST-0129,Kavita Jones,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.0,149.0,92.0,57.0,UPI
+ORD-2024668,2024-05-20,CUST-0042,Charlotte Wilson,Autonomous SmartDesk Pro,Furniture,North,1,650.0,0.2,520.0,410.0,110.0,Wire Transfer
+ORD-2024669,2025-02-26,CUST-0057,Evelyn Martinez,Autonomous SmartDesk Pro,Furniture,North,1,650.0,0.2,520.0,410.0,110.0,UPI
+ORD-2024670,2025-05-16,CUST-0084,Isabella Martinez,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,1,189.0,0.0,189.0,120.0,69.0,UPI
+ORD-2024671,2024-11-16,CUST-0101,Noah Anderson,CalDigit TS4 Thunderbolt Dock,Technology,North,2,399.0,0.1,718.2,520.0,198.2,Credit Card
+ORD-2024672,2024-09-08,CUST-0133,Charlotte Verma,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.05,283.1,184.0,99.1,Credit Card
+ORD-2024673,2024-07-13,CUST-0075,Charlotte Mehta,Blue Yeti USB Microphone,Electronics Accessories,East,3,129.0,0.0,387.0,225.0,162.0,PayPal
+ORD-2024674,2025-03-08,CUST-0076,Nora Mehta,CalDigit TS4 Thunderbolt Dock,Technology,South,2,399.0,0.05,758.1,520.0,238.1,Credit Card
+ORD-2024675,2025-05-27,CUST-0029,Charlotte Perez,Jarvis Bamboo Standing Desk,Furniture,West,1,780.0,0.0,780.0,490.0,290.0,PayPal
+ORD-2024676,2025-04-09,CUST-0052,Vikram Sharma,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.05,61.75,32.0,29.75,PayPal
+ORD-2024677,2024-05-06,CUST-0024,Rohan Rodriguez,Dell 4K UltraSharp 27-Inch,Technology,East,1,620.0,0.1,558.0,410.0,148.0,Corporate Net 30
+ORD-2024678,2024-06-12,CUST-0097,Lucas Miller,Anker 100W GaN Fast Charger,Electronics Accessories,South,4,65.0,0.05,247.0,128.0,119.0,PayPal
+ORD-2024679,2024-06-15,CUST-0038,Noah Martin,Herman Miller Aeron Chair,Furniture,West,1,1395.0,0.1,1255.5,920.0,335.5,UPI
+ORD-2024680,2024-10-22,CUST-0047,Emma Moore,ThinkPad X1 Carbon,Technology,South,1,1650.0,0.1,1485.0,1150.0,335.0,Credit Card
+ORD-2024681,2025-04-14,CUST-0128,Priya Garcia,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,2,149.0,0.0,298.0,176.0,122.0,PayPal
+ORD-2024682,2025-05-02,CUST-0117,Ava Jackson,Blue Yeti USB Microphone,Electronics Accessories,North,2,129.0,0.0,258.0,150.0,108.0,Corporate Net 30
+ORD-2024683,2024-10-11,CUST-0143,Noah Davis,Herman Miller Aeron Chair,Furniture,South,1,1395.0,0.05,1325.25,920.0,405.25,Credit Card
+ORD-2024684,2024-05-28,CUST-0009,Ethan Sharma,Neodymium Magnetic Whiteboard,Office Supplies,North,1,160.0,0.0,160.0,85.0,75.0,PayPal
+ORD-2024685,2024-06-14,CUST-0073,Vikram Sharma,Acoustic Privacy Panel,Furniture,Central,1,180.0,0.0,180.0,95.0,85.0,Wire Transfer
+ORD-2024686,2024-11-26,CUST-0095,Liam Gonzalez,Anker 100W GaN Fast Charger,Electronics Accessories,West,3,65.0,0.0,195.0,96.0,99.0,UPI
+ORD-2024687,2024-05-17,CUST-0032,Rohan White,Neodymium Magnetic Whiteboard,Office Supplies,Central,1,160.0,0.0,160.0,85.0,75.0,PayPal
+ORD-2024688,2024-02-29,CUST-0028,Arjun Jackson,Dell 4K UltraSharp 27-Inch,Technology,Central,5,620.0,0.25,2325.0,2050.0,275.0,Wire Transfer
+ORD-2024689,2025-03-13,CUST-0082,Priya Moore,Thermal Label Printer,Office Supplies,Central,10,175.0,0.0,1750.0,980.0,770.0,PayPal
+ORD-2024690,2025-05-23,CUST-0134,Mia Jones,Blue Yeti USB Microphone,Electronics Accessories,South,4,129.0,0.0,516.0,300.0,216.0,Wire Transfer
+ORD-2024691,2024-07-17,CUST-0001,Emma Martinez,MacBook Pro 16-Inch,Technology,West,2,2499.0,0.0,4998.0,3600.0,1398.0,PayPal
+ORD-2024692,2025-02-28,CUST-0106,Amelia Lee,Sony WH-1000XM5 Headphones,Technology,East,2,399.0,0.05,758.1,480.0,278.1,Credit Card
+ORD-2024693,2024-07-25,CUST-0073,Vikram Sharma,Cable Management Rack Tray,Office Supplies,North,1,35.0,0.05,33.25,14.0,19.25,Wire Transfer
+ORD-2024694,2024-01-07,CUST-0030,Benjamin Davis,Neodymium Magnetic Whiteboard,Office Supplies,West,3,160.0,0.05,456.0,255.0,201.0,Credit Card
+ORD-2024695,2024-06-28,CUST-0050,Amelia Thompson,Cable Management Rack Tray,Office Supplies,East,4,35.0,0.0,140.0,56.0,84.0,UPI
+ORD-2024696,2024-02-06,CUST-0035,Aarav Patel,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,4,189.0,0.05,718.2,480.0,238.2,Wire Transfer
+ORD-2024697,2025-04-18,CUST-0106,Amelia Lee,CalDigit TS4 Thunderbolt Dock,Technology,East,2,399.0,0.05,758.1,520.0,238.1,Corporate Net 30
+ORD-2024698,2024-01-20,CUST-0054,Mia Mehta,Cable Management Rack Tray,Office Supplies,East,1,35.0,0.0,35.0,14.0,21.0,Credit Card
+ORD-2024699,2024-12-13,CUST-0097,Lucas Miller,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.15,357.0,260.0,97.0,Wire Transfer
+ORD-2024700,2024-11-18,CUST-0009,Ethan Sharma,Heavy Duty Paper Shredder,Office Supplies,North,2,220.0,0.0,440.0,260.0,180.0,UPI
+ORD-2024701,2024-11-05,CUST-0056,Aarav Anderson,Premium Gel Pen 12-Pack,Office Supplies,North,1,24.0,0.0,24.0,9.0,15.0,PayPal
+ORD-2024702,2024-04-04,CUST-0114,Aarav Brown,Dell 4K UltraSharp 27-Inch,Technology,Central,1,620.0,0.0,620.0,410.0,210.0,UPI
+ORD-2024703,2025-06-20,CUST-0080,Sophia Smith,Premium Gel Pen 12-Pack,Office Supplies,North,3,24.0,0.2,57.6,27.0,30.6,PayPal
+ORD-2024704,2024-07-29,CUST-0010,Charlotte Gonzalez,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.0,129.0,75.0,54.0,Credit Card
+ORD-2024705,2024-03-30,CUST-0086,Sophia Williams,Anker 100W GaN Fast Charger,Electronics Accessories,North,2,65.0,0.05,123.5,64.0,59.5,Wire Transfer
+ORD-2024706,2024-01-24,CUST-0148,Benjamin Wilson,Ergonomic Footrest Cushion,Office Supplies,South,1,49.0,0.0,49.0,22.0,27.0,Wire Transfer
+ORD-2024707,2025-06-29,CUST-0082,Priya Moore,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.0,149.0,92.0,57.0,Credit Card
+ORD-2024708,2024-01-16,CUST-0144,Sophia Lopez,iPad Pro 12.9,Technology,Central,1,1099.0,0.0,1099.0,750.0,349.0,PayPal
+ORD-2024709,2024-10-17,CUST-0147,Rohan Verma,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.15,663.0,490.0,173.0,Corporate Net 30
+ORD-2024710,2025-03-30,CUST-0013,Grace Thompson,Herman Miller Aeron Chair,Furniture,West,4,1395.0,0.0,5580.0,3680.0,1900.0,UPI
+ORD-2024711,2024-02-25,CUST-0023,Benjamin Martin,Blue Yeti USB Microphone,Electronics Accessories,South,3,129.0,0.15,328.95,225.0,103.95,UPI
+ORD-2024712,2024-12-30,CUST-0080,Sophia Smith,Cable Management Rack Tray,Office Supplies,South,3,35.0,0.05,99.75,42.0,57.75,Corporate Net 30
+ORD-2024713,2024-03-21,CUST-0120,Evelyn Davis,Steelcase Gesture Chair,Furniture,West,1,1250.0,0.0,1250.0,820.0,430.0,UPI
+ORD-2024714,2025-04-26,CUST-0060,Benjamin Williams,Jarvis Bamboo Standing Desk,Furniture,Central,1,780.0,0.0,780.0,490.0,290.0,PayPal
+ORD-2024715,2024-12-04,CUST-0084,Isabella Martinez,Blue Yeti USB Microphone,Electronics Accessories,North,1,129.0,0.0,129.0,75.0,54.0,UPI
+ORD-2024716,2025-04-17,CUST-0044,Sophia Thomas,Cable Management Rack Tray,Office Supplies,East,2,35.0,0.0,70.0,28.0,42.0,Credit Card
+ORD-2024717,2025-02-19,CUST-0028,Arjun Jackson,Thermal Label Printer,Office Supplies,North,3,175.0,0.05,498.75,294.0,204.75,UPI
+ORD-2024718,2025-02-27,CUST-0062,Aditya Taylor,Jarvis Bamboo Standing Desk,Furniture,West,1,780.0,0.0,780.0,490.0,290.0,Corporate Net 30
+ORD-2024719,2025-03-17,CUST-0112,Mia Verma,Thermal Label Printer,Office Supplies,South,1,175.0,0.05,166.25,98.0,68.25,Corporate Net 30
+ORD-2024720,2025-05-13,CUST-0030,Benjamin Davis,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.0,199.0,115.0,84.0,Wire Transfer
+ORD-2024721,2025-02-19,CUST-0018,Harper Thompson,Keychron Q1 Pro Keyboard,Technology,West,1,199.0,0.05,189.05,120.0,69.05,Credit Card
+ORD-2024722,2024-04-02,CUST-0056,Aarav Anderson,Herman Miller Aeron Chair,Furniture,South,2,1395.0,0.0,2790.0,1840.0,950.0,Wire Transfer
+ORD-2024723,2025-02-03,CUST-0148,Benjamin Wilson,Samsung T7 Shield 2TB SSD,Electronics Accessories,South,2,189.0,0.0,378.0,240.0,138.0,Corporate Net 30
+ORD-2024724,2024-11-07,CUST-0112,Mia Verma,Moleskine Smart Notebook Set,Office Supplies,Central,1,45.0,0.25,33.75,22.0,11.75,UPI
+ORD-2024725,2024-05-10,CUST-0076,Nora Mehta,Sony WH-1000XM5 Headphones,Technology,Central,5,399.0,0.0,1995.0,1200.0,795.0,Corporate Net 30
+ORD-2024726,2025-01-02,CUST-0029,Charlotte Perez,Cable Management Rack Tray,Office Supplies,North,1,35.0,0.1,31.5,14.0,17.5,UPI
+ORD-2024727,2024-11-21,CUST-0098,Olivia Lopez,Blue Yeti USB Microphone,Electronics Accessories,West,2,129.0,0.05,245.1,150.0,95.1,UPI
+ORD-2024728,2024-05-22,CUST-0049,Daniel Hernandez,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.25,149.25,115.0,34.25,PayPal
+ORD-2024729,2024-05-17,CUST-0003,Mia Miller,MacBook Pro 16-Inch,Technology,South,3,2499.0,0.0,7497.0,5400.0,2097.0,UPI
+ORD-2024730,2024-05-19,CUST-0022,Benjamin Moore,Under-Desk Filing Cabinet,Furniture,West,4,210.0,0.05,798.0,520.0,278.0,UPI
+ORD-2024731,2024-07-03,CUST-0117,Ava Jackson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,1,149.0,0.0,149.0,88.0,61.0,UPI
+ORD-2024732,2024-01-08,CUST-0148,Benjamin Wilson,Elgato Stream Deck MK.2,Electronics Accessories,South,3,149.0,0.0,447.0,276.0,171.0,Corporate Net 30
+ORD-2024733,2025-01-10,CUST-0009,Ethan Sharma,Keychron Q1 Pro Keyboard,Technology,West,3,199.0,0.0,597.0,360.0,237.0,UPI
+ORD-2024734,2024-03-22,CUST-0037,Ava Moore,Heavy Duty Paper Shredder,Office Supplies,Central,1,220.0,0.15,187.0,130.0,57.0,Credit Card
+ORD-2024735,2024-09-08,CUST-0121,Siddharth Hernandez,CalDigit TS4 Thunderbolt Dock,Technology,Central,1,399.0,0.0,399.0,260.0,139.0,Wire Transfer
+ORD-2024736,2024-01-12,CUST-0121,Siddharth Hernandez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,2,149.0,0.0,298.0,176.0,122.0,Wire Transfer
+ORD-2024737,2024-10-28,CUST-0075,Charlotte Mehta,Herman Miller Aeron Chair,Furniture,Central,3,1395.0,0.1,3766.5,2760.0,1006.5,Corporate Net 30
+ORD-2024738,2024-09-23,CUST-0016,Olivia Verma,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,2,149.0,0.05,283.1,176.0,107.1,Wire Transfer
+ORD-2024739,2024-01-28,CUST-0074,Isabella Thompson,Anker 100W GaN Fast Charger,Electronics Accessories,South,2,65.0,0.15,110.5,64.0,46.5,Wire Transfer
+ORD-2024740,2024-09-15,CUST-0034,Harper Anderson,Neodymium Magnetic Whiteboard,Office Supplies,East,1,160.0,0.0,160.0,85.0,75.0,PayPal
+ORD-2024741,2024-06-03,CUST-0115,Aditya Williams,Cable Management Rack Tray,Office Supplies,South,1,35.0,0.1,31.5,14.0,17.5,UPI
+ORD-2024742,2024-07-04,CUST-0136,Isabella Miller,Sony WH-1000XM5 Headphones,Technology,North,5,399.0,0.05,1895.25,1200.0,695.25,PayPal
+ORD-2024743,2025-05-22,CUST-0106,Amelia Lee,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,3,189.0,0.0,567.0,360.0,207.0,Corporate Net 30
+ORD-2024744,2024-12-19,CUST-0014,Amelia Mehta,Cable Management Rack Tray,Office Supplies,North,1,35.0,0.0,35.0,14.0,21.0,UPI
+ORD-2024745,2024-11-04,CUST-0122,Daniel Thomas,Under-Desk Filing Cabinet,Furniture,West,2,210.0,0.0,420.0,260.0,160.0,UPI
+ORD-2024746,2024-01-13,CUST-0074,Isabella Thompson,Blue Yeti USB Microphone,Electronics Accessories,East,5,129.0,0.05,612.75,375.0,237.75,Credit Card
+ORD-2024747,2024-04-09,CUST-0137,Evelyn White,Cable Management Rack Tray,Office Supplies,West,2,35.0,0.05,66.5,28.0,38.5,Wire Transfer
+ORD-2024748,2024-12-09,CUST-0070,Rohan Garcia,Cable Management Rack Tray,Office Supplies,North,1,35.0,0.05,33.25,14.0,19.25,UPI
+ORD-2024749,2024-09-04,CUST-0050,Amelia Thompson,Ergonomic Footrest Cushion,Office Supplies,South,1,49.0,0.0,49.0,22.0,27.0,Credit Card
+ORD-2024750,2024-03-10,CUST-0004,Arjun Thompson,Anker 100W GaN Fast Charger,Electronics Accessories,Central,1,65.0,0.0,65.0,32.0,33.0,PayPal
+ORD-2024751,2024-10-17,CUST-0065,Charlotte Williams,Herman Miller Aeron Chair,Furniture,North,2,1395.0,0.0,2790.0,1840.0,950.0,Corporate Net 30
+ORD-2024752,2024-08-10,CUST-0032,Rohan White,Dell XPS 15,Technology,Central,1,1899.0,0.05,1804.05,1350.0,454.05,Corporate Net 30
+ORD-2024753,2024-07-08,CUST-0029,Charlotte Perez,Ergonomic Monitor Arm Dual,Furniture,East,2,149.0,0.2,238.4,170.0,68.4,UPI
+ORD-2024754,2024-10-10,CUST-0110,Olivia Jackson,Neodymium Magnetic Whiteboard,Office Supplies,South,3,160.0,0.0,480.0,255.0,225.0,Credit Card
+ORD-2024755,2025-01-26,CUST-0100,Aarav Johnson,Moleskine Smart Notebook Set,Office Supplies,East,5,45.0,0.0,225.0,110.0,115.0,UPI
+ORD-2024756,2024-03-12,CUST-0126,Emma Rodriguez,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.0,420.0,260.0,160.0,Corporate Net 30
+ORD-2024757,2025-03-17,CUST-0056,Aarav Anderson,Dell 4K UltraSharp 27-Inch,Technology,East,1,620.0,0.0,620.0,410.0,210.0,Corporate Net 30
+ORD-2024758,2024-09-13,CUST-0115,Aditya Williams,Dell 4K UltraSharp 27-Inch,Technology,South,2,620.0,0.0,1240.0,820.0,420.0,Credit Card
+ORD-2024759,2025-02-03,CUST-0069,Lucas Gonzalez,LED Desk Task Light,Furniture,West,2,79.0,0.05,150.1,76.0,74.1,UPI
+ORD-2024760,2025-05-04,CUST-0112,Mia Verma,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.0,298.0,184.0,114.0,UPI
+ORD-2024761,2024-05-04,CUST-0146,Grace Thomas,Neodymium Magnetic Whiteboard,Office Supplies,East,1,160.0,0.05,152.0,85.0,67.0,Credit Card
+ORD-2024762,2025-01-09,CUST-0137,Evelyn White,Moleskine Smart Notebook Set,Office Supplies,West,3,45.0,0.0,135.0,66.0,69.0,PayPal
+ORD-2024763,2024-06-29,CUST-0142,Isabella Jackson,Logitech MX Master 3S,Technology,South,1,99.0,0.0,99.0,55.0,44.0,Credit Card
+ORD-2024764,2025-01-02,CUST-0125,Ethan Rodriguez,Dell 4K UltraSharp 27-Inch,Technology,South,1,620.0,0.0,620.0,410.0,210.0,Corporate Net 30
+ORD-2024765,2024-09-01,CUST-0126,Emma Rodriguez,Anker 100W GaN Fast Charger,Electronics Accessories,Central,2,65.0,0.0,130.0,64.0,66.0,UPI
+ORD-2024766,2024-01-17,CUST-0010,Charlotte Gonzalez,Moleskine Smart Notebook Set,Office Supplies,East,3,45.0,0.0,135.0,66.0,69.0,Credit Card
+ORD-2024767,2024-08-04,CUST-0134,Mia Jones,Elgato Stream Deck MK.2,Electronics Accessories,Central,1,149.0,0.05,141.55,92.0,49.55,Credit Card
+ORD-2024768,2024-02-07,CUST-0037,Ava Moore,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.15,253.3,184.0,69.3,Credit Card
+ORD-2024769,2024-09-05,CUST-0034,Harper Anderson,ThinkPad X1 Carbon,Technology,North,4,1650.0,0.1,5940.0,4600.0,1340.0,Credit Card
+ORD-2024770,2025-04-12,CUST-0044,Sophia Thomas,Dell XPS 15,Technology,North,2,1899.0,0.1,3418.2,2700.0,718.2,PayPal
+ORD-2024771,2024-03-05,CUST-0052,Vikram Sharma,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.2,159.2,115.0,44.2,Corporate Net 30
+ORD-2024772,2024-05-20,CUST-0083,Charlotte Rodriguez,Herman Miller Aeron Chair,Furniture,Central,1,1395.0,0.0,1395.0,920.0,475.0,Wire Transfer
+ORD-2024773,2024-05-24,CUST-0107,Noah Wilson,LED Desk Task Light,Furniture,Central,1,79.0,0.0,79.0,38.0,41.0,Corporate Net 30
+ORD-2024774,2024-02-11,CUST-0035,Aarav Patel,Keychron Q1 Pro Keyboard,Technology,West,3,199.0,0.0,597.0,360.0,237.0,UPI
+ORD-2024775,2024-03-23,CUST-0002,Siddharth Martinez,ThinkPad X1 Carbon,Technology,North,3,1650.0,0.05,4702.5,3450.0,1252.5,Wire Transfer
+ORD-2024776,2025-03-02,CUST-0122,Daniel Thomas,Autonomous SmartDesk Pro,Furniture,South,2,650.0,0.05,1235.0,820.0,415.0,UPI
+ORD-2024777,2024-09-01,CUST-0045,Charlotte Gonzalez,Keychron Q1 Pro Keyboard,Technology,South,3,199.0,0.05,567.15,360.0,207.15,Credit Card
+ORD-2024778,2024-11-04,CUST-0090,Grace Martin,Anker 100W GaN Fast Charger,Electronics Accessories,Central,1,65.0,0.0,65.0,32.0,33.0,Corporate Net 30
+ORD-2024779,2024-04-07,CUST-0093,Noah Martin,Acoustic Privacy Panel,Furniture,South,1,180.0,0.0,180.0,95.0,85.0,PayPal
+ORD-2024780,2025-04-30,CUST-0128,Priya Garcia,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.0,780.0,490.0,290.0,PayPal
+ORD-2024781,2025-03-21,CUST-0065,Charlotte Williams,Thermal Label Printer,Office Supplies,West,1,175.0,0.1,157.5,98.0,59.5,Corporate Net 30
+ORD-2024782,2024-06-29,CUST-0041,Ava Martin,Dell 4K UltraSharp 27-Inch,Technology,Central,1,620.0,0.15,527.0,410.0,117.0,UPI
+ORD-2024783,2024-11-29,CUST-0108,Noah Martin,LED Desk Task Light,Furniture,South,3,79.0,0.0,237.0,114.0,123.0,Credit Card
+ORD-2024784,2024-08-30,CUST-0106,Amelia Lee,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.05,199.5,130.0,69.5,Credit Card
+ORD-2024785,2025-03-22,CUST-0038,Noah Martin,Acoustic Privacy Panel,Furniture,South,1,180.0,0.0,180.0,95.0,85.0,PayPal
+ORD-2024786,2025-01-02,CUST-0070,Rohan Garcia,LED Desk Task Light,Furniture,South,1,79.0,0.05,75.05,38.0,37.05,Wire Transfer
+ORD-2024787,2024-05-19,CUST-0029,Charlotte Perez,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.0,129.0,75.0,54.0,Wire Transfer
+ORD-2024788,2024-06-09,CUST-0044,Sophia Thomas,Steelcase Gesture Chair,Furniture,West,4,1250.0,0.0,5000.0,3280.0,1720.0,PayPal
+ORD-2024789,2025-04-29,CUST-0119,Amelia Davis,Moleskine Smart Notebook Set,Office Supplies,West,3,45.0,0.0,135.0,66.0,69.0,Wire Transfer
+ORD-2024790,2025-03-20,CUST-0149,Harper Iyer,Jarvis Bamboo Standing Desk,Furniture,Central,4,780.0,0.0,3120.0,1960.0,1160.0,Credit Card
+ORD-2024791,2024-02-11,CUST-0121,Siddharth Hernandez,Logitech MX Master 3S,Technology,Central,1,99.0,0.1,89.1,55.0,34.1,Credit Card
+ORD-2024792,2025-04-08,CUST-0127,Evelyn Lee,Steelcase Gesture Chair,Furniture,Central,3,1250.0,0.05,3562.5,2460.0,1102.5,UPI
+ORD-2024793,2024-08-11,CUST-0034,Harper Anderson,Neodymium Magnetic Whiteboard,Office Supplies,South,2,160.0,0.0,320.0,170.0,150.0,UPI
+ORD-2024794,2024-11-08,CUST-0042,Charlotte Wilson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,Central,1,149.0,0.0,149.0,88.0,61.0,PayPal
+ORD-2024795,2025-02-19,CUST-0048,Benjamin Iyer,Ergonomic Footrest Cushion,Office Supplies,West,3,49.0,0.0,147.0,66.0,81.0,Credit Card
+ORD-2024796,2025-01-29,CUST-0086,Sophia Williams,Samsung Galaxy S24 Ultra,Technology,West,3,1299.0,0.05,3702.15,2670.0,1032.15,Corporate Net 30
+ORD-2024797,2024-07-31,CUST-0021,Daniel Johnson,Ergonomic Footrest Cushion,Office Supplies,North,2,49.0,0.15,83.3,44.0,39.3,Wire Transfer
+ORD-2024798,2024-02-22,CUST-0029,Charlotte Perez,Logitech Brio 4K Webcam,Electronics Accessories,West,2,199.0,0.0,398.0,230.0,168.0,PayPal
+ORD-2024799,2024-03-09,CUST-0144,Sophia Lopez,Jarvis Bamboo Standing Desk,Furniture,East,1,780.0,0.0,780.0,490.0,290.0,UPI
+ORD-2024800,2024-08-02,CUST-0058,Priya Iyer,Neodymium Magnetic Whiteboard,Office Supplies,East,2,160.0,0.0,320.0,170.0,150.0,Credit Card
+ORD-2024801,2024-03-05,CUST-0096,Alexander Gonzalez,Heavy Duty Paper Shredder,Office Supplies,West,2,220.0,0.1,396.0,260.0,136.0,UPI
+ORD-2024802,2025-06-28,CUST-0137,Evelyn White,Heavy Duty Paper Shredder,Office Supplies,Central,1,220.0,0.05,209.0,130.0,79.0,Credit Card
+ORD-2024803,2024-07-11,CUST-0118,Chloe Davis,Dell XPS 15,Technology,West,4,1899.0,0.0,7596.0,5400.0,2196.0,Credit Card
+ORD-2024804,2024-04-21,CUST-0043,Aditya Martinez,Moleskine Smart Notebook Set,Office Supplies,South,2,45.0,0.15,76.5,44.0,32.5,Corporate Net 30
+ORD-2024805,2024-01-24,CUST-0076,Nora Mehta,Elgato Stream Deck MK.2,Electronics Accessories,Central,5,149.0,0.0,745.0,460.0,285.0,UPI
+ORD-2024806,2025-03-30,CUST-0006,Arjun Wilson,Premium Gel Pen 12-Pack,Office Supplies,North,1,24.0,0.1,21.6,9.0,12.6,Corporate Net 30
+ORD-2024807,2024-12-09,CUST-0106,Amelia Lee,Ergonomic Footrest Cushion,Office Supplies,East,2,49.0,0.05,93.1,44.0,49.1,Corporate Net 30
+ORD-2024808,2025-03-31,CUST-0118,Chloe Davis,Thermal Label Printer,Office Supplies,South,4,175.0,0.0,700.0,392.0,308.0,Wire Transfer
+ORD-2024809,2024-08-20,CUST-0124,Liam Verma,Neodymium Magnetic Whiteboard,Office Supplies,North,1,160.0,0.0,160.0,85.0,75.0,PayPal
+ORD-2024810,2024-06-13,CUST-0138,Grace Patel,Premium Gel Pen 12-Pack,Office Supplies,South,3,24.0,0.05,68.4,27.0,41.4,PayPal
+ORD-2024811,2024-06-14,CUST-0061,Alexander Anderson,MacBook Pro 16-Inch,Technology,East,2,2499.0,0.0,4998.0,3600.0,1398.0,Wire Transfer
+ORD-2024812,2024-07-07,CUST-0053,Lucas Martinez,Sony WH-1000XM5 Headphones,Technology,East,1,399.0,0.0,399.0,240.0,159.0,PayPal
+ORD-2024813,2025-06-30,CUST-0078,Grace Johnson,MacBook Pro 16-Inch,Technology,West,5,2499.0,0.1,11245.5,9000.0,2245.5,UPI
+ORD-2024814,2024-11-23,CUST-0040,Rohan Mehta,CalDigit TS4 Thunderbolt Dock,Technology,Central,1,399.0,0.1,359.1,260.0,99.1,UPI
+ORD-2024815,2024-10-23,CUST-0147,Rohan Verma,Acoustic Privacy Panel,Furniture,East,2,180.0,0.1,324.0,190.0,134.0,Credit Card
+ORD-2024816,2024-05-22,CUST-0142,Isabella Jackson,Samsung Galaxy S24 Ultra,Technology,North,1,1299.0,0.1,1169.1,890.0,279.1,UPI
+ORD-2024817,2024-12-31,CUST-0024,Rohan Rodriguez,Moleskine Smart Notebook Set,Office Supplies,Central,2,45.0,0.05,85.5,44.0,41.5,PayPal
+ORD-2024818,2024-10-11,CUST-0051,Daniel Thomas,Dell XPS 15,Technology,Central,3,1899.0,0.05,5412.15,4050.0,1362.15,Credit Card
+ORD-2024819,2025-06-08,CUST-0101,Noah Anderson,Acoustic Privacy Panel,Furniture,East,2,180.0,0.05,342.0,190.0,152.0,Credit Card
+ORD-2024820,2025-01-04,CUST-0102,Emma White,Under-Desk Filing Cabinet,Furniture,East,1,210.0,0.0,210.0,130.0,80.0,Wire Transfer
+ORD-2024821,2024-12-25,CUST-0079,Olivia Perez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.15,126.65,88.0,38.65,UPI
+ORD-2024822,2025-03-29,CUST-0074,Isabella Thompson,Under-Desk Filing Cabinet,Furniture,West,1,210.0,0.05,199.5,130.0,69.5,Credit Card
+ORD-2024823,2024-05-27,CUST-0054,Mia Mehta,Heavy Duty Paper Shredder,Office Supplies,Central,8,220.0,0.0,1760.0,1040.0,720.0,Corporate Net 30
+ORD-2024824,2025-01-19,CUST-0023,Benjamin Martin,Logitech MX Master 3S,Technology,East,1,99.0,0.05,94.05,55.0,39.05,Corporate Net 30
+ORD-2024825,2024-05-20,CUST-0052,Vikram Sharma,Under-Desk Filing Cabinet,Furniture,East,2,210.0,0.0,420.0,260.0,160.0,Wire Transfer
+ORD-2024826,2024-11-07,CUST-0127,Evelyn Lee,Samsung T7 Shield 2TB SSD,Electronics Accessories,North,3,189.0,0.0,567.0,360.0,207.0,Wire Transfer
+ORD-2024827,2025-04-28,CUST-0032,Rohan White,Heavy Duty Paper Shredder,Office Supplies,South,2,220.0,0.05,418.0,260.0,158.0,PayPal
+ORD-2024828,2024-01-30,CUST-0031,Zoe Brown,Heavy Duty Paper Shredder,Office Supplies,North,2,220.0,0.0,440.0,260.0,180.0,UPI
+ORD-2024829,2025-03-22,CUST-0067,Siddharth Taylor,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.1,134.1,92.0,42.1,Credit Card
+ORD-2024830,2024-09-22,CUST-0042,Charlotte Wilson,ThinkPad X1 Carbon,Technology,East,2,1650.0,0.05,3135.0,2300.0,835.0,Wire Transfer
+ORD-2024831,2024-06-16,CUST-0014,Amelia Mehta,Neodymium Magnetic Whiteboard,Office Supplies,West,2,160.0,0.2,256.0,170.0,86.0,Credit Card
+ORD-2024832,2024-10-23,CUST-0075,Charlotte Mehta,CalDigit TS4 Thunderbolt Dock,Technology,South,3,399.0,0.0,1197.0,780.0,417.0,Credit Card
+ORD-2024833,2024-06-20,CUST-0140,Ethan Martin,Cable Management Rack Tray,Office Supplies,East,3,35.0,0.05,99.75,42.0,57.75,Wire Transfer
+ORD-2024834,2024-10-04,CUST-0093,Noah Martin,CalDigit TS4 Thunderbolt Dock,Technology,Central,1,399.0,0.0,399.0,260.0,139.0,PayPal
+ORD-2024835,2025-06-14,CUST-0073,Vikram Sharma,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.15,29.75,14.0,15.75,PayPal
+ORD-2024836,2024-04-14,CUST-0056,Aarav Anderson,Autonomous SmartDesk Pro,Furniture,South,3,650.0,0.05,1852.5,1230.0,622.5,Corporate Net 30
+ORD-2024837,2025-06-28,CUST-0142,Isabella Jackson,Logitech MX Master 3S,Technology,West,4,99.0,0.0,396.0,220.0,176.0,PayPal
+ORD-2024838,2024-01-18,CUST-0123,Benjamin Patel,Neodymium Magnetic Whiteboard,Office Supplies,East,1,160.0,0.0,160.0,85.0,75.0,Corporate Net 30
+ORD-2024839,2025-06-19,CUST-0088,Amelia Thompson,Ergonomic Monitor Arm Dual,Furniture,North,3,149.0,0.0,447.0,255.0,192.0,PayPal
+ORD-2024840,2024-05-25,CUST-0059,Sophia Anderson,Premium Gel Pen 12-Pack,Office Supplies,South,1,24.0,0.0,24.0,9.0,15.0,Credit Card
+ORD-2024841,2024-03-20,CUST-0005,Isabella Moore,Blue Yeti USB Microphone,Electronics Accessories,North,1,129.0,0.0,129.0,75.0,54.0,Corporate Net 30
+ORD-2024842,2024-03-01,CUST-0121,Siddharth Hernandez,Samsung Galaxy S24 Ultra,Technology,North,1,1299.0,0.05,1234.05,890.0,344.05,Credit Card
+ORD-2024843,2024-05-06,CUST-0053,Lucas Martinez,Jarvis Bamboo Standing Desk,Furniture,East,1,780.0,0.0,780.0,490.0,290.0,Wire Transfer
+ORD-2024844,2024-12-22,CUST-0091,Chloe Verma,Autonomous SmartDesk Pro,Furniture,Central,2,650.0,0.0,1300.0,820.0,480.0,Corporate Net 30
+ORD-2024845,2024-01-15,CUST-0136,Isabella Miller,Autonomous SmartDesk Pro,Furniture,East,1,650.0,0.1,585.0,410.0,175.0,Credit Card
+ORD-2024846,2024-04-11,CUST-0055,Daniel Verma,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.05,189.05,115.0,74.05,Credit Card
+ORD-2024847,2024-07-04,CUST-0091,Chloe Verma,Blue Yeti USB Microphone,Electronics Accessories,South,2,129.0,0.0,258.0,150.0,108.0,Wire Transfer
+ORD-2024848,2024-05-06,CUST-0120,Evelyn Davis,CalDigit TS4 Thunderbolt Dock,Technology,South,2,399.0,0.0,798.0,520.0,278.0,Wire Transfer
+ORD-2024849,2024-02-11,CUST-0022,Benjamin Moore,Heavy Duty Paper Shredder,Office Supplies,North,1,220.0,0.0,220.0,130.0,90.0,Wire Transfer
+ORD-2024850,2025-03-30,CUST-0058,Priya Iyer,Logitech Brio 4K Webcam,Electronics Accessories,West,1,199.0,0.0,199.0,115.0,84.0,UPI
+ORD-2024851,2025-01-11,CUST-0046,Nora Martin,Dell 4K UltraSharp 27-Inch,Technology,North,1,620.0,0.05,589.0,410.0,179.0,Credit Card
+ORD-2024852,2024-05-02,CUST-0037,Ava Moore,Blue Yeti USB Microphone,Electronics Accessories,Central,8,129.0,0.1,928.8,600.0,328.8,PayPal
+ORD-2024853,2024-03-07,CUST-0094,Harper Sharma,LED Desk Task Light,Furniture,South,2,79.0,0.25,118.5,76.0,42.5,Credit Card
+ORD-2024854,2024-08-26,CUST-0109,Liam Johnson,Logitech Brio 4K Webcam,Electronics Accessories,Central,2,199.0,0.1,358.2,230.0,128.2,UPI
+ORD-2024855,2024-12-30,CUST-0122,Daniel Thomas,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.1,116.1,75.0,41.1,Credit Card
+ORD-2024856,2024-05-05,CUST-0065,Charlotte Williams,Blue Yeti USB Microphone,Electronics Accessories,South,2,129.0,0.0,258.0,150.0,108.0,Credit Card
+ORD-2024857,2024-02-24,CUST-0018,Harper Thompson,Elgato Stream Deck MK.2,Electronics Accessories,North,8,149.0,0.0,1192.0,736.0,456.0,Wire Transfer
+ORD-2024858,2024-06-05,CUST-0078,Grace Johnson,Dell XPS 15,Technology,Central,3,1899.0,0.1,5127.3,4050.0,1077.3,PayPal
+ORD-2024859,2024-10-27,CUST-0128,Priya Garcia,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,2,149.0,0.1,268.2,176.0,92.2,Corporate Net 30
+ORD-2024860,2024-01-19,CUST-0009,Ethan Sharma,Anker 100W GaN Fast Charger,Electronics Accessories,West,2,65.0,0.15,110.5,64.0,46.5,UPI
+ORD-2024861,2025-04-15,CUST-0010,Charlotte Gonzalez,ThinkPad X1 Carbon,Technology,Central,2,1650.0,0.1,2970.0,2300.0,670.0,PayPal
+ORD-2024862,2025-05-18,CUST-0111,Harper Martin,Ergonomic Monitor Arm Dual,Furniture,West,2,149.0,0.0,298.0,170.0,128.0,UPI
+ORD-2024863,2025-04-26,CUST-0122,Daniel Thomas,Herman Miller Aeron Chair,Furniture,West,1,1395.0,0.05,1325.25,920.0,405.25,UPI
+ORD-2024864,2024-12-27,CUST-0073,Vikram Sharma,Moleskine Smart Notebook Set,Office Supplies,North,2,45.0,0.0,90.0,44.0,46.0,Wire Transfer
+ORD-2024865,2024-12-23,CUST-0150,Olivia Mehta,Sony WH-1000XM5 Headphones,Technology,West,1,399.0,0.0,399.0,240.0,159.0,Wire Transfer
+ORD-2024866,2025-02-25,CUST-0090,Grace Martin,iPad Pro 12.9,Technology,South,1,1099.0,0.0,1099.0,750.0,349.0,Credit Card
+ORD-2024867,2024-03-08,CUST-0079,Olivia Perez,Sony WH-1000XM5 Headphones,Technology,South,1,399.0,0.0,399.0,240.0,159.0,UPI
+ORD-2024868,2025-03-08,CUST-0146,Grace Thomas,Logitech Brio 4K Webcam,Electronics Accessories,North,2,199.0,0.05,378.1,230.0,148.1,Wire Transfer
+ORD-2024869,2025-01-21,CUST-0147,Rohan Verma,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.0,199.0,115.0,84.0,PayPal
+ORD-2024870,2024-12-10,CUST-0128,Priya Garcia,Premium Gel Pen 12-Pack,Office Supplies,Central,1,24.0,0.2,19.2,9.0,10.2,PayPal
+ORD-2024871,2025-05-23,CUST-0020,Aarav Jackson,Ergonomic Monitor Arm Dual,Furniture,East,1,149.0,0.25,111.75,85.0,26.75,UPI
+ORD-2024872,2024-08-19,CUST-0024,Rohan Rodriguez,Keychron Q1 Pro Keyboard,Technology,East,1,199.0,0.05,189.05,120.0,69.05,Corporate Net 30
+ORD-2024873,2025-05-01,CUST-0110,Olivia Jackson,LED Desk Task Light,Furniture,North,2,79.0,0.0,158.0,76.0,82.0,Wire Transfer
+ORD-2024874,2025-03-19,CUST-0139,Isabella Iyer,Premium Gel Pen 12-Pack,Office Supplies,West,1,24.0,0.05,22.8,9.0,13.8,UPI
+ORD-2024875,2024-07-03,CUST-0005,Isabella Moore,Acoustic Privacy Panel,Furniture,South,2,180.0,0.1,324.0,190.0,134.0,UPI
+ORD-2024876,2024-10-01,CUST-0137,Evelyn White,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,2,149.0,0.0,298.0,176.0,122.0,PayPal
+ORD-2024877,2024-09-03,CUST-0039,Kavita Hernandez,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.15,29.75,14.0,15.75,Credit Card
+ORD-2024878,2024-07-27,CUST-0106,Amelia Lee,Cable Management Rack Tray,Office Supplies,East,2,35.0,0.0,70.0,28.0,42.0,Corporate Net 30
+ORD-2024879,2024-08-29,CUST-0104,Grace White,Steelcase Gesture Chair,Furniture,South,1,1250.0,0.0,1250.0,820.0,430.0,Wire Transfer
+ORD-2024880,2025-04-20,CUST-0125,Ethan Rodriguez,Blue Yeti USB Microphone,Electronics Accessories,North,1,129.0,0.0,129.0,75.0,54.0,Credit Card
+ORD-2024881,2024-09-21,CUST-0072,Harper Jones,Herman Miller Aeron Chair,Furniture,West,3,1395.0,0.0,4185.0,2760.0,1425.0,Credit Card
+ORD-2024882,2024-11-17,CUST-0077,Lucas Gonzalez,Logitech MX Master 3S,Technology,East,2,99.0,0.15,168.3,110.0,58.3,UPI
+ORD-2024883,2024-05-23,CUST-0061,Alexander Anderson,Keychron Q1 Pro Keyboard,Technology,Central,5,199.0,0.05,945.25,600.0,345.25,Corporate Net 30
+ORD-2024884,2025-06-21,CUST-0065,Charlotte Williams,Anker 100W GaN Fast Charger,Electronics Accessories,South,2,65.0,0.1,117.0,64.0,53.0,Wire Transfer
+ORD-2024885,2024-12-03,CUST-0150,Olivia Mehta,Elgato Stream Deck MK.2,Electronics Accessories,South,5,149.0,0.0,745.0,460.0,285.0,Credit Card
+ORD-2024886,2024-06-28,CUST-0055,Daniel Verma,Heavy Duty Paper Shredder,Office Supplies,West,1,220.0,0.05,209.0,130.0,79.0,UPI
+ORD-2024887,2025-06-30,CUST-0096,Alexander Gonzalez,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.05,379.05,240.0,139.05,Wire Transfer
+ORD-2024888,2024-05-28,CUST-0093,Noah Martin,Elgato Stream Deck MK.2,Electronics Accessories,East,3,149.0,0.0,447.0,276.0,171.0,Corporate Net 30
+ORD-2024889,2024-02-05,CUST-0014,Amelia Mehta,Ergonomic Monitor Arm Dual,Furniture,Central,1,149.0,0.05,141.55,85.0,56.55,Wire Transfer
+ORD-2024890,2024-05-04,CUST-0137,Evelyn White,Acoustic Privacy Panel,Furniture,West,1,180.0,0.2,144.0,95.0,49.0,Wire Transfer
+ORD-2024891,2024-11-04,CUST-0024,Rohan Rodriguez,Ergonomic Monitor Arm Dual,Furniture,South,4,149.0,0.0,596.0,340.0,256.0,UPI
+ORD-2024892,2024-11-20,CUST-0105,Kavita Brown,Samsung Galaxy S24 Ultra,Technology,North,3,1299.0,0.2,3117.6,2670.0,447.6,UPI
+ORD-2024893,2025-02-26,CUST-0086,Sophia Williams,Anker 100W GaN Fast Charger,Electronics Accessories,South,2,65.0,0.05,123.5,64.0,59.5,Wire Transfer
+ORD-2024894,2025-03-06,CUST-0141,Ava Thompson,Heavy Duty Paper Shredder,Office Supplies,North,3,220.0,0.05,627.0,390.0,237.0,PayPal
+ORD-2024895,2025-03-30,CUST-0035,Aarav Patel,Logitech MX Master 3S,Technology,South,2,99.0,0.0,198.0,110.0,88.0,Credit Card
+ORD-2024896,2024-04-23,CUST-0041,Ava Martin,Jarvis Bamboo Standing Desk,Furniture,Central,2,780.0,0.1,1404.0,980.0,424.0,Wire Transfer
+ORD-2024897,2025-04-07,CUST-0123,Benjamin Patel,Ergonomic Monitor Arm Dual,Furniture,South,2,149.0,0.1,268.2,170.0,98.2,Wire Transfer
+ORD-2024898,2024-07-22,CUST-0022,Benjamin Moore,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.0,199.0,115.0,84.0,Corporate Net 30
+ORD-2024899,2024-08-17,CUST-0006,Arjun Wilson,CalDigit TS4 Thunderbolt Dock,Technology,Central,2,399.0,0.15,678.3,520.0,158.3,UPI
+ORD-2024900,2024-07-22,CUST-0068,Arjun Moore,Herman Miller Aeron Chair,Furniture,West,2,1395.0,0.05,2650.5,1840.0,810.5,PayPal
+ORD-2024901,2024-04-01,CUST-0095,Liam Gonzalez,Steelcase Gesture Chair,Furniture,North,3,1250.0,0.0,3750.0,2460.0,1290.0,UPI
+ORD-2024902,2025-05-21,CUST-0031,Zoe Brown,Autonomous SmartDesk Pro,Furniture,South,5,650.0,0.1,2925.0,2050.0,875.0,Wire Transfer
+ORD-2024903,2024-10-21,CUST-0127,Evelyn Lee,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,4,189.0,0.05,718.2,480.0,238.2,Wire Transfer
+ORD-2024904,2024-07-12,CUST-0108,Noah Martin,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.2,168.0,130.0,38.0,PayPal
+ORD-2024905,2025-04-06,CUST-0064,Emma White,Thermal Label Printer,Office Supplies,West,1,175.0,0.0,175.0,98.0,77.0,Wire Transfer
+ORD-2024906,2025-02-11,CUST-0055,Daniel Verma,Elgato Stream Deck MK.2,Electronics Accessories,West,3,149.0,0.0,447.0,276.0,171.0,Credit Card
+ORD-2024907,2024-03-01,CUST-0014,Amelia Mehta,Premium Gel Pen 12-Pack,Office Supplies,West,4,24.0,0.25,72.0,36.0,36.0,Corporate Net 30
+ORD-2024908,2024-02-16,CUST-0002,Siddharth Martinez,Thermal Label Printer,Office Supplies,Central,1,175.0,0.2,140.0,98.0,42.0,Wire Transfer
+ORD-2024909,2024-05-15,CUST-0144,Sophia Lopez,Keychron Q1 Pro Keyboard,Technology,South,1,199.0,0.05,189.05,120.0,69.05,Wire Transfer
+ORD-2024910,2025-04-24,CUST-0034,Harper Anderson,Sony WH-1000XM5 Headphones,Technology,Central,1,399.0,0.0,399.0,240.0,159.0,Wire Transfer
+ORD-2024911,2024-02-15,CUST-0033,Nora Iyer,Logitech Brio 4K Webcam,Electronics Accessories,East,4,199.0,0.0,796.0,460.0,336.0,Wire Transfer
+ORD-2024912,2024-09-27,CUST-0133,Charlotte Verma,Heavy Duty Paper Shredder,Office Supplies,South,1,220.0,0.25,165.0,130.0,35.0,PayPal
+ORD-2024913,2025-03-26,CUST-0014,Amelia Mehta,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.0,780.0,490.0,290.0,Wire Transfer
+ORD-2024914,2024-06-16,CUST-0120,Evelyn Davis,Anker 100W GaN Fast Charger,Electronics Accessories,West,1,65.0,0.0,65.0,32.0,33.0,Corporate Net 30
+ORD-2024915,2025-05-11,CUST-0118,Chloe Davis,Anker 100W GaN Fast Charger,Electronics Accessories,South,1,65.0,0.0,65.0,32.0,33.0,Wire Transfer
+ORD-2024916,2024-07-03,CUST-0044,Sophia Thomas,Thermal Label Printer,Office Supplies,Central,1,175.0,0.25,131.25,98.0,33.25,Credit Card
+ORD-2024917,2025-06-22,CUST-0147,Rohan Verma,Under-Desk Filing Cabinet,Furniture,North,1,210.0,0.0,210.0,130.0,80.0,Credit Card
+ORD-2024918,2024-12-02,CUST-0007,Lucas Johnson,Ergonomic Footrest Cushion,Office Supplies,North,1,49.0,0.05,46.55,22.0,24.55,Credit Card
+ORD-2024919,2024-11-27,CUST-0040,Rohan Mehta,Dell XPS 15,Technology,West,3,1899.0,0.05,5412.15,4050.0,1362.15,UPI
+ORD-2024920,2024-10-02,CUST-0002,Siddharth Martinez,Moleskine Smart Notebook Set,Office Supplies,Central,5,45.0,0.0,225.0,110.0,115.0,Corporate Net 30
+ORD-2024921,2024-05-12,CUST-0055,Daniel Verma,Samsung Galaxy S24 Ultra,Technology,East,3,1299.0,0.1,3507.3,2670.0,837.3,Corporate Net 30
+ORD-2024922,2025-01-25,CUST-0024,Rohan Rodriguez,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.1,179.1,115.0,64.1,UPI
+ORD-2024923,2024-04-01,CUST-0006,Arjun Wilson,Jarvis Bamboo Standing Desk,Furniture,West,3,780.0,0.0,2340.0,1470.0,870.0,PayPal
+ORD-2024924,2024-05-03,CUST-0077,Lucas Gonzalez,Blue Yeti USB Microphone,Electronics Accessories,East,4,129.0,0.05,490.2,300.0,190.2,Wire Transfer
+ORD-2024925,2024-04-08,CUST-0095,Liam Gonzalez,Acoustic Privacy Panel,Furniture,West,4,180.0,0.0,720.0,380.0,340.0,Corporate Net 30
+ORD-2024926,2025-03-09,CUST-0024,Rohan Rodriguez,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.05,189.05,115.0,74.05,Credit Card
+ORD-2024927,2024-02-11,CUST-0132,Priya Jackson,Heavy Duty Paper Shredder,Office Supplies,South,2,220.0,0.1,396.0,260.0,136.0,UPI
+ORD-2024928,2025-06-23,CUST-0135,Chloe Rodriguez,Samsung Galaxy S24 Ultra,Technology,West,1,1299.0,0.15,1104.15,890.0,214.15,UPI
+ORD-2024929,2024-11-03,CUST-0039,Kavita Hernandez,Ergonomic Monitor Arm Dual,Furniture,South,2,149.0,0.0,298.0,170.0,128.0,Credit Card
+ORD-2024930,2024-03-19,CUST-0012,Rohan Davis,CalDigit TS4 Thunderbolt Dock,Technology,West,1,399.0,0.0,399.0,260.0,139.0,Corporate Net 30
+ORD-2024931,2024-09-16,CUST-0091,Chloe Verma,Thermal Label Printer,Office Supplies,North,3,175.0,0.0,525.0,294.0,231.0,UPI
+ORD-2024932,2024-07-02,CUST-0047,Emma Moore,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.1,58.5,32.0,26.5,Wire Transfer
+ORD-2024933,2025-04-10,CUST-0116,Aditya Martin,Neodymium Magnetic Whiteboard,Office Supplies,South,1,160.0,0.0,160.0,85.0,75.0,Corporate Net 30
+ORD-2024934,2024-09-22,CUST-0028,Arjun Jackson,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.0,149.0,88.0,61.0,PayPal
+ORD-2024935,2025-05-03,CUST-0118,Chloe Davis,Elgato Stream Deck MK.2,Electronics Accessories,Central,3,149.0,0.0,447.0,276.0,171.0,Corporate Net 30
+ORD-2024936,2025-01-04,CUST-0102,Emma White,Moleskine Smart Notebook Set,Office Supplies,South,1,45.0,0.0,45.0,22.0,23.0,Credit Card
+ORD-2024937,2024-07-11,CUST-0007,Lucas Johnson,Acoustic Privacy Panel,Furniture,South,2,180.0,0.0,360.0,190.0,170.0,Corporate Net 30
+ORD-2024938,2024-07-14,CUST-0023,Benjamin Martin,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.0,35.0,14.0,21.0,Credit Card
+ORD-2024939,2024-06-19,CUST-0040,Rohan Mehta,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.0,129.0,75.0,54.0,PayPal
+ORD-2024940,2024-07-25,CUST-0076,Nora Mehta,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.05,61.75,32.0,29.75,UPI
+ORD-2024941,2025-03-01,CUST-0127,Evelyn Lee,Moleskine Smart Notebook Set,Office Supplies,West,1,45.0,0.05,42.75,22.0,20.75,Corporate Net 30
+ORD-2024942,2025-05-14,CUST-0060,Benjamin Williams,CalDigit TS4 Thunderbolt Dock,Technology,North,1,399.0,0.0,399.0,260.0,139.0,Credit Card
+ORD-2024943,2024-10-01,CUST-0107,Noah Wilson,Anker 100W GaN Fast Charger,Electronics Accessories,West,2,65.0,0.05,123.5,64.0,59.5,UPI
+ORD-2024944,2025-03-22,CUST-0006,Arjun Wilson,Ergonomic Monitor Arm Dual,Furniture,South,2,149.0,0.0,298.0,170.0,128.0,Corporate Net 30
+ORD-2024945,2024-08-12,CUST-0087,Priya Hernandez,Samsung T7 Shield 2TB SSD,Electronics Accessories,East,3,189.0,0.0,567.0,360.0,207.0,UPI
+ORD-2024946,2025-01-03,CUST-0121,Siddharth Hernandez,Autonomous SmartDesk Pro,Furniture,East,2,650.0,0.0,1300.0,820.0,480.0,UPI
+ORD-2024947,2024-05-12,CUST-0045,Charlotte Gonzalez,Jarvis Bamboo Standing Desk,Furniture,Central,2,780.0,0.1,1404.0,980.0,424.0,UPI
+ORD-2024948,2024-11-06,CUST-0061,Alexander Anderson,Herman Miller Aeron Chair,Furniture,North,1,1395.0,0.0,1395.0,920.0,475.0,PayPal
+ORD-2024949,2024-06-27,CUST-0129,Kavita Jones,Dell XPS 15,Technology,East,1,1899.0,0.05,1804.05,1350.0,454.05,Credit Card
+ORD-2024950,2024-08-17,CUST-0125,Ethan Rodriguez,Neodymium Magnetic Whiteboard,Office Supplies,East,3,160.0,0.1,432.0,255.0,177.0,Corporate Net 30
+ORD-2024951,2024-09-30,CUST-0039,Kavita Hernandez,MacBook Pro 16-Inch,Technology,West,3,2499.0,0.2,5997.6,5400.0,597.6,Credit Card
+ORD-2024952,2024-04-18,CUST-0027,Mia Iyer,CalDigit TS4 Thunderbolt Dock,Technology,North,1,399.0,0.0,399.0,260.0,139.0,PayPal
+ORD-2024953,2025-01-05,CUST-0041,Ava Martin,Ergonomic Footrest Cushion,Office Supplies,West,3,49.0,0.0,147.0,66.0,81.0,Credit Card
+ORD-2024954,2024-06-06,CUST-0094,Harper Sharma,Cable Management Rack Tray,Office Supplies,South,1,35.0,0.0,35.0,14.0,21.0,UPI
+ORD-2024955,2024-01-07,CUST-0063,Daniel Smith,Logitech Brio 4K Webcam,Electronics Accessories,East,2,199.0,0.0,398.0,230.0,168.0,Wire Transfer
+ORD-2024956,2025-02-28,CUST-0093,Noah Martin,Jarvis Bamboo Standing Desk,Furniture,Central,1,780.0,0.0,780.0,490.0,290.0,UPI
+ORD-2024957,2025-02-27,CUST-0105,Kavita Brown,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,5,149.0,0.0,745.0,440.0,305.0,Credit Card
+ORD-2024958,2025-06-13,CUST-0018,Harper Thompson,Sony WH-1000XM5 Headphones,Technology,East,1,399.0,0.1,359.1,240.0,119.1,UPI
+ORD-2024959,2024-03-03,CUST-0101,Noah Anderson,ThinkPad X1 Carbon,Technology,Central,1,1650.0,0.05,1567.5,1150.0,417.5,Corporate Net 30
+ORD-2024960,2024-10-29,CUST-0108,Noah Martin,Elgato Stream Deck MK.2,Electronics Accessories,Central,4,149.0,0.1,536.4,368.0,168.4,Wire Transfer
+ORD-2024961,2024-12-18,CUST-0003,Mia Miller,Thermal Label Printer,Office Supplies,Central,4,175.0,0.1,630.0,392.0,238.0,UPI
+ORD-2024962,2024-07-29,CUST-0140,Ethan Martin,Elgato Stream Deck MK.2,Electronics Accessories,East,4,149.0,0.1,536.4,368.0,168.4,UPI
+ORD-2024963,2024-07-21,CUST-0078,Grace Johnson,MacBook Pro 16-Inch,Technology,Central,1,2499.0,0.1,2249.1,1800.0,449.1,PayPal
+ORD-2024964,2025-06-16,CUST-0139,Isabella Iyer,Premium Gel Pen 12-Pack,Office Supplies,North,2,24.0,0.0,48.0,18.0,30.0,Wire Transfer
+ORD-2024965,2024-06-12,CUST-0006,Arjun Wilson,CalDigit TS4 Thunderbolt Dock,Technology,Central,1,399.0,0.1,359.1,260.0,99.1,Wire Transfer
+ORD-2024966,2025-03-08,CUST-0130,Benjamin Wilson,MacBook Pro 16-Inch,Technology,East,1,2499.0,0.05,2374.05,1800.0,574.05,Credit Card
+ORD-2024967,2024-02-18,CUST-0032,Rohan White,Logitech Brio 4K Webcam,Electronics Accessories,Central,3,199.0,0.0,597.0,345.0,252.0,PayPal
+ORD-2024968,2025-06-30,CUST-0060,Benjamin Williams,Neodymium Magnetic Whiteboard,Office Supplies,East,2,160.0,0.1,288.0,170.0,118.0,Corporate Net 30
+ORD-2024969,2024-05-23,CUST-0097,Lucas Miller,Steelcase Gesture Chair,Furniture,East,2,1250.0,0.0,2500.0,1640.0,860.0,Wire Transfer
+ORD-2024970,2025-04-10,CUST-0026,Mia Patel,Under-Desk Filing Cabinet,Furniture,West,1,210.0,0.0,210.0,130.0,80.0,PayPal
+ORD-2024971,2025-05-02,CUST-0055,Daniel Verma,Anker 100W GaN Fast Charger,Electronics Accessories,East,2,65.0,0.0,130.0,64.0,66.0,Corporate Net 30
+ORD-2024972,2025-06-15,CUST-0102,Emma White,Thermal Label Printer,Office Supplies,West,2,175.0,0.25,262.5,196.0,66.5,UPI
+ORD-2024973,2025-03-02,CUST-0042,Charlotte Wilson,Jarvis Bamboo Standing Desk,Furniture,West,3,780.0,0.0,2340.0,1470.0,870.0,Corporate Net 30
+ORD-2024974,2025-06-25,CUST-0031,Zoe Brown,Acoustic Privacy Panel,Furniture,West,1,180.0,0.0,180.0,95.0,85.0,Corporate Net 30
+ORD-2024975,2025-01-13,CUST-0031,Zoe Brown,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.0,65.0,32.0,33.0,Corporate Net 30
+ORD-2024976,2024-06-05,CUST-0031,Zoe Brown,Neodymium Magnetic Whiteboard,Office Supplies,East,1,160.0,0.0,160.0,85.0,75.0,PayPal
+ORD-2024977,2024-05-25,CUST-0108,Noah Martin,Samsung Galaxy S24 Ultra,Technology,East,1,1299.0,0.1,1169.1,890.0,279.1,UPI
+ORD-2024978,2024-01-03,CUST-0032,Rohan White,Moleskine Smart Notebook Set,Office Supplies,North,1,45.0,0.05,42.75,22.0,20.75,Corporate Net 30
+ORD-2024979,2025-04-08,CUST-0087,Priya Hernandez,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.0,129.0,75.0,54.0,UPI
+ORD-2024980,2025-04-05,CUST-0115,Aditya Williams,LED Desk Task Light,Furniture,North,3,79.0,0.05,225.15,114.0,111.15,UPI
+ORD-2024981,2025-01-31,CUST-0060,Benjamin Williams,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.05,189.05,115.0,74.05,UPI
+ORD-2024982,2024-10-11,CUST-0023,Benjamin Martin,Herman Miller Aeron Chair,Furniture,Central,2,1395.0,0.1,2511.0,1840.0,671.0,Wire Transfer
+ORD-2024983,2024-05-06,CUST-0144,Sophia Lopez,iPad Pro 12.9,Technology,Central,2,1099.0,0.1,1978.2,1500.0,478.2,Corporate Net 30
+ORD-2024984,2025-06-18,CUST-0049,Daniel Hernandez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.2,119.2,88.0,31.2,PayPal
+ORD-2024985,2024-01-20,CUST-0071,Noah Jones,Autonomous SmartDesk Pro,Furniture,Central,1,650.0,0.1,585.0,410.0,175.0,Corporate Net 30
+ORD-2024986,2024-11-24,CUST-0103,Ava Williams,Dell 4K UltraSharp 27-Inch,Technology,North,1,620.0,0.0,620.0,410.0,210.0,Credit Card
+ORD-2024987,2025-06-24,CUST-0082,Priya Moore,Logitech Brio 4K Webcam,Electronics Accessories,North,1,199.0,0.0,199.0,115.0,84.0,PayPal
+ORD-2024988,2024-10-19,CUST-0037,Ava Moore,Ergonomic Monitor Arm Dual,Furniture,North,1,149.0,0.2,119.2,85.0,34.2,PayPal
+ORD-2024989,2024-03-01,CUST-0084,Isabella Martinez,Herman Miller Aeron Chair,Furniture,North,1,1395.0,0.0,1395.0,920.0,475.0,PayPal
+ORD-2024990,2025-02-26,CUST-0083,Charlotte Rodriguez,Heavy Duty Paper Shredder,Office Supplies,North,1,220.0,0.0,220.0,130.0,90.0,Corporate Net 30
+ORD-2024991,2024-08-30,CUST-0127,Evelyn Lee,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.0,65.0,32.0,33.0,UPI
+ORD-2024992,2024-03-08,CUST-0124,Liam Verma,Logitech MX Master 3S,Technology,South,4,99.0,0.0,396.0,220.0,176.0,Corporate Net 30
+ORD-2024993,2024-04-13,CUST-0064,Emma White,Ergonomic Monitor Arm Dual,Furniture,Central,1,149.0,0.0,149.0,85.0,64.0,Corporate Net 30
+ORD-2024994,2024-07-27,CUST-0037,Ava Moore,Thermal Label Printer,Office Supplies,South,3,175.0,0.05,498.75,294.0,204.75,UPI
+ORD-2024995,2025-04-07,CUST-0011,Rohan Moore,Dell 4K UltraSharp 27-Inch,Technology,Central,1,620.0,0.2,496.0,410.0,86.0,Credit Card
+ORD-2024996,2024-03-02,CUST-0124,Liam Verma,Thermal Label Printer,Office Supplies,East,3,175.0,0.0,525.0,294.0,231.0,Wire Transfer
+ORD-2024997,2024-08-05,CUST-0150,Olivia Mehta,Moleskine Smart Notebook Set,Office Supplies,South,3,45.0,0.05,128.25,66.0,62.25,Wire Transfer
+ORD-2024998,2024-04-01,CUST-0102,Emma White,ThinkPad X1 Carbon,Technology,Central,10,1650.0,0.15,14025.0,11500.0,2525.0,PayPal
+ORD-2024999,2025-05-31,CUST-0082,Priya Moore,Ergonomic Footrest Cushion,Office Supplies,East,8,49.0,0.1,352.8,176.0,176.8,Wire Transfer
+ORD-2025000,2024-09-08,CUST-0083,Charlotte Rodriguez,Premium Gel Pen 12-Pack,Office Supplies,West,5,24.0,0.0,120.0,45.0,75.0,PayPal
+ORD-2025001,2024-01-03,CUST-0122,Daniel Thomas,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.15,2124.15,1800.0,324.15,UPI
+ORD-2025002,2025-02-06,CUST-0138,Grace Patel,Dell XPS 15,Technology,Central,1,1899.0,0.1,1709.1,1350.0,359.1,UPI
+ORD-2025003,2024-05-06,CUST-0091,Chloe Verma,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,1,149.0,0.1,134.1,88.0,46.1,Credit Card
+ORD-2025004,2024-05-07,CUST-0119,Amelia Davis,Premium Gel Pen 12-Pack,Office Supplies,West,1,24.0,0.1,21.6,9.0,12.6,Wire Transfer
+ORD-2025005,2025-01-01,CUST-0050,Amelia Thompson,Keychron Q1 Pro Keyboard,Technology,East,3,199.0,0.0,597.0,360.0,237.0,UPI
+ORD-2025006,2025-01-06,CUST-0010,Charlotte Gonzalez,Heavy Duty Paper Shredder,Office Supplies,Central,1,220.0,0.0,220.0,130.0,90.0,UPI
+ORD-2025007,2024-04-23,CUST-0072,Harper Jones,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,1,189.0,0.1,170.1,120.0,50.1,Corporate Net 30
+ORD-2025008,2024-06-28,CUST-0017,Isabella Wilson,Steelcase Gesture Chair,Furniture,South,1,1250.0,0.05,1187.5,820.0,367.5,PayPal
+ORD-2025009,2025-06-19,CUST-0071,Noah Jones,Herman Miller Aeron Chair,Furniture,Central,2,1395.0,0.05,2650.5,1840.0,810.5,UPI
+ORD-2025010,2024-01-03,CUST-0110,Olivia Jackson,Sony WH-1000XM5 Headphones,Technology,West,3,399.0,0.0,1197.0,720.0,477.0,Credit Card
+ORD-2025011,2025-06-14,CUST-0120,Evelyn Davis,Logitech Brio 4K Webcam,Electronics Accessories,Central,3,199.0,0.15,507.45,345.0,162.45,PayPal
+ORD-2025012,2024-02-18,CUST-0072,Harper Jones,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,1,149.0,0.0,149.0,88.0,61.0,Wire Transfer
+ORD-2025013,2024-03-24,CUST-0147,Rohan Verma,iPad Pro 12.9,Technology,West,5,1099.0,0.15,4670.75,3750.0,920.75,PayPal
+ORD-2025014,2024-06-17,CUST-0085,Harper Moore,Moleskine Smart Notebook Set,Office Supplies,North,1,45.0,0.0,45.0,22.0,23.0,Credit Card
+ORD-2025015,2024-12-08,CUST-0065,Charlotte Williams,Steelcase Gesture Chair,Furniture,West,1,1250.0,0.0,1250.0,820.0,430.0,Credit Card
+ORD-2025016,2024-12-07,CUST-0134,Mia Jones,Steelcase Gesture Chair,Furniture,Central,2,1250.0,0.1,2250.0,1640.0,610.0,UPI
+ORD-2025017,2024-05-07,CUST-0022,Benjamin Moore,MacBook Pro 16-Inch,Technology,West,1,2499.0,0.1,2249.1,1800.0,449.1,Credit Card
+ORD-2025018,2024-05-10,CUST-0016,Olivia Verma,Anker 100W GaN Fast Charger,Electronics Accessories,East,2,65.0,0.0,130.0,64.0,66.0,Credit Card
+ORD-2025019,2024-02-27,CUST-0144,Sophia Lopez,Samsung Galaxy S24 Ultra,Technology,West,1,1299.0,0.05,1234.05,890.0,344.05,UPI
+ORD-2025020,2024-08-26,CUST-0003,Mia Miller,Blue Yeti USB Microphone,Electronics Accessories,West,3,129.0,0.15,328.95,225.0,103.95,Corporate Net 30
+ORD-2025021,2024-04-13,CUST-0087,Priya Hernandez,Dell 4K UltraSharp 27-Inch,Technology,Central,1,620.0,0.0,620.0,410.0,210.0,Credit Card
+ORD-2025022,2024-01-13,CUST-0018,Harper Thompson,Jarvis Bamboo Standing Desk,Furniture,Central,1,780.0,0.0,780.0,490.0,290.0,Corporate Net 30
+ORD-2025023,2025-03-31,CUST-0048,Benjamin Iyer,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.0,780.0,490.0,290.0,UPI
+ORD-2025024,2025-06-09,CUST-0092,Grace Wilson,Thermal Label Printer,Office Supplies,Central,3,175.0,0.0,525.0,294.0,231.0,Wire Transfer
+ORD-2025025,2024-12-17,CUST-0075,Charlotte Mehta,Moleskine Smart Notebook Set,Office Supplies,Central,2,45.0,0.05,85.5,44.0,41.5,Credit Card
+ORD-2025026,2024-08-31,CUST-0130,Benjamin Wilson,Logitech MX Master 3S,Technology,East,1,99.0,0.0,99.0,55.0,44.0,PayPal
+ORD-2025027,2024-03-11,CUST-0088,Amelia Thompson,Acoustic Privacy Panel,Furniture,West,2,180.0,0.0,360.0,190.0,170.0,Corporate Net 30
+ORD-2025028,2024-12-09,CUST-0077,Lucas Gonzalez,Logitech Brio 4K Webcam,Electronics Accessories,South,1,199.0,0.15,169.15,115.0,54.15,Credit Card
+ORD-2025029,2025-05-22,CUST-0057,Evelyn Martinez,iPad Pro 12.9,Technology,South,2,1099.0,0.0,2198.0,1500.0,698.0,UPI
+ORD-2025030,2024-12-05,CUST-0097,Lucas Miller,Under-Desk Filing Cabinet,Furniture,South,3,210.0,0.0,630.0,390.0,240.0,Credit Card
+ORD-2025031,2024-03-16,CUST-0092,Grace Wilson,CalDigit TS4 Thunderbolt Dock,Technology,North,1,399.0,0.0,399.0,260.0,139.0,Corporate Net 30
+ORD-2025032,2025-01-03,CUST-0012,Rohan Davis,iPad Pro 12.9,Technology,South,1,1099.0,0.0,1099.0,750.0,349.0,Wire Transfer
+ORD-2025033,2024-06-27,CUST-0087,Priya Hernandez,Jarvis Bamboo Standing Desk,Furniture,South,1,780.0,0.1,702.0,490.0,212.0,Credit Card
+ORD-2025034,2024-01-22,CUST-0036,Liam Gonzalez,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.0,149.0,92.0,57.0,UPI
+ORD-2025035,2024-09-02,CUST-0095,Liam Gonzalez,Ergonomic Footrest Cushion,Office Supplies,South,5,49.0,0.2,196.0,110.0,86.0,Corporate Net 30
+ORD-2025036,2025-03-20,CUST-0017,Isabella Wilson,ThinkPad X1 Carbon,Technology,South,3,1650.0,0.0,4950.0,3450.0,1500.0,UPI
+ORD-2025037,2025-01-18,CUST-0082,Priya Moore,Elgato Stream Deck MK.2,Electronics Accessories,South,4,149.0,0.1,536.4,368.0,168.4,Corporate Net 30
+ORD-2025038,2024-07-12,CUST-0138,Grace Patel,Cable Management Rack Tray,Office Supplies,South,1,35.0,0.0,35.0,14.0,21.0,Wire Transfer
+ORD-2025039,2024-05-09,CUST-0131,Rohan Lopez,Samsung T7 Shield 2TB SSD,Electronics Accessories,North,3,189.0,0.1,510.3,360.0,150.3,Corporate Net 30
+ORD-2025040,2024-03-07,CUST-0043,Aditya Martinez,Elgato Stream Deck MK.2,Electronics Accessories,Central,1,149.0,0.05,141.55,92.0,49.55,PayPal
+ORD-2025041,2024-11-25,CUST-0096,Alexander Gonzalez,Elgato Stream Deck MK.2,Electronics Accessories,West,2,149.0,0.05,283.1,184.0,99.1,Corporate Net 30
+ORD-2025042,2024-02-07,CUST-0054,Mia Mehta,Autonomous SmartDesk Pro,Furniture,West,4,650.0,0.0,2600.0,1640.0,960.0,Wire Transfer
+ORD-2025043,2025-03-11,CUST-0097,Lucas Miller,LED Desk Task Light,Furniture,East,2,79.0,0.0,158.0,76.0,82.0,Credit Card
+ORD-2025044,2024-10-29,CUST-0114,Aarav Brown,Premium Gel Pen 12-Pack,Office Supplies,Central,1,24.0,0.05,22.8,9.0,13.8,Wire Transfer
+ORD-2025045,2025-03-12,CUST-0116,Aditya Martin,Blue Yeti USB Microphone,Electronics Accessories,West,1,129.0,0.0,129.0,75.0,54.0,Wire Transfer
+ORD-2025046,2025-01-26,CUST-0007,Lucas Johnson,Acoustic Privacy Panel,Furniture,South,1,180.0,0.0,180.0,95.0,85.0,Credit Card
+ORD-2025047,2024-10-28,CUST-0129,Kavita Jones,Samsung Galaxy S24 Ultra,Technology,South,1,1299.0,0.0,1299.0,890.0,409.0,Credit Card
+ORD-2025048,2024-07-24,CUST-0086,Sophia Williams,LED Desk Task Light,Furniture,East,1,79.0,0.1,71.1,38.0,33.1,Wire Transfer
+ORD-2025049,2024-07-14,CUST-0036,Liam Gonzalez,Moleskine Smart Notebook Set,Office Supplies,East,1,45.0,0.0,45.0,22.0,23.0,UPI
+ORD-2025050,2025-02-19,CUST-0149,Harper Iyer,Dell 4K UltraSharp 27-Inch,Technology,Central,8,620.0,0.2,3968.0,3280.0,688.0,UPI
+ORD-2025051,2024-08-21,CUST-0059,Sophia Anderson,Acoustic Privacy Panel,Furniture,South,2,180.0,0.1,324.0,190.0,134.0,UPI
+ORD-2025052,2025-04-17,CUST-0088,Amelia Thompson,Sony WH-1000XM5 Headphones,Technology,South,1,399.0,0.2,319.2,240.0,79.2,UPI
+ORD-2025053,2024-08-02,CUST-0113,Sophia Sharma,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.05,141.55,88.0,53.55,PayPal
+ORD-2025054,2024-11-08,CUST-0003,Mia Miller,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.0,149.0,92.0,57.0,UPI
+ORD-2025055,2024-11-02,CUST-0084,Isabella Martinez,Keychron Q1 Pro Keyboard,Technology,North,4,199.0,0.0,796.0,480.0,316.0,Wire Transfer
+ORD-2025056,2025-02-04,CUST-0098,Olivia Lopez,Under-Desk Filing Cabinet,Furniture,North,2,210.0,0.0,420.0,260.0,160.0,Credit Card
+ORD-2025057,2024-12-02,CUST-0146,Grace Thomas,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.0,149.0,92.0,57.0,Corporate Net 30
+ORD-2025058,2024-06-30,CUST-0009,Ethan Sharma,Anker 100W GaN Fast Charger,Electronics Accessories,South,1,65.0,0.15,55.25,32.0,23.25,UPI
+ORD-2025059,2024-10-17,CUST-0053,Lucas Martinez,Ergonomic Monitor Arm Dual,Furniture,Central,1,149.0,0.0,149.0,85.0,64.0,Corporate Net 30
+ORD-2025060,2024-01-12,CUST-0044,Sophia Thomas,Cable Management Rack Tray,Office Supplies,West,1,35.0,0.25,26.25,14.0,12.25,PayPal
+ORD-2025061,2025-03-04,CUST-0123,Benjamin Patel,Logitech MX Master 3S,Technology,South,1,99.0,0.0,99.0,55.0,44.0,UPI
+ORD-2025062,2025-05-01,CUST-0041,Ava Martin,Thermal Label Printer,Office Supplies,South,2,175.0,0.05,332.5,196.0,136.5,Wire Transfer
+ORD-2025063,2024-07-25,CUST-0002,Siddharth Martinez,Acoustic Privacy Panel,Furniture,North,3,180.0,0.05,513.0,285.0,228.0,PayPal
+ORD-2025064,2025-06-22,CUST-0085,Harper Moore,Blue Yeti USB Microphone,Electronics Accessories,West,2,129.0,0.1,232.2,150.0,82.2,Wire Transfer
+ORD-2025065,2025-04-12,CUST-0089,Liam Moore,Heavy Duty Paper Shredder,Office Supplies,Central,3,220.0,0.1,594.0,390.0,204.0,UPI
+ORD-2025066,2024-09-12,CUST-0046,Nora Martin,Blue Yeti USB Microphone,Electronics Accessories,West,4,129.0,0.0,516.0,300.0,216.0,Corporate Net 30
+ORD-2025067,2024-04-07,CUST-0101,Noah Anderson,iPad Pro 12.9,Technology,South,1,1099.0,0.05,1044.05,750.0,294.05,Wire Transfer
+ORD-2025068,2024-03-09,CUST-0056,Aarav Anderson,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.0,129.0,75.0,54.0,Credit Card
+ORD-2025069,2025-05-31,CUST-0084,Isabella Martinez,Blue Yeti USB Microphone,Electronics Accessories,South,1,129.0,0.05,122.55,75.0,47.55,UPI
+ORD-2025070,2024-01-28,CUST-0019,Ethan Mehta,Blue Yeti USB Microphone,Electronics Accessories,East,3,129.0,0.15,328.95,225.0,103.95,UPI
+ORD-2025071,2024-02-08,CUST-0003,Mia Miller,Moleskine Smart Notebook Set,Office Supplies,South,1,45.0,0.1,40.5,22.0,18.5,UPI
+ORD-2025072,2025-04-17,CUST-0018,Harper Thompson,CalDigit TS4 Thunderbolt Dock,Technology,South,3,399.0,0.0,1197.0,780.0,417.0,UPI
+ORD-2025073,2024-10-12,CUST-0042,Charlotte Wilson,Herman Miller Aeron Chair,Furniture,Central,1,1395.0,0.0,1395.0,920.0,475.0,Corporate Net 30
+ORD-2025074,2025-02-04,CUST-0044,Sophia Thomas,MacBook Pro 16-Inch,Technology,East,1,2499.0,0.0,2499.0,1800.0,699.0,PayPal
+ORD-2025075,2024-02-05,CUST-0137,Evelyn White,Acoustic Privacy Panel,Furniture,North,3,180.0,0.1,486.0,285.0,201.0,Credit Card
+ORD-2025076,2025-02-03,CUST-0079,Olivia Perez,Anker 100W GaN Fast Charger,Electronics Accessories,Central,1,65.0,0.1,58.5,32.0,26.5,PayPal
+ORD-2025077,2024-09-12,CUST-0096,Alexander Gonzalez,Autonomous SmartDesk Pro,Furniture,North,1,650.0,0.0,650.0,410.0,240.0,Credit Card
+ORD-2025078,2024-12-11,CUST-0050,Amelia Thompson,iPad Pro 12.9,Technology,North,3,1099.0,0.1,2967.3,2250.0,717.3,PayPal
+ORD-2025079,2024-06-20,CUST-0012,Rohan Davis,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,3,149.0,0.0,447.0,264.0,183.0,PayPal
+ORD-2025080,2024-07-31,CUST-0139,Isabella Iyer,Blue Yeti USB Microphone,Electronics Accessories,North,1,129.0,0.0,129.0,75.0,54.0,Wire Transfer
+ORD-2025081,2024-06-26,CUST-0004,Arjun Thompson,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.0,149.0,92.0,57.0,PayPal
+ORD-2025082,2024-03-08,CUST-0072,Harper Jones,Moleskine Smart Notebook Set,Office Supplies,North,4,45.0,0.0,180.0,88.0,92.0,Corporate Net 30
+ORD-2025083,2025-05-26,CUST-0027,Mia Iyer,Ergonomic Monitor Arm Dual,Furniture,North,2,149.0,0.25,223.5,170.0,53.5,UPI
+ORD-2025084,2024-05-16,CUST-0086,Sophia Williams,LED Desk Task Light,Furniture,West,1,79.0,0.0,79.0,38.0,41.0,Corporate Net 30
+ORD-2025085,2025-04-04,CUST-0098,Olivia Lopez,Herman Miller Aeron Chair,Furniture,South,1,1395.0,0.1,1255.5,920.0,335.5,Credit Card
+ORD-2025086,2024-11-12,CUST-0061,Alexander Anderson,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,1,189.0,0.0,189.0,120.0,69.0,UPI
+ORD-2025087,2024-10-30,CUST-0052,Vikram Sharma,Under-Desk Filing Cabinet,Furniture,South,2,210.0,0.0,420.0,260.0,160.0,Corporate Net 30
+ORD-2025088,2025-03-30,CUST-0085,Harper Moore,Ergonomic Monitor Arm Dual,Furniture,East,2,149.0,0.1,268.2,170.0,98.2,Corporate Net 30
+ORD-2025089,2025-02-28,CUST-0074,Isabella Thompson,iPad Pro 12.9,Technology,East,1,1099.0,0.0,1099.0,750.0,349.0,Credit Card
+ORD-2025090,2024-09-11,CUST-0057,Evelyn Martinez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,East,1,149.0,0.05,141.55,88.0,53.55,Credit Card
+ORD-2025091,2025-05-18,CUST-0018,Harper Thompson,Herman Miller Aeron Chair,Furniture,South,5,1395.0,0.0,6975.0,4600.0,2375.0,PayPal
+ORD-2025092,2024-07-28,CUST-0061,Alexander Anderson,Logitech MX Master 3S,Technology,West,1,99.0,0.1,89.1,55.0,34.1,PayPal
+ORD-2025093,2025-03-10,CUST-0046,Nora Martin,Ergonomic Monitor Arm Dual,Furniture,East,2,149.0,0.2,238.4,170.0,68.4,PayPal
+ORD-2025094,2024-10-05,CUST-0124,Liam Verma,Sony WH-1000XM5 Headphones,Technology,West,1,399.0,0.0,399.0,240.0,159.0,UPI
+ORD-2025095,2025-06-01,CUST-0111,Harper Martin,Acoustic Privacy Panel,Furniture,North,3,180.0,0.0,540.0,285.0,255.0,Credit Card
+ORD-2025096,2024-11-03,CUST-0138,Grace Patel,Jarvis Bamboo Standing Desk,Furniture,East,1,780.0,0.0,780.0,490.0,290.0,Wire Transfer
+ORD-2025097,2025-01-19,CUST-0144,Sophia Lopez,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.0,65.0,32.0,33.0,PayPal
+ORD-2025098,2024-07-13,CUST-0002,Siddharth Martinez,CalDigit TS4 Thunderbolt Dock,Technology,East,2,399.0,0.15,678.3,520.0,158.3,UPI
+ORD-2025099,2025-01-17,CUST-0099,Priya Brown,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.15,169.15,115.0,54.15,Credit Card
+ORD-2025100,2025-01-29,CUST-0145,Ava Sharma,Autonomous SmartDesk Pro,Furniture,West,5,650.0,0.1,2925.0,2050.0,875.0,Wire Transfer
+ORD-2025101,2025-06-05,CUST-0126,Emma Rodriguez,Ergonomic Footrest Cushion,Office Supplies,North,2,49.0,0.15,83.3,44.0,39.3,PayPal
+ORD-2025102,2024-09-05,CUST-0123,Benjamin Patel,Sony WH-1000XM5 Headphones,Technology,North,2,399.0,0.05,758.1,480.0,278.1,Wire Transfer
+ORD-2025103,2025-04-11,CUST-0038,Noah Martin,Premium Gel Pen 12-Pack,Office Supplies,Central,2,24.0,0.05,45.6,18.0,27.6,PayPal
+ORD-2025104,2024-01-13,CUST-0030,Benjamin Davis,Logitech MX Master 3S,Technology,West,3,99.0,0.2,237.6,165.0,72.6,Credit Card
+ORD-2025105,2025-06-14,CUST-0049,Daniel Hernandez,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,1,189.0,0.0,189.0,120.0,69.0,Corporate Net 30
+ORD-2025106,2025-01-26,CUST-0079,Olivia Perez,Elgato Stream Deck MK.2,Electronics Accessories,North,1,149.0,0.05,141.55,92.0,49.55,Wire Transfer
+ORD-2025107,2024-05-26,CUST-0069,Lucas Gonzalez,Under-Desk Filing Cabinet,Furniture,East,1,210.0,0.0,210.0,130.0,80.0,UPI
+ORD-2025108,2024-01-02,CUST-0025,Nora Smith,Logitech MX Master 3S,Technology,Central,1,99.0,0.0,99.0,55.0,44.0,UPI
+ORD-2025109,2024-06-23,CUST-0046,Nora Martin,Premium Gel Pen 12-Pack,Office Supplies,South,1,24.0,0.0,24.0,9.0,15.0,Credit Card
+ORD-2025110,2025-04-06,CUST-0146,Grace Thomas,Jarvis Bamboo Standing Desk,Furniture,South,1,780.0,0.0,780.0,490.0,290.0,PayPal
+ORD-2025111,2024-09-22,CUST-0105,Kavita Brown,Elgato Stream Deck MK.2,Electronics Accessories,Central,1,149.0,0.05,141.55,92.0,49.55,Credit Card
+ORD-2025112,2024-10-27,CUST-0022,Benjamin Moore,Anker 100W GaN Fast Charger,Electronics Accessories,East,1,65.0,0.0,65.0,32.0,33.0,PayPal
+ORD-2025113,2025-05-04,CUST-0125,Ethan Rodriguez,MacBook Pro 16-Inch,Technology,North,1,2499.0,0.2,1999.2,1800.0,199.2,Corporate Net 30
+ORD-2025114,2024-02-12,CUST-0025,Nora Smith,Herman Miller Aeron Chair,Furniture,West,2,1395.0,0.25,2092.5,1840.0,252.5,Wire Transfer
+ORD-2025115,2025-05-12,CUST-0122,Daniel Thomas,Thermal Label Printer,Office Supplies,West,1,175.0,0.05,166.25,98.0,68.25,Wire Transfer
+ORD-2025116,2024-11-18,CUST-0062,Aditya Taylor,Ergonomic Footrest Cushion,Office Supplies,West,1,49.0,0.0,49.0,22.0,27.0,Wire Transfer
+ORD-2025117,2024-12-04,CUST-0026,Mia Patel,Dell 4K UltraSharp 27-Inch,Technology,West,3,620.0,0.15,1581.0,1230.0,351.0,PayPal
+ORD-2025118,2024-01-27,CUST-0032,Rohan White,Ergonomic Footrest Cushion,Office Supplies,South,1,49.0,0.05,46.55,22.0,24.55,UPI
+ORD-2025119,2025-06-11,CUST-0106,Amelia Lee,Herman Miller Aeron Chair,Furniture,East,1,1395.0,0.0,1395.0,920.0,475.0,Credit Card
+ORD-2025120,2024-11-29,CUST-0114,Aarav Brown,Acoustic Privacy Panel,Furniture,West,3,180.0,0.1,486.0,285.0,201.0,Wire Transfer
+ORD-2025121,2025-03-14,CUST-0122,Daniel Thomas,Logitech MX Master 3S,Technology,East,2,99.0,0.1,178.2,110.0,68.2,Corporate Net 30
+ORD-2025122,2025-05-31,CUST-0009,Ethan Sharma,Acoustic Privacy Panel,Furniture,North,1,180.0,0.05,171.0,95.0,76.0,Corporate Net 30
+ORD-2025123,2025-04-23,CUST-0044,Sophia Thomas,Anker 100W GaN Fast Charger,Electronics Accessories,West,2,65.0,0.0,130.0,64.0,66.0,PayPal
+ORD-2025124,2024-06-23,CUST-0023,Benjamin Martin,Logitech MX Master 3S,Technology,North,1,99.0,0.15,84.15,55.0,29.15,UPI
+ORD-2025125,2024-10-14,CUST-0057,Evelyn Martinez,Ergonomic Footrest Cushion,Office Supplies,West,5,49.0,0.05,232.75,110.0,122.75,PayPal
+ORD-2025126,2025-05-18,CUST-0024,Rohan Rodriguez,Cable Management Rack Tray,Office Supplies,South,5,35.0,0.1,157.5,70.0,87.5,Corporate Net 30
+ORD-2025127,2024-03-07,CUST-0088,Amelia Thompson,Elgato Stream Deck MK.2,Electronics Accessories,West,2,149.0,0.1,268.2,184.0,84.2,UPI
+ORD-2025128,2024-08-26,CUST-0058,Priya Iyer,Moleskine Smart Notebook Set,Office Supplies,East,1,45.0,0.0,45.0,22.0,23.0,Corporate Net 30
+ORD-2025129,2024-07-11,CUST-0030,Benjamin Davis,Premium Gel Pen 12-Pack,Office Supplies,East,5,24.0,0.05,114.0,45.0,69.0,Credit Card
+ORD-2025130,2024-11-14,CUST-0016,Olivia Verma,Under-Desk Filing Cabinet,Furniture,West,1,210.0,0.0,210.0,130.0,80.0,PayPal
+ORD-2025131,2025-06-16,CUST-0057,Evelyn Martinez,Logitech MX Master 3S,Technology,North,2,99.0,0.0,198.0,110.0,88.0,PayPal
+ORD-2025132,2024-10-30,CUST-0057,Evelyn Martinez,Elgato Stream Deck MK.2,Electronics Accessories,West,1,149.0,0.0,149.0,92.0,57.0,Credit Card
+ORD-2025133,2024-11-23,CUST-0080,Sophia Smith,Samsung Galaxy S24 Ultra,Technology,Central,2,1299.0,0.1,2338.2,1780.0,558.2,UPI
+ORD-2025134,2024-10-25,CUST-0097,Lucas Miller,Sony WH-1000XM5 Headphones,Technology,South,3,399.0,0.0,1197.0,720.0,477.0,PayPal
+ORD-2025135,2024-02-23,CUST-0046,Nora Martin,Elgato Stream Deck MK.2,Electronics Accessories,West,1,149.0,0.1,134.1,92.0,42.1,PayPal
+ORD-2025136,2024-01-23,CUST-0141,Ava Thompson,Logitech Brio 4K Webcam,Electronics Accessories,West,2,199.0,0.25,298.5,230.0,68.5,UPI
+ORD-2025137,2025-02-04,CUST-0019,Ethan Mehta,Neodymium Magnetic Whiteboard,Office Supplies,South,3,160.0,0.05,456.0,255.0,201.0,Credit Card
+ORD-2025138,2024-05-14,CUST-0083,Charlotte Rodriguez,Samsung Galaxy S24 Ultra,Technology,West,2,1299.0,0.05,2468.1,1780.0,688.1,UPI
+ORD-2025139,2025-05-09,CUST-0075,Charlotte Mehta,Autonomous SmartDesk Pro,Furniture,South,3,650.0,0.0,1950.0,1230.0,720.0,Credit Card
+ORD-2025140,2025-01-05,CUST-0148,Benjamin Wilson,ThinkPad X1 Carbon,Technology,West,5,1650.0,0.0,8250.0,5750.0,2500.0,PayPal
+ORD-2025141,2024-02-27,CUST-0025,Nora Smith,Heavy Duty Paper Shredder,Office Supplies,South,5,220.0,0.0,1100.0,650.0,450.0,Corporate Net 30
+ORD-2025142,2024-12-12,CUST-0112,Mia Verma,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.0,210.0,130.0,80.0,UPI
+ORD-2025143,2024-11-05,CUST-0045,Charlotte Gonzalez,Elgato Stream Deck MK.2,Electronics Accessories,North,3,149.0,0.15,379.95,276.0,103.95,UPI
+ORD-2025144,2024-10-08,CUST-0114,Aarav Brown,Moleskine Smart Notebook Set,Office Supplies,North,1,45.0,0.0,45.0,22.0,23.0,Corporate Net 30
+ORD-2025145,2024-08-18,CUST-0006,Arjun Wilson,Logitech Brio 4K Webcam,Electronics Accessories,North,3,199.0,0.0,597.0,345.0,252.0,UPI
+ORD-2025146,2025-03-20,CUST-0077,Lucas Gonzalez,Steelcase Gesture Chair,Furniture,East,1,1250.0,0.15,1062.5,820.0,242.5,Corporate Net 30
+ORD-2025147,2024-07-08,CUST-0104,Grace White,Logitech MX Master 3S,Technology,Central,3,99.0,0.1,267.3,165.0,102.3,Corporate Net 30
+ORD-2025148,2025-05-15,CUST-0017,Isabella Wilson,iPad Pro 12.9,Technology,North,1,1099.0,0.05,1044.05,750.0,294.05,PayPal
+ORD-2025149,2024-01-06,CUST-0143,Noah Davis,Logitech Brio 4K Webcam,Electronics Accessories,North,1,199.0,0.05,189.05,115.0,74.05,PayPal
+ORD-2025150,2024-03-30,CUST-0144,Sophia Lopez,Cable Management Rack Tray,Office Supplies,North,1,35.0,0.0,35.0,14.0,21.0,Wire Transfer
+ORD-2025151,2025-01-07,CUST-0140,Ethan Martin,Under-Desk Filing Cabinet,Furniture,North,1,210.0,0.0,210.0,130.0,80.0,Corporate Net 30
+ORD-2025152,2024-10-27,CUST-0137,Evelyn White,Samsung T7 Shield 2TB SSD,Electronics Accessories,Central,2,189.0,0.0,378.0,240.0,138.0,Wire Transfer
+ORD-2025153,2025-06-06,CUST-0054,Mia Mehta,MacBook Pro 16-Inch,Technology,South,1,2499.0,0.0,2499.0,1800.0,699.0,PayPal
+ORD-2025154,2024-05-17,CUST-0142,Isabella Jackson,LED Desk Task Light,Furniture,East,1,79.0,0.05,75.05,38.0,37.05,Credit Card
+ORD-2025155,2024-09-18,CUST-0067,Siddharth Taylor,Elgato Stream Deck MK.2,Electronics Accessories,South,1,149.0,0.0,149.0,92.0,57.0,Wire Transfer
+ORD-2025156,2025-03-11,CUST-0037,Ava Moore,Steelcase Gesture Chair,Furniture,East,10,1250.0,0.05,11875.0,8200.0,3675.0,PayPal
+ORD-2025157,2025-01-16,CUST-0145,Ava Sharma,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.1,189.0,130.0,59.0,UPI
+ORD-2025158,2024-01-27,CUST-0064,Emma White,Samsung Galaxy S24 Ultra,Technology,North,2,1299.0,0.05,2468.1,1780.0,688.1,UPI
+ORD-2025159,2024-03-08,CUST-0085,Harper Moore,Sony WH-1000XM5 Headphones,Technology,East,3,399.0,0.0,1197.0,720.0,477.0,PayPal
+ORD-2025160,2024-10-07,CUST-0003,Mia Miller,Logitech MX Master 3S,Technology,South,1,99.0,0.0,99.0,55.0,44.0,Credit Card
+ORD-2025161,2024-06-28,CUST-0135,Chloe Rodriguez,Thermal Label Printer,Office Supplies,West,1,175.0,0.0,175.0,98.0,77.0,Corporate Net 30
+ORD-2025162,2024-10-15,CUST-0142,Isabella Jackson,Thermal Label Printer,Office Supplies,North,4,175.0,0.0,700.0,392.0,308.0,UPI
+ORD-2025163,2024-07-04,CUST-0089,Liam Moore,Blue Yeti USB Microphone,Electronics Accessories,Central,1,129.0,0.0,129.0,75.0,54.0,Corporate Net 30
+ORD-2025164,2024-06-08,CUST-0033,Nora Iyer,Under-Desk Filing Cabinet,Furniture,Central,3,210.0,0.0,630.0,390.0,240.0,Wire Transfer
+ORD-2025165,2024-09-12,CUST-0108,Noah Martin,Samsung T7 Shield 2TB SSD,Electronics Accessories,West,8,189.0,0.1,1360.8,960.0,400.8,Corporate Net 30
+ORD-2025166,2024-10-20,CUST-0071,Noah Jones,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,1,149.0,0.15,126.65,88.0,38.65,Wire Transfer
+ORD-2025167,2025-02-20,CUST-0081,Harper Anderson,Dell XPS 15,Technology,North,3,1899.0,0.2,4557.6,4050.0,507.6,PayPal
+ORD-2025168,2024-02-28,CUST-0022,Benjamin Moore,Thermal Label Printer,Office Supplies,West,3,175.0,0.0,525.0,294.0,231.0,UPI
+ORD-2025169,2025-06-04,CUST-0035,Aarav Patel,Blue Yeti USB Microphone,Electronics Accessories,Central,2,129.0,0.05,245.1,150.0,95.1,Corporate Net 30
+ORD-2025170,2024-05-07,CUST-0104,Grace White,Keychron Q1 Pro Keyboard,Technology,South,4,199.0,0.1,716.4,480.0,236.4,UPI
+ORD-2025171,2024-12-19,CUST-0063,Daniel Smith,Keychron Q1 Pro Keyboard,Technology,West,5,199.0,0.05,945.25,600.0,345.25,Corporate Net 30
+ORD-2025172,2024-08-18,CUST-0045,Charlotte Gonzalez,Sony WH-1000XM5 Headphones,Technology,South,2,399.0,0.2,638.4,480.0,158.4,UPI
+ORD-2025173,2025-05-22,CUST-0098,Olivia Lopez,LED Desk Task Light,Furniture,North,1,79.0,0.05,75.05,38.0,37.05,Corporate Net 30
+ORD-2025174,2024-04-30,CUST-0075,Charlotte Mehta,Heavy Duty Paper Shredder,Office Supplies,East,1,220.0,0.0,220.0,130.0,90.0,Corporate Net 30
+ORD-2025175,2025-02-07,CUST-0056,Aarav Anderson,Ergonomic Footrest Cushion,Office Supplies,Central,3,49.0,0.0,147.0,66.0,81.0,UPI
+ORD-2025176,2025-05-14,CUST-0015,Amelia Martinez,Moleskine Smart Notebook Set,Office Supplies,Central,2,45.0,0.0,90.0,44.0,46.0,Credit Card
+ORD-2025177,2024-01-06,CUST-0090,Grace Martin,Under-Desk Filing Cabinet,Furniture,East,1,210.0,0.0,210.0,130.0,80.0,PayPal
+ORD-2025178,2024-03-27,CUST-0136,Isabella Miller,Under-Desk Filing Cabinet,Furniture,North,4,210.0,0.0,840.0,520.0,320.0,Wire Transfer
+ORD-2025179,2024-08-19,CUST-0121,Siddharth Hernandez,Logitech Brio 4K Webcam,Electronics Accessories,East,1,199.0,0.15,169.15,115.0,54.15,Corporate Net 30
+ORD-2025180,2024-10-02,CUST-0028,Arjun Jackson,Elgato Stream Deck MK.2,Electronics Accessories,West,1,149.0,0.0,149.0,92.0,57.0,UPI
+ORD-2025181,2024-01-06,CUST-0092,Grace Wilson,Steelcase Gesture Chair,Furniture,South,1,1250.0,0.0,1250.0,820.0,430.0,UPI
+ORD-2025182,2024-12-05,CUST-0009,Ethan Sharma,Autonomous SmartDesk Pro,Furniture,West,5,650.0,0.25,2437.5,2050.0,387.5,Credit Card
+ORD-2025183,2025-03-07,CUST-0126,Emma Rodriguez,Elgato Stream Deck MK.2,Electronics Accessories,South,1,149.0,0.1,134.1,92.0,42.1,UPI
+ORD-2025184,2025-05-28,CUST-0100,Aarav Johnson,Steelcase Gesture Chair,Furniture,North,3,1250.0,0.0,3750.0,2460.0,1290.0,Wire Transfer
+ORD-2025185,2025-05-27,CUST-0004,Arjun Thompson,Herman Miller Aeron Chair,Furniture,East,1,1395.0,0.05,1325.25,920.0,405.25,Credit Card
+ORD-2025186,2025-03-20,CUST-0123,Benjamin Patel,Neodymium Magnetic Whiteboard,Office Supplies,West,1,160.0,0.0,160.0,85.0,75.0,Corporate Net 30
+ORD-2025187,2024-06-05,CUST-0131,Rohan Lopez,Autonomous SmartDesk Pro,Furniture,East,3,650.0,0.15,1657.5,1230.0,427.5,PayPal
+ORD-2025188,2025-03-15,CUST-0051,Daniel Thomas,Elgato Stream Deck MK.2,Electronics Accessories,North,3,149.0,0.05,424.65,276.0,148.65,PayPal
+ORD-2025189,2024-07-12,CUST-0039,Kavita Hernandez,Steelcase Gesture Chair,Furniture,South,1,1250.0,0.0,1250.0,820.0,430.0,PayPal
+ORD-2025190,2024-05-29,CUST-0110,Olivia Jackson,Keychron Q1 Pro Keyboard,Technology,South,1,199.0,0.0,199.0,120.0,79.0,UPI
+ORD-2025191,2025-06-21,CUST-0079,Olivia Perez,Autonomous SmartDesk Pro,Furniture,East,1,650.0,0.0,650.0,410.0,240.0,UPI
+ORD-2025192,2024-02-22,CUST-0078,Grace Johnson,Samsung Galaxy S24 Ultra,Technology,East,1,1299.0,0.0,1299.0,890.0,409.0,UPI
+ORD-2025193,2024-09-09,CUST-0082,Priya Moore,ThinkPad X1 Carbon,Technology,North,1,1650.0,0.05,1567.5,1150.0,417.5,Wire Transfer
+ORD-2025194,2024-08-05,CUST-0074,Isabella Thompson,Logitech Brio 4K Webcam,Electronics Accessories,Central,1,199.0,0.0,199.0,115.0,84.0,UPI
+ORD-2025195,2025-01-07,CUST-0086,Sophia Williams,Moleskine Smart Notebook Set,Office Supplies,North,2,45.0,0.05,85.5,44.0,41.5,PayPal
+ORD-2025196,2024-12-05,CUST-0093,Noah Martin,Ergonomic Footrest Cushion,Office Supplies,Central,2,49.0,0.0,98.0,44.0,54.0,Wire Transfer
+ORD-2025197,2024-08-03,CUST-0150,Olivia Mehta,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.1,58.5,32.0,26.5,Credit Card
+ORD-2025198,2024-02-12,CUST-0049,Daniel Hernandez,Acoustic Privacy Panel,Furniture,North,1,180.0,0.05,171.0,95.0,76.0,Wire Transfer
+ORD-2025199,2024-11-04,CUST-0122,Daniel Thomas,Jarvis Bamboo Standing Desk,Furniture,North,1,780.0,0.0,780.0,490.0,290.0,Wire Transfer
+ORD-2025200,2024-12-21,CUST-0094,Harper Sharma,Elgato Stream Deck MK.2,Electronics Accessories,North,4,149.0,0.0,596.0,368.0,228.0,UPI
+ORD-2025201,2025-06-20,CUST-0129,Kavita Jones,ThinkPad X1 Carbon,Technology,Central,1,1650.0,0.2,1320.0,1150.0,170.0,Wire Transfer
+ORD-2025202,2024-02-16,CUST-0145,Ava Sharma,iPad Pro 12.9,Technology,West,2,1099.0,0.05,2088.1,1500.0,588.1,Corporate Net 30
+ORD-2025203,2024-03-17,CUST-0043,Aditya Martinez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,West,2,149.0,0.0,298.0,176.0,122.0,Corporate Net 30
+ORD-2025204,2024-10-05,CUST-0053,Lucas Martinez,Herman Miller Aeron Chair,Furniture,South,2,1395.0,0.05,2650.5,1840.0,810.5,Credit Card
+ORD-2025205,2025-06-09,CUST-0117,Ava Jackson,Neodymium Magnetic Whiteboard,Office Supplies,South,1,160.0,0.0,160.0,85.0,75.0,Credit Card
+ORD-2025206,2024-06-24,CUST-0058,Priya Iyer,CalDigit TS4 Thunderbolt Dock,Technology,South,1,399.0,0.05,379.05,260.0,119.05,Wire Transfer
+ORD-2025207,2024-05-16,CUST-0070,Rohan Garcia,iPad Pro 12.9,Technology,South,2,1099.0,0.0,2198.0,1500.0,698.0,Wire Transfer
+ORD-2025208,2025-01-12,CUST-0084,Isabella Martinez,CalDigit TS4 Thunderbolt Dock,Technology,East,3,399.0,0.0,1197.0,780.0,417.0,Corporate Net 30
+ORD-2025209,2024-10-28,CUST-0084,Isabella Martinez,MacBook Pro 16-Inch,Technology,East,1,2499.0,0.2,1999.2,1800.0,199.2,PayPal
+ORD-2025210,2024-09-19,CUST-0005,Isabella Moore,Logitech MX Master 3S,Technology,East,4,99.0,0.05,376.2,220.0,156.2,Corporate Net 30
+ORD-2025211,2024-07-30,CUST-0114,Aarav Brown,LED Desk Task Light,Furniture,East,1,79.0,0.05,75.05,38.0,37.05,UPI
+ORD-2025212,2024-06-08,CUST-0115,Aditya Williams,Under-Desk Filing Cabinet,Furniture,East,1,210.0,0.0,210.0,130.0,80.0,UPI
+ORD-2025213,2024-07-04,CUST-0118,Chloe Davis,Jarvis Bamboo Standing Desk,Furniture,South,2,780.0,0.2,1248.0,980.0,268.0,PayPal
+ORD-2025214,2024-10-15,CUST-0006,Arjun Wilson,Premium Gel Pen 12-Pack,Office Supplies,South,3,24.0,0.05,68.4,27.0,41.4,PayPal
+ORD-2025215,2024-03-12,CUST-0037,Ava Moore,Logitech MX Master 3S,Technology,South,2,99.0,0.05,188.1,110.0,78.1,UPI
+ORD-2025216,2024-04-12,CUST-0135,Chloe Rodriguez,Herman Miller Aeron Chair,Furniture,Central,1,1395.0,0.0,1395.0,920.0,475.0,Credit Card
+ORD-2025217,2024-01-14,CUST-0012,Rohan Davis,Autonomous SmartDesk Pro,Furniture,North,1,650.0,0.2,520.0,410.0,110.0,Corporate Net 30
+ORD-2025218,2024-01-14,CUST-0003,Mia Miller,CalDigit TS4 Thunderbolt Dock,Technology,East,4,399.0,0.0,1596.0,1040.0,556.0,PayPal
+ORD-2025219,2025-05-06,CUST-0145,Ava Sharma,Samsung T7 Shield 2TB SSD,Electronics Accessories,East,1,189.0,0.0,189.0,120.0,69.0,Credit Card
+ORD-2025220,2024-09-30,CUST-0140,Ethan Martin,MacBook Pro 16-Inch,Technology,North,1,2499.0,0.0,2499.0,1800.0,699.0,Corporate Net 30
+ORD-2025221,2025-03-01,CUST-0037,Ava Moore,iPad Pro 12.9,Technology,North,1,1099.0,0.0,1099.0,750.0,349.0,Wire Transfer
+ORD-2025222,2024-10-20,CUST-0058,Priya Iyer,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.25,223.5,184.0,39.5,PayPal
+ORD-2025223,2024-04-14,CUST-0073,Vikram Sharma,Moleskine Smart Notebook Set,Office Supplies,Central,1,45.0,0.0,45.0,22.0,23.0,Credit Card
+ORD-2025224,2024-02-14,CUST-0039,Kavita Hernandez,Under-Desk Filing Cabinet,Furniture,Central,1,210.0,0.0,210.0,130.0,80.0,UPI
+ORD-2025225,2024-06-02,CUST-0078,Grace Johnson,Neodymium Magnetic Whiteboard,Office Supplies,North,1,160.0,0.0,160.0,85.0,75.0,Wire Transfer
+ORD-2025226,2024-09-28,CUST-0020,Aarav Jackson,ThinkPad X1 Carbon,Technology,South,1,1650.0,0.0,1650.0,1150.0,500.0,UPI
+ORD-2025227,2024-03-09,CUST-0029,Charlotte Perez,Elgato Stream Deck MK.2,Electronics Accessories,East,1,149.0,0.0,149.0,92.0,57.0,PayPal
+ORD-2025228,2024-07-05,CUST-0099,Priya Brown,Neodymium Magnetic Whiteboard,Office Supplies,West,1,160.0,0.05,152.0,85.0,67.0,UPI
+ORD-2025229,2024-12-07,CUST-0036,Liam Gonzalez,Under-Desk Filing Cabinet,Furniture,West,2,210.0,0.05,399.0,260.0,139.0,UPI
+ORD-2025230,2025-06-29,CUST-0138,Grace Patel,Under-Desk Filing Cabinet,Furniture,North,2,210.0,0.0,420.0,260.0,160.0,Corporate Net 30
+ORD-2025231,2024-08-12,CUST-0023,Benjamin Martin,LED Desk Task Light,Furniture,North,1,79.0,0.15,67.15,38.0,29.15,Wire Transfer
+ORD-2025232,2025-04-30,CUST-0035,Aarav Patel,MacBook Pro 16-Inch,Technology,East,1,2499.0,0.1,2249.1,1800.0,449.1,PayPal
+ORD-2025233,2024-10-28,CUST-0118,Chloe Davis,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.0,210.0,130.0,80.0,PayPal
+ORD-2025234,2024-04-30,CUST-0037,Ava Moore,Elgato Stream Deck MK.2,Electronics Accessories,North,2,149.0,0.0,298.0,184.0,114.0,Credit Card
+ORD-2025235,2024-04-18,CUST-0149,Harper Iyer,Dell 4K UltraSharp 27-Inch,Technology,Central,4,620.0,0.0,2480.0,1640.0,840.0,Wire Transfer
+ORD-2025236,2024-05-24,CUST-0021,Daniel Johnson,Steelcase Gesture Chair,Furniture,North,2,1250.0,0.1,2250.0,1640.0,610.0,PayPal
+ORD-2025237,2024-07-05,CUST-0121,Siddharth Hernandez,Ergonomic Monitor Arm Dual,Furniture,West,1,149.0,0.0,149.0,85.0,64.0,Credit Card
+ORD-2025238,2024-10-20,CUST-0029,Charlotte Perez,Herman Miller Aeron Chair,Furniture,North,2,1395.0,0.0,2790.0,1840.0,950.0,PayPal
+ORD-2025239,2024-01-12,CUST-0102,Emma White,Elgato Stream Deck MK.2,Electronics Accessories,West,2,149.0,0.1,268.2,184.0,84.2,Corporate Net 30
+ORD-2025240,2025-05-28,CUST-0079,Olivia Perez,Under-Desk Filing Cabinet,Furniture,South,1,210.0,0.0,210.0,130.0,80.0,UPI
+ORD-2025241,2024-05-08,CUST-0055,Daniel Verma,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.0,149.0,88.0,61.0,Corporate Net 30
+ORD-2025242,2024-03-20,CUST-0120,Evelyn Davis,Logitech Brio 4K Webcam,Electronics Accessories,West,3,199.0,0.0,597.0,345.0,252.0,Wire Transfer
+ORD-2025243,2025-03-10,CUST-0050,Amelia Thompson,Moleskine Smart Notebook Set,Office Supplies,North,1,45.0,0.05,42.75,22.0,20.75,Wire Transfer
+ORD-2025244,2024-01-29,CUST-0062,Aditya Taylor,Premium Gel Pen 12-Pack,Office Supplies,Central,1,24.0,0.0,24.0,9.0,15.0,Credit Card
+ORD-2025245,2024-11-12,CUST-0049,Daniel Hernandez,Herman Miller Aeron Chair,Furniture,South,1,1395.0,0.2,1116.0,920.0,196.0,Corporate Net 30
+ORD-2025246,2024-02-15,CUST-0145,Ava Sharma,Anker 100W GaN Fast Charger,Electronics Accessories,North,1,65.0,0.2,52.0,32.0,20.0,Credit Card
+ORD-2025247,2024-12-31,CUST-0073,Vikram Sharma,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,South,1,149.0,0.0,149.0,88.0,61.0,Wire Transfer
+ORD-2025248,2024-05-12,CUST-0025,Nora Smith,Heavy Duty Paper Shredder,Office Supplies,Central,1,220.0,0.1,198.0,130.0,68.0,PayPal
+ORD-2025249,2024-01-25,CUST-0098,Olivia Lopez,Belkin MagSafe 3-in-1 Stand,Electronics Accessories,North,1,149.0,0.0,149.0,88.0,61.0,UPI
+ORD-2025250,2024-03-21,CUST-0024,Rohan Rodriguez,Autonomous SmartDesk Pro,Furniture,South,3,650.0,0.0,1950.0,1230.0,720.0,Corporate Net 30

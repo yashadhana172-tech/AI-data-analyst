@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Executive Analytics Report - Sample Sales Test</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #1e293b; max-width: 900px; margin: 40px auto; padding: 0 20px; }
+    h1 { color: #0f172a; border-bottom: 2px solid #6366f1; padding-bottom: 12px; }
+    h2 { color: #1e1b4b; margin-top: 30px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px; }
+    .badge { background: #e0e7ff; color: #3730a3; padding: 4px 10px; border-radius: 9999px; font-weight: 600; font-size: 14px; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 14px; }
+    th, td { border: 1px solid #cbd5e1; padding: 10px 12px; text-align: left; }
+    th { background: #f8fafc; font-weight: 600; color: #334155; }
+    tr:nth-child(even) { background: #f8fafc; }
+    .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0; }
+    .kpi-card { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; }
+    .kpi-val { font-size: 24px; font-weight: 700; color: #4f46e5; }
+    .kpi-label { font-size: 12px; color: #64748b; text-transform: uppercase; margin-top: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Executive Analytics Report: Sample Sales Test</h1>
+  <p><strong>Generated:</strong> October 08, 2026 &nbsp;|&nbsp; <span class="badge">Quality Score: 90.0%</span></p>
+
+  <div class="kpi-grid">
+    <div class="kpi-card"><div class="kpi-val">1,250</div><div class="kpi-label">Total Rows</div></div>
+    <div class="kpi-card"><div class="kpi-val">14</div><div class="kpi-label">Columns</div></div>
+    <div class="kpi-card"><div class="kpi-val">100.0%</div><div class="kpi-label">Completeness</div></div>
+    <div class="kpi-card"><div class="kpi-val">0</div><div class="kpi-label">Duplicates</div></div>
+  </div>
+
+  <h2>1. Executive Summary</h2>
+  <p>This comprehensive analytical evaluation synthesizes data health, operational metrics, and strategic performance indicators for <strong>Sample Sales Test</strong>. The dataset contains <strong>1,250 records</strong> across <strong>14 attributes</strong>, exhibiting a strong data readiness score of <strong>90.0%</strong>.</p>
+
+  <h2>2. Key Metrics & Column Distributions</h2>
+  <table>
+    <thead>
+      <tr><th>Attribute</th><th>Type</th><th>Mean</th><th>Median</th><th>Min</th><th>Max</th></tr>
+    </thead>
+    <tbody>
+<tr><td>order_id</td><td>Categorical (1250 unique)</td><td>-</td><td>-</td><td>Top: ORD-2024001</td><td>Freq: 1</td></tr><tr><td>order_date</td><td>Categorical (476 unique)</td><td>-</td><td>-</td><td>Top: 2024-12-09</td><td>Freq: 8</td></tr><tr><td>customer_id</td><td>Categorical (150 unique)</td><td>-</td><td>-</td><td>Top: CUST-0024</td><td>Freq: 18</td></tr><tr><td>customer_name</td><td>Categorical (139 unique)</td><td>-</td><td>-</td><td>Top: Vikram Sharma</td><td>Freq: 27</td></tr><tr><td>product_name</td><td>Categorical (31 unique)</td><td>-</td><td>-</td><td>Top: Elgato Stream Deck MK.2</td><td>Freq: 64</td></tr><tr><td>category</td><td>Categorical (4 unique)</td><td>-</td><td>-</td><td>Top: Electronics Accessories</td><td>Freq: 334</td></tr><tr><td>region</td><td>Categorical (5 unique)</td><td>-</td><td>-</td><td>Top: South</td><td>Freq: 288</td></tr><tr><td>quantity</td><td>Numeric</td><td>2.0936</td><td>2.0</td><td>1.0</td><td>10.0</td></tr><tr><td>unit_price</td><td>Numeric</td><td>470.9776</td><td>189.0</td><td>24.0</td><td>2499.0</td></tr><tr><td>discount</td><td>Numeric</td><td>0.0502</td><td>0.0</td><td>0.0</td><td>0.25</td></tr><tr><td>revenue</td><td>Numeric</td><td>951.8256</td><td>342.0</td><td>19.2</td><td>19992.0</td></tr><tr><td>cost</td><td>Numeric</td><td>668.8888</td><td>225.0</td><td>9.0</td><td>18000.0</td></tr><tr><td>profit</td><td>Numeric</td><td>282.9368</td><td>123.975</td><td>10.2</td><td>4750.0</td></tr><tr><td>payment_method</td><td>Categorical (5 unique)</td><td>-</td><td>-</td><td>Top: UPI</td><td>Freq: 288</td></tr>
+    </tbody>
+  </table>
+
+  <h2>3. Strategic Recommendations</h2>
+  <ul>
+    <li><strong>Prioritize Core Growth Segments:</strong> Concentrate inventory and demand generation on peak-performing categories.</li>
+    <li><strong>Calibrate Discount Governance:</strong> Protect margins by reviewing high-discount brackets.</li>
+    <li><strong>Institutionalize Automated Reporting:</strong> Establish continuous monitoring with InsightAI data pipelines.</li>
+  </ul>
+</body>
+</html>
